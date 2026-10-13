@@ -1,7 +1,7 @@
 {
   "id": "8fe17130d32e1d67",
   "name": "UK S5E1",
-  "updated": "2026-10-13T23:13:42.1969042+08:00",
+  "updated": "2026-10-14T00:33:17.1786046+08:00",
   "questions": [
     {
       "level": 90,
@@ -236,7 +236,7 @@
     {
       "level": 1,
       "kind": "text",
-      "text": "Look at the image below. Beginning at the START each time, LLL = A, and RRR = H. What word is represented by the following?",
+      "text": "Look at the image below. Beginning at the START each time, LLL = A, and RRR = H. What word is represented by the following? LLR LLL LRR RRL RLL",
       "image": "/media/onepct/ff9cd46f61e42b236b89f4bf.png",
       "answer": 0,
       "accept": [
@@ -245,7 +245,7 @@
       "answerText": "BADGE",
       "answerImage": "/media/onepct/acd3339f09001bc95365a2f2.png",
       "why": "L and R represent Left and Right and dictate where you go at each junction.",
-      "textHtml": "Look at the image below. Beginning at the START each time, LLL = A, and RRR = H. What word is represented by the following?",
+      "textHtml": "Look at the image below. Beginning at the START each time, LLL = A, and RRR = H. What word is represented by the following? \u003cspan style=\"font-weight: bold; font-size: xx-large\"\u003eLLR LLL LRR RRL RLL\u003c/span\u003e",
       "whyHtml": "L and R represent Left and Right and dictate where you go at each junction.",
       "answerHtml": "BADGE",
       "check": "auto"
