@@ -1,7 +1,7 @@
 {
   "id": "9c1280600476d0fe",
   "name": "US S3E1",
-  "updated": "2026-10-13T17:36:57.9036074+08:00",
+  "updated": "2026-10-14T00:41:37.4556911+08:00",
   "questions": [
     {
       "level": 90,
@@ -100,6 +100,7 @@
       "level": 45,
       "kind": "choice",
       "text": "Ana, Gina, and James are each standing on a different step in this picture. If Ana is two steps higher than Gina and Gina is one step below James, which person in this picture is tallest?",
+      "image": "/media/onepct/c8d8191767a33e759c503686.png",
       "options": [
         "Ana",
         "Gina",
