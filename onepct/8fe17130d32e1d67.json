@@ -1,7 +1,7 @@
 {
   "id": "8fe17130d32e1d67",
   "name": "UK S5E1",
-  "updated": "2026-10-14T00:33:17.1786046+08:00",
+  "updated": "2026-10-14T01:56:37.5124609+08:00",
   "questions": [
     {
       "level": 90,
@@ -36,17 +36,18 @@
     {
       "level": 70,
       "kind": "text",
-      "text": "Which two of these animals join together to form a word which is not an animal?",
+      "text": "Which two of these animals join together to form a word which is not an animal? (Format: X and Y, any order)",
       "image": "/media/onepct/445551be7c766ed2bc85f0f5.png",
       "answer": 0,
       "accept": [
-        "sealant"
+        "seal and ant",
+        "ant and seal"
       ],
-      "answerText": "sealant",
+      "answerText": "seal and ant",
       "why": "Seal + ant = sealant",
-      "textHtml": "Which two of these animals join together to form a word which is not an animal?",
+      "textHtml": "Which two of these animals join together to form a word which is not an animal? (Format: X and Y, any order)",
       "whyHtml": "Seal + ant = sealant",
-      "answerHtml": "sealant",
+      "answerHtml": "seal and ant",
       "check": "auto"
     },
     {
