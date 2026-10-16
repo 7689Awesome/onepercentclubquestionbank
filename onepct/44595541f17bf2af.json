@@ -1,0 +1,294 @@
+{
+  "id": "44595541f17bf2af",
+  "name": "US S3E3",
+  "updated": "2026-10-16T17:26:32.4837862+08:00",
+  "questions": [
+    {
+      "level": 90,
+      "kind": "choice",
+      "text": "One of these kids snuck a cookie out of this cookie jar after art class. The culprit left a handprint right on the jar. Who snuck a cookie?",
+      "image": "/media/onepct/0fa580e8580685832b74067f.png",
+      "options": [
+        "Picture A",
+        "Picture B",
+        "Picture C"
+      ],
+      "answer": 2,
+      "why": "Sara left a print from her right hand.",
+      "textHtml": "One of these kids snuck a cookie out of this cookie jar after art class. The culprit left a handprint right on the jar. Who snuck a cookie?",
+      "whyHtml": "Sara left a print from her right hand.",
+      "optionImages": [
+        "/media/onepct/7aa08024e771419de74a8e75.png",
+        "/media/onepct/a1578234762cf1d3e47bd0ab.png",
+        "/media/onepct/563f42945210c1ad72e20cfa.png"
+      ]
+    },
+    {
+      "level": 80,
+      "kind": "choice",
+      "text": "What word is created by grouping the bold letters in order, then grouping the italic letters in order, and then putting those two resulting words together?",
+      "image": "/media/onepct/b17b2db963fe3cf6db5bed93.png",
+      "options": [
+        "ALTERNATE",
+        "LATELY",
+        "LITERALLY",
+        "ALIENATE"
+      ],
+      "answer": 2,
+      "answerImage": "/media/onepct/19edd4297068cf365299a686.png",
+      "textHtml": "What word is created by grouping the bold letters in order, then grouping the italic letters in order, and then putting those two resulting words together?",
+      "optionsHtml": [
+        "ALTERNATE",
+        "LATELY",
+        "LITERALLY",
+        "ALIENATE"
+      ]
+    },
+    {
+      "level": 70,
+      "kind": "choice",
+      "text": "When put together, which pair of pieces will look exactly like this kite?",
+      "image": "/media/onepct/ca4e2f7438440d9e966d0e73.png",
+      "options": [
+        "Picture A",
+        "Picture B",
+        "Picture C"
+      ],
+      "answer": 0,
+      "answerImage": "/media/onepct/c9804bc44f414b3013abe218.png",
+      "textHtml": "When put together, which pair of pieces will look exactly like this kite?",
+      "optionImages": [
+        "/media/onepct/5676da4aca7e073918be9289.png",
+        "/media/onepct/323d1c658d50a9cb61daccd7.png",
+        "/media/onepct/c54777867970183a62c0c046.png"
+      ]
+    },
+    {
+      "level": 60,
+      "kind": "text",
+      "text": "How many squares of this grid contain a purple flower on a green background",
+      "image": "/media/onepct/3264e49b466861de2fbe62c2.png",
+      "answer": 0,
+      "accept": [
+        "1",
+        "one"
+      ],
+      "answerText": "1",
+      "answerImage": "/media/onepct/44c8a634879e144023f3a896.png",
+      "textHtml": "How many squares of this grid contain a purple flower on a green background",
+      "answerHtml": "1",
+      "check": "auto"
+    },
+    {
+      "level": 50,
+      "kind": "choice",
+      "text": "Which of the symbols below comes next in this sequence?",
+      "image": "/media/onepct/c18ea05496ead92ddd0482c7.png",
+      "options": [
+        "Picture A",
+        "Picture B",
+        "Picture C"
+      ],
+      "answer": 2,
+      "answerImage": "/media/onepct/8a3d7d11847d8a26d890c169.png",
+      "why": "The symbols are the rotated numbers 1 - 5 so the next number is 6.",
+      "textHtml": "Which of the symbols below comes next in this sequence?",
+      "whyHtml": "The symbols are the rotated numbers 1 - 5 so the next number is 6.",
+      "optionImages": [
+        "/media/onepct/40b59effc605b3992ae8ca75.png",
+        "/media/onepct/cc1d25713a6ffede157dfbab.png",
+        "/media/onepct/254550b31d6d7e54da4afcb8.png"
+      ]
+    },
+    {
+      "level": 45,
+      "kind": "choice",
+      "text": "If you interlock your 10 fingers, with your left hand on the bottom, which finger is sixth, starting with your lowest finger?",
+      "options": [
+        "Right pinkie",
+        "Right middle",
+        "Left pointer",
+        "Right ring"
+      ],
+      "answer": 1,
+      "answerImage": "/media/onepct/2413fe4187ec1727c3dc0ee0.png",
+      "why": "Counting from the bottom, the sixth finger is your right middle finger.",
+      "textHtml": "If you interlock your 10 fingers, with your left hand on the bottom, which finger is sixth, starting with your lowest finger?",
+      "whyHtml": "Counting from the bottom, the sixth finger is your right middle finger.",
+      "optionsHtml": [
+        "Right pinkie",
+        "Right middle",
+        "Left pointer",
+        "Right ring"
+      ]
+    },
+    {
+      "level": 40,
+      "kind": "choice",
+      "text": "If you hopped up this hopscotch, landing on only the numbers in red and green spaces, then turned around and hopped back down landing on only the odd numbers, in which direction would the numbers add up to a higher total?",
+      "options": [
+        "UP",
+        "DOWN",
+        "BOTH EQUAL"
+      ],
+      "answer": 2,
+      "why": "Going up, you'd hop on 1 + 3 + 4 + 7 + 10 = 25. On the way back, you'd hop on 9 + 7 + 5 + 3 + 1 = 25.",
+      "textHtml": "If you hopped up this hopscotch, landing on only the numbers in red and green spaces, then turned around and hopped back down landing on only the odd numbers, in which direction would the numbers add up to a higher total?",
+      "whyHtml": "Going up, you\u0026#39;d hop on 1 + 3 + 4 + 7 + 10 = 25. On the way back, you\u0026#39;d hop on 9 + 7 + 5 + 3 + 1 = 25.",
+      "optionsHtml": [
+        "UP",
+        "DOWN",
+        "BOTH EQUAL"
+      ]
+    },
+    {
+      "level": 35,
+      "kind": "choice",
+      "text": "These knights each carry a flag bearing their family name and the territory they rule over. However, one is an impostor. Which knight doesn't belong?",
+      "image": "/media/onepct/9a14b49fe4297f17240a1936.png",
+      "options": [
+        "Picture A",
+        "Picture B",
+        "Picture C",
+        "Picture D"
+      ],
+      "answer": 3,
+      "why": "Three of the names contain the direction of that knight's territory - NORTH (UP), EAST (RIGHT), SOUTH (DOWN). However, BENNET does not contain a direction.",
+      "textHtml": "These knights each carry a flag bearing their family name and the territory they rule over. However, one is an impostor. Which knight doesn\u0026#39;t belong?",
+      "whyHtml": "Three of the names contain the direction of that knight\u0026#39;s territory - NORTH (UP), EAST (RIGHT), SOUTH (DOWN). However, BENNET does not contain a direction.",
+      "optionImages": [
+        "/media/onepct/b55dc32f75d839233c85bae9.png",
+        "/media/onepct/ecd9c8c859af2017a1656b30.png",
+        "/media/onepct/5f204f16068260fd39f3647c.png",
+        "/media/onepct/312cafb0d68be47c127da490.png"
+      ]
+    },
+    {
+      "level": 30,
+      "kind": "choice",
+      "text": "Which of the four tiles to the right can be rotated and placed in the middle of this pattern so its edges all match the surrounding colors?",
+      "image": "/media/onepct/84863bf7788134480b2c279f.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 1,
+      "answerImage": "/media/onepct/db887c4c01d15b17d35b11a2.png",
+      "why": "Tile B rotated 180 degrees fills the pattern.",
+      "textHtml": "Which of the four tiles to the right can be rotated and placed in the middle of this pattern so its edges all match the surrounding colors?",
+      "whyHtml": "Tile B rotated 180 degrees fills the pattern.",
+      "optionsHtml": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "level": 25,
+      "kind": "text",
+      "text": "In what year would a person born in 1990 turn the age that is the sum of the digits in the number 1990?",
+      "answer": 0,
+      "accept": [
+        "2009"
+      ],
+      "answerText": "2009",
+      "why": "1+9+9+0 = 19. A person born in 1990 would have had their 19th birthday in 2009.",
+      "textHtml": "In what year would a person born in 1990 turn the age that is the sum of the digits in the number 1990?",
+      "whyHtml": "1+9+9+0 = 19. A person born in 1990 would have had their 19th birthday in 2009.",
+      "answerHtml": "2009",
+      "check": "auto"
+    },
+    {
+      "level": 20,
+      "kind": "choice",
+      "text": "How many total syllables are there in the names of the letters below?",
+      "image": "/media/onepct/2aead1ef508e8dd7cd2d8425.png",
+      "options": [
+        "26",
+        "28",
+        "29",
+        "30"
+      ],
+      "answer": 1,
+      "why": "Every letter of the alphabet is one syllable with the exception of W, which has 3. 25 * 1 + 1 * 3 = 28. It's not 29 because you might have included the \"and\" in \"Y and Z\" if you were singing the alphabet.",
+      "textHtml": "How many total syllables are there in the names of the letters below?",
+      "whyHtml": "Every letter of the alphabet is one syllable with the exception of W, which has 3. 25 * 1 + 1 * 3 = 28. It\u0026#39;s not 29 because you might have included the \u0026quot;and\u0026quot; in \u0026quot;Y and Z\u0026quot; if you were singing the alphabet.",
+      "optionsHtml": [
+        "26",
+        "28",
+        "29",
+        "30"
+      ]
+    },
+    {
+      "level": 15,
+      "kind": "text",
+      "text": "In the image, what number should logically replace the question mark next to the R?",
+      "image": "/media/onepct/9214640521d334858194f6e4.png",
+      "answer": 0,
+      "accept": [
+        "3"
+      ],
+      "answerText": "3",
+      "why": "The chart lists how often each letter appears in the names of the days of the week. There are three R's: one each in Thursday, Friday, and Saturday.",
+      "textHtml": "In the image, what number should logically replace the question mark next to the R?",
+      "whyHtml": "The chart lists how often each letter appears in the names of the days of the week. There are three R\u0026#39;s: one each in Thursday, Friday, and Saturday.",
+      "answerHtml": "3",
+      "check": "auto"
+    },
+    {
+      "level": 10,
+      "kind": "text",
+      "text": "Mary runs twice as fast as Pat. They are running a three-lap race, starting and finishing at the marked line and running counterclockwise around the track. Mary is half a lap away from finishing. Approximately where on the track is Pat? (Type the letter)",
+      "image": "/media/onepct/a2ff59436f44353fa718fe52.png",
+      "answer": 0,
+      "accept": [
+        "B"
+      ],
+      "answerText": "B",
+      "answerImage": "/media/onepct/17792ea18d3726c92d0586e4.png",
+      "why": "Mary has run 2 and 1/2 laps and runs twice as fast as Pat. (5/2 /2 = 5/4) so Pat has run 1 and 1/4 laps, which will put him at point B.",
+      "textHtml": "Mary runs twice as fast as Pat. They are running a three-lap race, starting and finishing at the marked line and running counterclockwise around the track. Mary is half a lap away from finishing. Approximately where on the track is Pat? (Type the letter)",
+      "whyHtml": "Mary has run 2 and 1/2 laps and runs twice as fast as Pat. (5/2 /2 = 5/4) so Pat has run 1 and 1/4 laps, which will put him at point B.",
+      "answerHtml": "B",
+      "check": "auto"
+    },
+    {
+      "level": 5,
+      "kind": "text",
+      "text": "What two numbers are needed on the last line of this sequence? (Format: X and Y, any order)",
+      "image": "/media/onepct/5047db5804312a3cacbe2432.png",
+      "answer": 0,
+      "accept": [
+        "4 and 10",
+        "10 and 4"
+      ],
+      "answerText": "4 and 10",
+      "answerImage": "/media/onepct/97a0ad00a76e9ba1220a6b58.png",
+      "why": "The numbers on the right are counting down from 9 to 0. The numbers on the left have to form a correct equation.",
+      "textHtml": "What two numbers are needed on the last line of this sequence? (Format: X and Y, any order)",
+      "whyHtml": "The numbers on the right are counting down from 9 to 0. The numbers on the left have to form a correct equation.",
+      "answerHtml": "4 and 10",
+      "check": "auto"
+    },
+    {
+      "level": 1,
+      "kind": "text",
+      "text": "How many dots (i.e. \".\") – including any used in punctuation and letters… – are used in writing this question?",
+      "answer": 0,
+      "accept": [
+        "17",
+        "seventeen"
+      ],
+      "answerText": "17",
+      "why": "\"i.e.\" has 2 periods, \"…\" has 3 dots, \"?\" has 1 dot, and \".\" has 1 dot. And then there are 10 i's in the question",
+      "textHtml": "How many dots (i.e. \u0026quot;.\u0026quot;) – including any used in punctuation and letters… – are used in writing this question?",
+      "whyHtml": "\u0026quot;i.e.\u0026quot; has 2 periods, \u0026quot;…\u0026quot; has 3 dots, \u0026quot;?\u0026quot; has 1 dot, and \u0026quot;.\u0026quot; has 1 dot. And then there are 10 i\u0026#39;s in the question",
+      "answerHtml": "17",
+      "check": "auto"
+    }
+  ]
+}
