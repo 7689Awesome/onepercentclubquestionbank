@@ -1,0 +1,263 @@
+{
+  "id": "7a4288aa413ef5a6",
+  "name": "UK S4E3",
+  "updated": "2026-10-16T19:35:21.1087049+08:00",
+  "questions": [
+    {
+      "level": 90,
+      "kind": "choice",
+      "text": "Which of these does not make a word when the letters are placed in reverse order?",
+      "options": [
+        "STUN",
+        "DUST",
+        "SNUB"
+      ],
+      "answer": 1,
+      "why": "DUST reversed is TSUD, which isn't a word.",
+      "textHtml": "Which of these does not make a word when the letters are placed in reverse order?",
+      "whyHtml": "DUST reversed is TSUD, which isn\u0026#39;t a word.",
+      "optionsHtml": [
+        "STUN",
+        "DUST",
+        "SNUB"
+      ]
+    },
+    {
+      "level": 80,
+      "kind": "choice",
+      "text": "Shanti is bored and removes her sunglasses, keys, pen, train ticket and lipstick from her handbag, puts them in alphabetical order and takes a photo from above. Which of these is the correct photo?",
+      "options": [
+        "Picture A",
+        "Picture B"
+      ],
+      "answer": 1,
+      "why": "In alphabetical order, it goes Keys, Lipstick, Pen, Sunglasses, and Train Ticket.",
+      "textHtml": "Shanti is bored and removes her sunglasses, keys, pen, train ticket and lipstick from her handbag, puts them in alphabetical order and takes a photo from above. Which of these is the correct photo?",
+      "whyHtml": "In alphabetical order, it goes Keys, Lipstick, Pen, Sunglasses, and Train Ticket.",
+      "optionImages": [
+        "/media/onepct/f84ea35d5445e35301d67ae0.png",
+        "/media/onepct/33354cdec90903444a18d153.png"
+      ]
+    },
+    {
+      "level": 70,
+      "kind": "text",
+      "text": "Serena is about to cast a vote for her local council. She picks the candidate with a name that is an anagram of 'electoral system'. Who does she vote for? (Type only the letter)",
+      "image": "/media/onepct/f847fcda62a6570e6a39ec96.png",
+      "answer": 0,
+      "accept": [
+        "B"
+      ],
+      "answerText": "B",
+      "why": "B: Scarlett Moseley. It's the only name that has any Ss.",
+      "textHtml": "Serena is about to cast a vote for her local council. She picks the candidate with a name that is an anagram of \u0026#39;electoral system\u0026#39;. Who does she vote for? (Type only the letter)",
+      "whyHtml": "B: Scarlett Moseley. It\u0026#39;s the only name that has any Ss.",
+      "answerHtml": "B",
+      "check": "manual"
+    },
+    {
+      "level": 60,
+      "kind": "choice",
+      "text": "Amlan is very particular about how he lays out the apps on his home screen. Which of these completes Amlan's layout?",
+      "image": "/media/onepct/f923f6dfe3a09f9bf4847433.png",
+      "options": [
+        "Picture A",
+        "Picture B",
+        "Picture C"
+      ],
+      "answer": 2,
+      "why": "The logos on the apps spell out DON'T CRY OVER SPILT… and so MILK completes the sequence.",
+      "textHtml": "Amlan is very particular about how he lays out the apps on his home screen. Which of these completes Amlan\u0026#39;s layout?",
+      "whyHtml": "The logos on the apps spell out DON\u0026#39;T CRY OVER SPILT… and so MILK completes the sequence.",
+      "optionImages": [
+        "/media/onepct/0bf646628c869a73ac91e9e5.png",
+        "/media/onepct/e6d074c08e22cea76083b8f0.png",
+        "/media/onepct/8142d197fa2913f1f885ef5a.png"
+      ]
+    },
+    {
+      "level": 50,
+      "kind": "choice",
+      "text": "If even numbers are blue and odd numbers are red, what colour is red + red?",
+      "options": [
+        "Blue",
+        "Red"
+      ],
+      "answer": 0,
+      "why": "Two odd numbers always make an even number so two red make a blue.",
+      "textHtml": "If even numbers are blue and odd numbers are red, what colour is red + red?",
+      "whyHtml": "Two odd numbers always make an even number so two red make a blue.",
+      "optionsHtml": [
+        "Blue",
+        "Red"
+      ]
+    },
+    {
+      "level": 45,
+      "kind": "text",
+      "text": "Without reordering any letters, what fruit appears in the sentence below?",
+      "image": "/media/onepct/92a15b0659bcd0f288ab19bf.png",
+      "answer": 0,
+      "accept": [
+        "LEMON"
+      ],
+      "answerText": "LEMON",
+      "why": "It's found between WHILE and MONEY.",
+      "textHtml": "Without reordering any letters, what fruit appears in the sentence below?",
+      "whyHtml": "It\u0026#39;s found between WHILE and MONEY.",
+      "answerHtml": "LEMON",
+      "check": "auto"
+    },
+    {
+      "level": 40,
+      "kind": "text",
+      "text": "What one letter replaces the asterisks to complete this sentence?",
+      "image": "/media/onepct/2c2e48c860203d0229abcbcb.png",
+      "answer": 0,
+      "accept": [
+        "P"
+      ],
+      "answerText": "P",
+      "why": "This creates the sentence PIPPA'S PAMPERED PUPPIES POOP ON PURPLE PAPER.",
+      "textHtml": "What one letter replaces the asterisks to complete this sentence?",
+      "whyHtml": "This creates the sentence PIPPA\u0026#39;S PAMPERED PUPPIES POOP ON PURPLE PAPER.",
+      "answerHtml": "P",
+      "check": "auto"
+    },
+    {
+      "level": 35,
+      "kind": "choice",
+      "text": "Which of the options links the following?",
+      "image": "/media/onepct/1e6c3fe83de2818fa487ae41.png",
+      "options": [
+        "Picture A",
+        "Picture B",
+        "Picture C",
+        "Picture D"
+      ],
+      "answer": 3,
+      "why": "The word CAR goes in front of each of the words to make new words. This creates the words CARPET, CARGO, and CARNATION.",
+      "textHtml": "Which of the options links the following?",
+      "whyHtml": "The word CAR goes in front of each of the words to make new words. This creates the words CARPET, CARGO, and CARNATION.",
+      "optionImages": [
+        "/media/onepct/873a86512fbf37d13b566bc6.png",
+        "/media/onepct/41a25e0f1fa419212c97bdfc.png",
+        "/media/onepct/e6bf621f7cbb094d31f9e67d.png",
+        "/media/onepct/019c096d9ab2e72fc9256555.png"
+      ]
+    },
+    {
+      "level": 30,
+      "kind": "text",
+      "text": "If you begin at one of the corners of this square and move clockwise around the outer edge to finish in the center, what nine-letter word can you spell?",
+      "image": "/media/onepct/eadfb85a3e742804c5d8e5ee.png",
+      "answer": 0,
+      "accept": [
+        "searching"
+      ],
+      "answerText": "searching",
+      "why": "Start with the letter S and go clockwise around the board.",
+      "textHtml": "If you begin at one of the corners of this square and move clockwise around the outer edge to finish in the center, what nine-letter word can you spell?",
+      "whyHtml": "Start with the letter S and go clockwise around the board.",
+      "answerHtml": "searching",
+      "check": "auto"
+    },
+    {
+      "level": 25,
+      "kind": "text",
+      "text": "Jim is 6 ft 3 inches tall and when his friend Erica stands on a stool which is one foot tall, she becomes 2 inches taller than him. How tall is Erica? (Format: X feet Y inches)",
+      "answer": 0,
+      "accept": [
+        "5 feet 5 inches"
+      ],
+      "answerText": "5 feet 5 inches",
+      "why": "6 ft 3 plus 2 inches = 6 ft 5, then take away one foot for the stool = 5 ft 5 inches.",
+      "textHtml": "Jim is 6 ft 3 inches tall and when his friend Erica stands on a stool which is one foot tall, she becomes 2 inches taller than him. How tall is Erica? (Format: X feet Y inches)",
+      "whyHtml": "6 ft 3 plus 2 inches = 6 ft 5, then take away one foot for the stool = 5 ft 5 inches.",
+      "answerHtml": "5 feet 5 inches",
+      "check": "manual"
+    },
+    {
+      "level": 20,
+      "kind": "text",
+      "text": "What is the minimum number of arrows you need to turn for all the arrows to be pointing in the same direction?",
+      "image": "/media/onepct/48a63ebd2a705239999b4e68.png",
+      "answer": 0,
+      "accept": [
+        "10",
+        "ten"
+      ],
+      "answerText": "10",
+      "why": "There are more arrows pointing up than any other direction so you need to turn the others to match.",
+      "textHtml": "What is the minimum number of arrows you need to turn for all the arrows to be pointing in the same direction?",
+      "whyHtml": "There are more arrows pointing up than any other direction so you need to turn the others to match.",
+      "answerHtml": "10",
+      "check": "auto"
+    },
+    {
+      "level": 15,
+      "kind": "text",
+      "text": "Sam's brother was his best man and Lucy's sister was her maid of honor. In the seating plan from their wedding, how many people are sitting next to a blood relative?",
+      "image": "/media/onepct/1431081408006df2da8caaa3.png",
+      "answer": 0,
+      "accept": [
+        "4",
+        "four"
+      ],
+      "answerText": "4",
+      "why": "The Best Man and Groom's Mother are blood relatives. So are the Bride and Bride's Father.",
+      "textHtml": "Sam\u0026#39;s brother was his best man and Lucy\u0026#39;s sister was her maid of honor. In the seating plan from their wedding, how many people are sitting next to a blood relative?",
+      "whyHtml": "The Best Man and Groom\u0026#39;s Mother are blood relatives. So are the Bride and Bride\u0026#39;s Father.",
+      "answerHtml": "4",
+      "check": "manual"
+    },
+    {
+      "level": 10,
+      "kind": "text",
+      "text": "I saw this newspaper headline on a ski trip. Which word is the odd one out?",
+      "image": "/media/onepct/71c125fa927b0866822afd0a.png",
+      "answer": 0,
+      "accept": [
+        "require"
+      ],
+      "answerText": "require",
+      "why": "It's the only word that doesn't contain consecutive double letters.",
+      "textHtml": "I saw this newspaper headline on a ski trip. Which word is the odd one out?",
+      "whyHtml": "It\u0026#39;s the only word that doesn\u0026#39;t contain consecutive double letters.",
+      "answerHtml": "require",
+      "check": "auto"
+    },
+    {
+      "level": 5,
+      "kind": "text",
+      "text": "What replaces the question marks in this sequence?",
+      "image": "/media/onepct/df6068c5a21644fd421f7751.png",
+      "answer": 0,
+      "accept": [
+        "JA3131"
+      ],
+      "answerText": "JA3131",
+      "why": "The sequence consists of the initial letters of the months of the year followed by the number of days in those months. The next in the sequences is July August 3131.",
+      "textHtml": "What replaces the question marks in this sequence?",
+      "whyHtml": "The sequence consists of the initial letters of the months of the year followed by the number of days in those months. The next in the sequences is July August 3131.",
+      "answerHtml": "JA3131",
+      "check": "auto"
+    },
+    {
+      "level": 1,
+      "kind": "text",
+      "text": "If you remove all the underlined letters from the sentence below, what word can be spelt if you rearrange all of the remaining letters?",
+      "image": "/media/onepct/927d5a5e63fe1d739dc84ac3.png",
+      "answer": 0,
+      "accept": [
+        "elephant"
+      ],
+      "answerText": "elephant",
+      "why": "NLTHAPEE -\u003e ELEPHANT",
+      "textHtml": "If you remove all the underlined letters from the sentence below, what word can be spelt if you rearrange all of the remaining letters?",
+      "whyHtml": "NLTHAPEE -\u0026gt; ELEPHANT",
+      "answerHtml": "elephant",
+      "check": "auto"
+    }
+  ]
+}
