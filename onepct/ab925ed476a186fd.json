@@ -1,0 +1,269 @@
+{
+  "id": "ab925ed476a186fd",
+  "name": "UK S4E2",
+  "updated": "2026-10-16T17:42:36.7922106+08:00",
+  "questions": [
+    {
+      "level": 90,
+      "kind": "choice",
+      "text": "Four people are in a maze trying to reach the center. Which of them is going the wrong way?",
+      "image": "/media/onepct/e3f5718e5c02e96a9934e51e.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 1,
+      "why": "Person B is heading toward dead ends.",
+      "textHtml": "Four people are in a maze trying to reach the center. Which of them is going the wrong way?",
+      "whyHtml": "Person B is heading toward dead ends.",
+      "optionsHtml": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "level": 80,
+      "kind": "choice",
+      "text": "Lee always paints a circle. Lee never paints squares. Lee always paints four triangles. Which of these is one of Lee's paintings?",
+      "options": [
+        "Picture A",
+        "Picture B",
+        "Picture C"
+      ],
+      "answer": 0,
+      "why": "B has squares and C has only three triangles so it must be A.",
+      "textHtml": "Lee always paints a circle. Lee never paints squares. Lee always paints four triangles. Which of these is one of Lee\u0026#39;s paintings?",
+      "whyHtml": "B has squares and C has only three triangles so it must be A.",
+      "optionImages": [
+        "/media/onepct/bd17fb721bfa5b94ea973d5a.png",
+        "/media/onepct/19f09f52a3d8f01a6bbfb13f.png",
+        "/media/onepct/faf374f57e51fbec68ce6af0.png"
+      ]
+    },
+    {
+      "level": 70,
+      "kind": "text",
+      "text": "What board game is represented here?",
+      "image": "/media/onepct/14236717feeafab53b49dce8.png",
+      "answer": 0,
+      "accept": [
+        "scrabble"
+      ],
+      "answerText": "scrabble",
+      "why": "S + CRAB + BALL.",
+      "textHtml": "What board game is represented here?",
+      "whyHtml": "S + CRAB + BALL.",
+      "answerHtml": "scrabble",
+      "check": "auto"
+    },
+    {
+      "level": 60,
+      "kind": "text",
+      "text": "How many squares make up this pattern?",
+      "image": "/media/onepct/0c89b4d961778549c78d5d35.png",
+      "answer": 0,
+      "accept": [
+        "4",
+        "four"
+      ],
+      "answerText": "4",
+      "textHtml": "How many squares make up this pattern?",
+      "answerHtml": "4",
+      "check": "auto"
+    },
+    {
+      "level": 50,
+      "kind": "choice",
+      "text": "Which of the words that follow this sentence don't follow the word \"follow\" in this question?",
+      "options": [
+        "this",
+        "in",
+        "the",
+        "of"
+      ],
+      "answer": 3,
+      "why": "The sentence has \"follow this\", \"follow the\", and \"'follow' in\".",
+      "textHtml": "Which of the words that follow this sentence don\u0026#39;t follow the word \u0026quot;follow\u0026quot; in this question?",
+      "whyHtml": "The sentence has \u0026quot;follow this\u0026quot;, \u0026quot;follow the\u0026quot;, and \u0026quot;\u0026#39;follow\u0026#39; in\u0026quot;.",
+      "optionsHtml": [
+        "this",
+        "in",
+        "the",
+        "of"
+      ]
+    },
+    {
+      "level": 45,
+      "kind": "choice",
+      "text": "Alistair's dream celebrity dinner party would be Cameron Diaz, Ella Fitzgerald and Glenn Hoddle. What is Alistair's surname?",
+      "options": [
+        "Green",
+        "White",
+        "Coral",
+        "Brown"
+      ],
+      "answer": 3,
+      "why": "The initials of all the guests are consecutive letters, so his surname must begin with B.",
+      "textHtml": "Alistair\u0026#39;s dream celebrity dinner party would be Cameron Diaz, Ella Fitzgerald and Glenn Hoddle. What is Alistair\u0026#39;s surname?",
+      "whyHtml": "The initials of all the guests are consecutive letters, so his surname must begin with B.",
+      "optionsHtml": [
+        "Green",
+        "White",
+        "Coral",
+        "Brown"
+      ]
+    },
+    {
+      "level": 40,
+      "kind": "text",
+      "text": "What sport replaces the question mark?",
+      "image": "/media/onepct/48eda71eda7bfd452f82d345.png",
+      "answer": 0,
+      "accept": [
+        "golf"
+      ],
+      "answerText": "golf",
+      "why": "GOAL – AL + LF = GOLF",
+      "textHtml": "What sport replaces the question mark?",
+      "whyHtml": "GOAL – AL + LF = GOLF",
+      "answerHtml": "golf",
+      "check": "auto"
+    },
+    {
+      "level": 35,
+      "kind": "choice",
+      "text": "Which of the following words is still a recognised word if you substitute the first letter for the next letter in the alphabet and the last letter for the previous letter in the alphabet?",
+      "options": [
+        "BRINK",
+        "CROWN",
+        "CREST"
+      ],
+      "answer": 2,
+      "why": "The instructions would turn this word into DRESS.",
+      "textHtml": "Which of the following words is still a recognised word if you substitute the first letter for the next letter in the alphabet and the last letter for the previous letter in the alphabet?",
+      "whyHtml": "The instructions would turn this word into DRESS.",
+      "optionsHtml": [
+        "BRINK",
+        "CROWN",
+        "CREST"
+      ]
+    },
+    {
+      "level": 30,
+      "kind": "text",
+      "text": "What word replaces the question mark?",
+      "image": "/media/onepct/232af519630a95a385ed6366.png",
+      "answer": 0,
+      "accept": [
+        "Green"
+      ],
+      "answerText": "Green",
+      "why": "The words in each box dictate the colour of the next box.",
+      "textHtml": "What word replaces the question mark?",
+      "whyHtml": "The words in each box dictate the colour of the next box.",
+      "answerHtml": "Green",
+      "check": "auto"
+    },
+    {
+      "level": 25,
+      "kind": "text",
+      "text": "The answers to each of these clues all use the same three letters but in different orders. What are those three letters? (Format: X, Y, and Z, any order)",
+      "image": "/media/onepct/00b05995468c5bdc0f43d208.png",
+      "answer": 0,
+      "accept": [
+        "O, W, and N"
+      ],
+      "answerText": "O, W, and N",
+      "why": "POSSESS = OWN, IMMEDIATELY = NOW, and VICTORIOUS = WON.",
+      "textHtml": "The answers to each of these clues all use the same three letters but in different orders. What are those three letters? (Format: X, Y, and Z, any order)",
+      "whyHtml": "POSSESS = OWN, IMMEDIATELY = NOW, and VICTORIOUS = WON.",
+      "answerHtml": "O, W, and N",
+      "check": "manual"
+    },
+    {
+      "level": 20,
+      "kind": "text",
+      "text": "What weather-related phrase is represented here? Emperor Tiger. King Tabby. Queen Spaniel. Empress Labrador.",
+      "answer": 0,
+      "accept": [
+        "(It's) Raining cats and dogs"
+      ],
+      "answerText": "(It's) Raining cats and dogs",
+      "why": "Emperor, king, queen, and empress all 'reign'. Tiger and tabby are cats and spaniel and labrador are dogs.",
+      "textHtml": "What weather-related phrase is represented here? \u003cspan style=\"font-style: italic\"\u003eEmperor Tiger. King Tabby. Queen Spaniel. Empress Labrador.\u003c/span\u003e",
+      "whyHtml": "Emperor, king, queen, and empress all \u0026#39;reign\u0026#39;. Tiger and tabby are cats and spaniel and labrador are dogs.",
+      "answerHtml": "(It\u0026#39;s) Raining cats and dogs",
+      "check": "manual"
+    },
+    {
+      "level": 15,
+      "kind": "text",
+      "text": "What two letters can be placed in front of the following five words to create five new common words? (Format: X and Y, any order)",
+      "image": "/media/onepct/7658d4facacc5008e5e7ec99.png",
+      "answer": 0,
+      "accept": [
+        "D and R",
+        "R and D"
+      ],
+      "answerText": "D and R",
+      "answerImage": "/media/onepct/a5a73f862ab9b495db69865c.png",
+      "why": "Adding 'DR' to these words becomes DRAPED, DRINK, DRONE, DROWNED, and DROUGHT.",
+      "textHtml": "What two letters can be placed in front of the following five words to create five new common words? (Format: X and Y, any order)",
+      "whyHtml": "Adding \u0026#39;DR\u0026#39; to these words becomes DRAPED, DRINK, DRONE, DROWNED, and DROUGHT.",
+      "answerHtml": "D and R",
+      "check": "auto"
+    },
+    {
+      "level": 10,
+      "kind": "text",
+      "text": "Starting at 1, the first 10 odd numbers add up to 100. What do the first 10 even numbers add up to?",
+      "answer": 0,
+      "accept": [
+        "110"
+      ],
+      "answerText": "110",
+      "why": "2 + 4 + 6 + 8 + 10 + 12 + 14 + 16 + 18 + 20 = 110 OR you could just add 10 to 100 as each even number is 1 higher than the previous odd number.",
+      "textHtml": "Starting at 1, the first 10 odd numbers add up to 100. What do the first 10 even numbers add up to?",
+      "whyHtml": "2 + 4 + 6 + 8 + 10 + 12 + 14 + 16 + 18 + 20 = 110 OR you could just add 10 to 100 as each even number is 1 higher than the previous odd number.",
+      "answerHtml": "110",
+      "check": "auto"
+    },
+    {
+      "level": 5,
+      "kind": "text",
+      "text": "Without reordering any letters, how many animals appear in the sequence below?",
+      "image": "/media/onepct/238bce2526e2985015b1509c.png",
+      "answer": 0,
+      "accept": [
+        "6",
+        "six"
+      ],
+      "answerText": "6",
+      "why": "PHEASANT, SEALION, ANT, SEAL, TORTOISE and LION.",
+      "textHtml": "Without reordering any letters, how many animals appear in the sequence below?",
+      "whyHtml": "PHEASANT, SEALION, ANT, SEAL, TORTOISE and LION.",
+      "answerHtml": "6",
+      "check": "auto"
+    },
+    {
+      "level": 1,
+      "kind": "text",
+      "text": "The words below share a specific pattern. Why could VOTING also be part of the group?",
+      "image": "/media/onepct/36d4f088e59e898a09298222.png",
+      "answer": 0,
+      "accept": [
+        "They all contain the names of metals."
+      ],
+      "answerText": "They all contain the names of metals.",
+      "why": "BANDLEADER has LEAD, NICKELODEON has NICKEL, and SILVERBACK has SILVER.",
+      "textHtml": "The words below share a specific pattern. Why could VOTING also be part of the group?",
+      "whyHtml": "BANDLEADER has LEAD, NICKELODEON has NICKEL, and SILVERBACK has SILVER.",
+      "answerHtml": "They all contain the names of metals.",
+      "check": "manual"
+    }
+  ]
+}
