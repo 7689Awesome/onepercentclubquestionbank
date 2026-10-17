@@ -1,0 +1,24 @@
+{
+  "id": "gkseed49",
+  "kind": "standard",
+  "starter": {
+    "q": "Which planet is tilted on its axis by about 98 degrees, so that it effectively rolls around the Sun on its side?",
+    "a": "Uranus"
+  },
+  "topic": "The planets",
+  "bonuses": [
+    {
+      "q": "Which planet is the hottest in the solar system, even though it isn't the closest to the Sun?",
+      "a": "Venus"
+    },
+    {
+      "q": "What is the name of the giant volcano on Mars, the largest known in the solar system?",
+      "a": "Olympus Mons"
+    },
+    {
+      "q": "Which former planet was reclassified as a dwarf planet in 2006?",
+      "a": "Pluto"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.1077094+08:00"
+}

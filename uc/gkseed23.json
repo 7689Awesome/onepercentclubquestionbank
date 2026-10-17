@@ -1,0 +1,24 @@
+{
+  "id": "gkseed23",
+  "kind": "standard",
+  "starter": {
+    "q": "In computing, what do the letters CPU stand for?",
+    "a": "Central processing unit"
+  },
+  "topic": "Pioneers of computing",
+  "bonuses": [
+    {
+      "q": "Which mathematician is often called the first computer programmer for her notes on Charles Babbage's Analytical Engine?",
+      "a": "Ada Lovelace"
+    },
+    {
+      "q": "Which British scientist invented the World Wide Web in 1989 while working at CERN?",
+      "a": "Tim Berners-Lee"
+    },
+    {
+      "q": "Which mathematician proposed a test of machine intelligence in his 1950 paper 'Computing Machinery and Intelligence'?",
+      "a": "Alan Turing"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0432779+08:00"
+}

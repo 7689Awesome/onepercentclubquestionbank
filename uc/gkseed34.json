@@ -1,0 +1,24 @@
+{
+  "id": "gkseed34",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Greek philosopher, a pupil of Plato, was the tutor of Alexander the Great?",
+    "a": "Aristotle"
+  },
+  "topic": "Philosophers",
+  "bonuses": [
+    {
+      "q": "Which French philosopher wrote 'I think, therefore I am'?",
+      "a": "René Descartes"
+    },
+    {
+      "q": "Which Athenian philosopher was sentenced to death by drinking hemlock in 399 BC?",
+      "a": "Socrates"
+    },
+    {
+      "q": "Which German philosopher declared that 'God is dead' in The Gay Science?",
+      "a": "Friedrich Nietzsche"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0730917+08:00"
+}
