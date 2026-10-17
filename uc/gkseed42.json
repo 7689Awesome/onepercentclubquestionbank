@@ -1,0 +1,24 @@
+{
+  "id": "gkseed42",
+  "kind": "standard",
+  "starter": {
+    "q": "In Greek mythology, who flew too close to the Sun on wings of feathers and wax made by his father Daedalus?",
+    "a": "Icarus"
+  },
+  "topic": "Greek gods",
+  "bonuses": [
+    {
+      "q": "Who was the Greek god of the sea, usually shown with a trident?",
+      "a": "Poseidon"
+    },
+    {
+      "q": "Which goddess of wisdom was born fully armed from the head of Zeus?",
+      "a": "Athena"
+    },
+    {
+      "q": "Who was the messenger of the gods, often shown with winged sandals?",
+      "a": "Hermes"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0898311+08:00"
+}

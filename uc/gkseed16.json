@@ -1,0 +1,24 @@
+{
+  "id": "gkseed16",
+  "kind": "standard",
+  "starter": {
+    "q": "Which composer set Schiller's 'Ode to Joy' in the final movement of his Ninth Symphony?",
+    "a": "Ludwig van Beethoven"
+  },
+  "topic": "Composers",
+  "bonuses": [
+    {
+      "q": "Which Austrian composer wrote the operas The Magic Flute and Don Giovanni?",
+      "a": "Wolfgang Amadeus Mozart"
+    },
+    {
+      "q": "The ballets Swan Lake and The Nutcracker were composed by which Russian?",
+      "a": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "q": "Which Venetian composer wrote The Four Seasons, a set of four violin concertos?",
+      "a": "Antonio Vivaldi"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0350367+08:00"
+}

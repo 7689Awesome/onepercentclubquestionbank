@@ -1,0 +1,24 @@
+{
+  "id": "gkseed36",
+  "kind": "standard",
+  "starter": {
+    "q": "Which country contains more lakes than the rest of the world combined, among them Great Bear Lake and Great Slave Lake?",
+    "a": "Canada"
+  },
+  "topic": "The Great Lakes",
+  "bonuses": [
+    {
+      "q": "Which is the largest of the Great Lakes by area?",
+      "a": "Lake Superior"
+    },
+    {
+      "q": "Which is the only Great Lake lying entirely within the United States?",
+      "a": "Lake Michigan"
+    },
+    {
+      "q": "Niagara Falls is on the river that flows from Lake Erie into which other Great Lake?",
+      "a": "Lake Ontario"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0815084+08:00"
+}

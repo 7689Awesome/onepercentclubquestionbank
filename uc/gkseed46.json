@@ -1,0 +1,24 @@
+{
+  "id": "gkseed46",
+  "kind": "standard",
+  "starter": {
+    "q": "Which coloured part of the eye controls how much light gets in, by changing the size of the pupil?",
+    "a": "The iris"
+  },
+  "topic": "The senses",
+  "bonuses": [
+    {
+      "q": "Which layer at the back of the eye contains the light-sensitive rods and cones?",
+      "a": "The retina"
+    },
+    {
+      "q": "What is the scientific term for the sense of smell?",
+      "a": "Olfaction"
+    },
+    {
+      "q": "The cochlea, which turns sound into nerve signals, is in which part of the ear?",
+      "a": "The inner ear"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0963702+08:00"
+}

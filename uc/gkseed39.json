@@ -1,0 +1,24 @@
+{
+  "id": "gkseed39",
+  "kind": "standard",
+  "starter": {
+    "q": "Which metallic element is a liquid at room temperature?",
+    "a": "Mercury"
+  },
+  "topic": "Elements named after places",
+  "bonuses": [
+    {
+      "q": "Which element, symbol Am, is named after a continent?",
+      "a": "Americium"
+    },
+    {
+      "q": "Which element, discovered in 1875, is named after the Latin name for France?",
+      "a": "Gallium"
+    },
+    {
+      "q": "Which element, number 98, is named after a US state and the university where it was made?",
+      "a": "Californium"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0859464+08:00"
+}

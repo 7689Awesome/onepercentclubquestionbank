@@ -1,0 +1,24 @@
+{
+  "id": "gkseed15",
+  "kind": "standard",
+  "starter": {
+    "q": "Which is the largest and deepest of the world's oceans?",
+    "a": "The Pacific"
+  },
+  "topic": "Seas",
+  "bonuses": [
+    {
+      "q": "Which salt lake, bordered by Israel, the West Bank and Jordan, has a shoreline more than 400 metres below sea level?",
+      "a": "The Dead Sea"
+    },
+    {
+      "q": "The Bosphorus strait connects the Sea of Marmara to which sea?",
+      "a": "The Black Sea"
+    },
+    {
+      "q": "Which body of water, bordered by Russia, Kazakhstan, Turkmenistan, Iran and Azerbaijan, is the largest inland body of water in the world?",
+      "a": "The Caspian Sea"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0335042+08:00"
+}

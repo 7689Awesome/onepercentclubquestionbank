@@ -1,0 +1,24 @@
+{
+  "id": "gkseed11",
+  "kind": "standard",
+  "starter": {
+    "q": "Which author created the Belgian detective Hercule Poirot?",
+    "a": "Agatha Christie"
+  },
+  "topic": "Fictional detectives",
+  "bonuses": [
+    {
+      "q": "Which detective, created by Arthur Conan Doyle, lodged at 221B Baker Street?",
+      "a": "Sherlock Holmes"
+    },
+    {
+      "q": "Detective Inspector John Rebus of Edinburgh was created by which Scottish crime novelist?",
+      "a": "Ian Rankin"
+    },
+    {
+      "q": "Which elderly amateur sleuth, also created by Agatha Christie, lives in the village of St Mary Mead?",
+      "a": "Miss (Jane) Marple"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0266928+08:00"
+}

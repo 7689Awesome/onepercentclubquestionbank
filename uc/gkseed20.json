@@ -1,0 +1,24 @@
+{
+  "id": "gkseed20",
+  "kind": "standard",
+  "starter": {
+    "q": "Which part of a cell, often called its powerhouse, produces most of the cell's supply of ATP?",
+    "a": "The mitochondrion (mitochondria)"
+  },
+  "topic": "Cells",
+  "bonuses": [
+    {
+      "q": "Which organelles in plant cells contain chlorophyll and carry out photosynthesis?",
+      "a": "Chloroplasts"
+    },
+    {
+      "q": "What name is given to the cell division that produces two genetically identical daughter cells?",
+      "a": "Mitosis"
+    },
+    {
+      "q": "Which molecule's double-helix structure was described by Watson and Crick in 1953?",
+      "a": "DNA (deoxyribonucleic acid)"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.039728+08:00"
+}
