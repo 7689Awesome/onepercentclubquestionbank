@@ -1,0 +1,24 @@
+{
+  "id": "gkseed35",
+  "kind": "standard",
+  "starter": {
+    "q": "How many sides does a dodecagon have?",
+    "a": "Twelve"
+  },
+  "topic": "Platonic solids",
+  "bonuses": [
+    {
+      "q": "How many faces does an icosahedron have?",
+      "a": "Twenty"
+    },
+    {
+      "q": "Which Platonic solid has four triangular faces?",
+      "a": "The tetrahedron"
+    },
+    {
+      "q": "What shape are the twelve faces of a regular dodecahedron?",
+      "a": "Pentagons"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.077646+08:00"
+}

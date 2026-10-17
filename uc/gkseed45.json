@@ -1,0 +1,24 @@
+{
+  "id": "gkseed45",
+  "kind": "standard",
+  "starter": {
+    "q": "Which revolution began with the storming of the Bastille on 14 July 1789?",
+    "a": "The French Revolution"
+  },
+  "topic": "Revolutions",
+  "bonuses": [
+    {
+      "q": "Which revolutionary led the Bolsheviks to power in Russia in October 1917?",
+      "a": "Vladimir Lenin"
+    },
+    {
+      "q": "The American War of Independence began in 1775; in which year was the Declaration of Independence adopted?",
+      "a": "1776"
+    },
+    {
+      "q": "What name is given to the shift from hand production to machines and factories that began in Britain in the eighteenth century?",
+      "a": "The Industrial Revolution"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0947489+08:00"
+}

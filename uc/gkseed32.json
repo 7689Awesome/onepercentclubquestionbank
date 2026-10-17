@@ -1,0 +1,24 @@
+{
+  "id": "gkseed32",
+  "kind": "standard",
+  "starter": {
+    "q": "Which film won the first Academy Award for Best Animated Feature, presented in 2002?",
+    "a": "Shrek"
+  },
+  "topic": "Film directors",
+  "bonuses": [
+    {
+      "q": "Who directed Jaws, E.T. the Extra-Terrestrial and Jurassic Park?",
+      "a": "Steven Spielberg"
+    },
+    {
+      "q": "Which Japanese director, a co-founder of Studio Ghibli, made Spirited Away?",
+      "a": "Hayao Miyazaki"
+    },
+    {
+      "q": "Who directed Inception, the Dark Knight trilogy and Oppenheimer?",
+      "a": "Christopher Nolan"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.056043+08:00"
+}

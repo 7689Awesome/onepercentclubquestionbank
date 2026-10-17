@@ -1,0 +1,24 @@
+{
+  "id": "gkseed12",
+  "kind": "standard",
+  "starter": {
+    "q": "Which country is home to the ancient city of Petra, carved into rose-red sandstone cliffs by the Nabataeans?",
+    "a": "Jordan"
+  },
+  "topic": "Wonders of the world",
+  "bonuses": [
+    {
+      "q": "The Great Pyramid of Giza was built as the tomb of which pharaoh of the Fourth Dynasty?",
+      "a": "Khufu (accept Cheops)"
+    },
+    {
+      "q": "Machu Picchu, the fifteenth-century Inca citadel high in the Andes, is in which country?",
+      "a": "Peru"
+    },
+    {
+      "q": "The Hanging Gardens, one of the Seven Wonders of the Ancient World, were said to be in which ancient city in Mesopotamia?",
+      "a": "Babylon"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0271981+08:00"
+}

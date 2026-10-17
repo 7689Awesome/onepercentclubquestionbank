@@ -1,0 +1,24 @@
+{
+  "id": "gkseed41",
+  "kind": "standard",
+  "starter": {
+    "q": "Which instrument has 88 keys in its standard modern form?",
+    "a": "The piano"
+  },
+  "topic": "The orchestra",
+  "bonuses": [
+    {
+      "q": "What is the largest and lowest-pitched bowed string instrument in a standard orchestra?",
+      "a": "The double bass"
+    },
+    {
+      "q": "Which woodwind instrument traditionally gives the note to which the orchestra tunes?",
+      "a": "The oboe"
+    },
+    {
+      "q": "Which brass instrument changes pitch with a slide rather than valves?",
+      "a": "The trombone"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0886553+08:00"
+}

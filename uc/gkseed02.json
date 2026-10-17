@@ -1,0 +1,24 @@
+{
+  "id": "gkseed02",
+  "kind": "standard",
+  "starter": {
+    "q": "Which planet in our solar system has the shortest day, turning once on its axis in just under ten hours?",
+    "a": "Jupiter"
+  },
+  "topic": "Moons of the solar system",
+  "bonuses": [
+    {
+      "q": "Which moon of Jupiter, the most volcanically active body in the solar system, is named after a lover of Zeus who was turned into a heifer?",
+      "a": "Io"
+    },
+    {
+      "q": "Titan, the only moon known to have a thick atmosphere, orbits which planet?",
+      "a": "Saturn"
+    },
+    {
+      "q": "Phobos and Deimos, named after Greek words for fear and dread, are the two moons of which planet?",
+      "a": "Mars"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0151691+08:00"
+}
