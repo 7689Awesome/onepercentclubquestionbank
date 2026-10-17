@@ -1,0 +1,24 @@
+{
+  "id": "gkseed37",
+  "kind": "standard",
+  "starter": {
+    "q": "Which American poet wrote 'The Road Not Taken', which ends 'And that has made all the difference'?",
+    "a": "Robert Frost"
+  },
+  "topic": "Poets",
+  "bonuses": [
+    {
+      "q": "Which Romantic poet wrote 'I Wandered Lonely as a Cloud', also known as 'Daffodils'?",
+      "a": "William Wordsworth"
+    },
+    {
+      "q": "Which Welsh poet wrote the villanelle 'Do Not Go Gentle into That Good Night'?",
+      "a": "Dylan Thomas"
+    },
+    {
+      "q": "Which American poet, who wrote nearly 1,800 poems, spent most of her life in Amherst, Massachusetts?",
+      "a": "Emily Dickinson"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0836933+08:00"
+}

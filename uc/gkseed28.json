@@ -1,0 +1,24 @@
+{
+  "id": "gkseed28",
+  "kind": "standard",
+  "starter": {
+    "q": "Which country gave the Statue of Liberty to the United States?",
+    "a": "France"
+  },
+  "topic": "Landmarks",
+  "bonuses": [
+    {
+      "q": "The basilica of the Sagrada Família, designed by Antoni Gaudí, is in which city?",
+      "a": "Barcelona"
+    },
+    {
+      "q": "The statue of Christ the Redeemer looks down on which city?",
+      "a": "Rio de Janeiro"
+    },
+    {
+      "q": "The Taj Mahal is in which Indian city?",
+      "a": "Agra"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0489032+08:00"
+}

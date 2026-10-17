@@ -1,0 +1,24 @@
+{
+  "id": "gkseed47",
+  "kind": "standard",
+  "starter": {
+    "q": "Which South American country's name means 'little Venice', after houses on stilts that explorers saw on Lake Maracaibo?",
+    "a": "Venezuela"
+  },
+  "topic": "South America",
+  "bonuses": [
+    {
+      "q": "Which is the only country in South America with English as its official language?",
+      "a": "Guyana"
+    },
+    {
+      "q": "Which lake on the border of Peru and Bolivia is often called the highest navigable lake in the world?",
+      "a": "Lake Titicaca"
+    },
+    {
+      "q": "The Galápagos Islands belong to which country?",
+      "a": "Ecuador"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0974195+08:00"
+}

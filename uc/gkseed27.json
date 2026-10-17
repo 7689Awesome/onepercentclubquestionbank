@@ -1,0 +1,24 @@
+{
+  "id": "gkseed27",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Greek letter is used as the symbol for the ratio of a circle's circumference to its diameter?",
+    "a": "Pi"
+  },
+  "topic": "The Greek alphabet",
+  "bonuses": [
+    {
+      "q": "What is the last letter of the Greek alphabet?",
+      "a": "Omega"
+    },
+    {
+      "q": "Which Greek letter is the usual symbol for wavelength in physics?",
+      "a": "Lambda"
+    },
+    {
+      "q": "Which Greek letter, a triangle in its capital form, is used in mathematics to stand for a change in a quantity?",
+      "a": "Delta"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0473784+08:00"
+}

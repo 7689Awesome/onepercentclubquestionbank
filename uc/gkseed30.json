@@ -1,0 +1,24 @@
+{
+  "id": "gkseed30",
+  "kind": "standard",
+  "starter": {
+    "q": "Which vitamin does the human body make when the skin is exposed to sunlight?",
+    "a": "Vitamin D"
+  },
+  "topic": "Vitamins",
+  "bonuses": [
+    {
+      "q": "Scurvy, once common among sailors, is caused by a lack of which vitamin?",
+      "a": "Vitamin C"
+    },
+    {
+      "q": "Vitamin K is essential for which process in the blood?",
+      "a": "Clotting (coagulation)"
+    },
+    {
+      "q": "Night blindness can be an early sign of a shortage of which vitamin?",
+      "a": "Vitamin A"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0514327+08:00"
+}

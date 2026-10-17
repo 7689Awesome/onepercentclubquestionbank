@@ -1,0 +1,24 @@
+{
+  "id": "gkseed44",
+  "kind": "standard",
+  "starter": {
+    "q": "In which sport might a bowler deliver a googly, or a batter be given out leg before wicket?",
+    "a": "Cricket"
+  },
+  "topic": "The Olympic Games",
+  "bonuses": [
+    {
+      "q": "Which city hosted the first modern Olympic Games in 1896?",
+      "a": "Athens"
+    },
+    {
+      "q": "How many interlocking rings are on the Olympic flag?",
+      "a": "Five"
+    },
+    {
+      "q": "Which city hosted the Summer Olympics in 2012?",
+      "a": "London"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0931636+08:00"
+}

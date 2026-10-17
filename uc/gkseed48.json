@@ -1,0 +1,24 @@
+{
+  "id": "gkseed48",
+  "kind": "standard",
+  "starter": {
+    "q": "Despite its name, what colour is an aircraft's 'black box' flight recorder painted, so that it can be found after a crash?",
+    "a": "Orange"
+  },
+  "topic": "Inventions and discoveries",
+  "bonuses": [
+    {
+      "q": "Who was granted a patent for the telephone in 1876?",
+      "a": "Alexander Graham Bell"
+    },
+    {
+      "q": "Which Scottish engineer gave the first public demonstration of a working television system in 1926?",
+      "a": "John Logie Baird"
+    },
+    {
+      "q": "Which Scottish scientist discovered penicillin in 1928?",
+      "a": "Alexander Fleming"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0984778+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed05",
+  "kind": "standard",
+  "starter": {
+    "q": "What is the name of the longest and strongest bone in the human body, which runs from the hip to the knee?",
+    "a": "The femur (thigh bone)"
+  },
+  "topic": "The human body",
+  "bonuses": [
+    {
+      "q": "What is the largest organ of the human body?",
+      "a": "The skin"
+    },
+    {
+      "q": "The stapes, the smallest bone in the body, is found in which part of it?",
+      "a": "The (middle) ear"
+    },
+    {
+      "q": "Which organ produces bile, which is then stored in the gallbladder?",
+      "a": "The liver"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0209541+08:00"
+}

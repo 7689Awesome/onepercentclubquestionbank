@@ -1,0 +1,24 @@
+{
+  "id": "gkseed03",
+  "kind": "standard",
+  "starter": {
+    "q": "In music, what Italian term tells a performer to get gradually louder?",
+    "a": "Crescendo"
+  },
+  "topic": "Italian musical terms",
+  "bonuses": [
+    {
+      "q": "Which tempo marking, from the Italian for 'walking', indicates a moderately slow pace?",
+      "a": "Andante"
+    },
+    {
+      "q": "What term tells string players to pluck the strings with their fingers rather than use the bow?",
+      "a": "Pizzicato"
+    },
+    {
+      "q": "What word, the superlative of 'forte', instructs musicians to play very loudly?",
+      "a": "Fortissimo"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0162327+08:00"
+}

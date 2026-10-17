@@ -1,0 +1,24 @@
+{
+  "id": "gkseed10",
+  "kind": "standard",
+  "starter": {
+    "q": "Which mathematical constant, approximately 2.718, is the base of the natural logarithm?",
+    "a": "e (Euler's number)"
+  },
+  "topic": "Notable numbers",
+  "bonuses": [
+    {
+      "q": "What name is given to the ratio of about 1.618, often written with the Greek letter phi?",
+      "a": "The golden ratio (accept golden mean or golden section)"
+    },
+    {
+      "q": "What is the only even prime number?",
+      "a": "Two"
+    },
+    {
+      "q": "6, 28 and 496 are the first three examples of what kind of number, equal to the sum of its proper divisors?",
+      "a": "Perfect numbers"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0256341+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed07",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Dutch painter cut off part of his own left ear in Arles in December 1888, after a quarrel with Paul Gauguin?",
+    "a": "Vincent van Gogh"
+  },
+  "topic": "Famous paintings",
+  "bonuses": [
+    {
+      "q": "The Mona Lisa hangs in which Paris museum?",
+      "a": "The Louvre"
+    },
+    {
+      "q": "Picasso's anti-war painting Guernica is on display in a museum in which city?",
+      "a": "Madrid (the Museo Reina Sofía)"
+    },
+    {
+      "q": "Edvard Munch, painter of The Scream, came from which country?",
+      "a": "Norway"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0225356+08:00"
+}

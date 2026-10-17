@@ -1,0 +1,24 @@
+{
+  "id": "gkseed31",
+  "kind": "standard",
+  "starter": {
+    "q": "Who was the first person to walk on the Moon, in July 1969?",
+    "a": "Neil Armstrong"
+  },
+  "topic": "Space exploration",
+  "bonuses": [
+    {
+      "q": "Which Soviet cosmonaut became the first person in space, in April 1961?",
+      "a": "Yuri Gagarin"
+    },
+    {
+      "q": "What was the name of the first artificial satellite, launched by the Soviet Union in 1957?",
+      "a": "Sputnik (1)"
+    },
+    {
+      "q": "Which space telescope, launched in 1990, is named after the American astronomer who showed that the universe is expanding?",
+      "a": "The Hubble Space Telescope"
+    }
+  ],
+  "updated": "2026-10-17T18:30:32.0529572+08:00"
+}
