@@ -1,7 +1,7 @@
 {
   "id": "4b2503bd7117f442",
   "name": "US S3E2",
-  "updated": "2026-10-16T16:14:47.6316897+08:00",
+  "updated": "2026-10-18T23:59:58.5119372+08:00",
   "questions": [
     {
       "level": 90,
@@ -100,7 +100,7 @@
         "Picture C",
         "Picture D"
       ],
-      "answer": 1,
+      "answer": 2,
       "textHtml": "This driver has been stopped by delivery robots crossing the street. Which picture in the choices shows the driver\u0026#39;s point of view?",
       "optionImages": [
         "/media/onepct/1422d20459dd41532f8ceb4f.png",
