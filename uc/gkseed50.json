@@ -1,0 +1,24 @@
+{
+  "id": "gkseed50",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Disney film of 2013, about the sisters Anna and Elsa, features the song 'Let It Go'?",
+    "a": "Frozen"
+  },
+  "topic": "Pixar films",
+  "bonuses": [
+    {
+      "q": "What was the first entirely computer-animated feature film, released by Pixar in 1995?",
+      "a": "Toy Story"
+    },
+    {
+      "q": "In which Pixar film does a rat called Remy dream of becoming a chef in Paris?",
+      "a": "Ratatouille"
+    },
+    {
+      "q": "Which Pixar film follows a small robot left to clean up a deserted Earth?",
+      "a": "WALL-E"
+    }
+  ],
+  "updated": "2026-10-21T10:28:25.5075844+02:00"
+}

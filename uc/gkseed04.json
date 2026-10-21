@@ -1,0 +1,24 @@
+{
+  "id": "gkseed04",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Shakespeare play is set on a remote island ruled by the magician Prospero, with his daughter Miranda and the creature Caliban?",
+    "a": "The Tempest"
+  },
+  "topic": "Where Shakespeare set his plays",
+  "bonuses": [
+    {
+      "q": "Which tragedy is set largely in the royal castle of Elsinore in Denmark?",
+      "a": "Hamlet"
+    },
+    {
+      "q": "Romeo and Juliet is set in which northern Italian city?",
+      "a": "Verona"
+    },
+    {
+      "q": "Which play, featuring the moneylender Shylock and the heiress Portia, is set partly in Belmont and partly in an Italian city that gives it its title?",
+      "a": "The Merchant of Venice"
+    }
+  ],
+  "updated": "2026-10-21T10:28:25.3860761+02:00"
+}

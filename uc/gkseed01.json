@@ -1,0 +1,24 @@
+{
+  "id": "gkseed01",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to the line of zero degrees longitude, which passes through the Royal Observatory in south-east London?",
+    "a": "The Prime Meridian (accept Greenwich Meridian)"
+  },
+  "topic": "Time zones",
+  "bonuses": [
+    {
+      "q": "Which country, the largest in the world by area, spans eleven time zones?",
+      "a": "Russia"
+    },
+    {
+      "q": "Although it is wide enough for about five, which country officially uses a single time zone, set to the time in Beijing?",
+      "a": "China"
+    },
+    {
+      "q": "What three-letter abbreviation is used for the atomic time standard by which the world regulates its clocks, which succeeded Greenwich Mean Time?",
+      "a": "UTC (Coordinated Universal Time)"
+    }
+  ],
+  "updated": "2026-10-21T10:28:25.3802602+02:00"
+}
