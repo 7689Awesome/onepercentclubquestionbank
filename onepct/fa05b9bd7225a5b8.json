@@ -1,7 +1,7 @@
 {
   "id": "fa05b9bd7225a5b8",
   "name": "Rumi",
-  "updated": "2026-10-21T11:00:05.1469181+02:00",
+  "updated": "2026-10-21T11:03:46.0109102+02:00",
   "questions": [
     {
       "level": 90,
@@ -23,13 +23,13 @@
     {
       "level": 80,
       "kind": "choice",
-      "text": "Who is the cutest in whole world?",
+      "text": "Who is the cutest in whole world.",
       "options": [
         "Rumi",
         "Rumii"
       ],
       "answer": 0,
-      "textHtml": "Who is the cutest in whole world?",
+      "textHtml": "Who is the cutest in whole world.",
       "optionsHtml": [
         "Rumi",
         "Rumii"
