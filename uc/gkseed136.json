@@ -1,0 +1,24 @@
+{
+  "id": "gkseed136",
+  "kind": "standard",
+  "starter": {
+    "q": "Which word game, launched online in 2021 and bought by The New York Times, gives players six guesses to find a five-letter word?",
+    "a": "Wordle"
+  },
+  "topic": "Puzzles",
+  "bonuses": [
+    {
+      "q": "Which number puzzle uses a nine-by-nine grid?",
+      "a": "Sudoku"
+    },
+    {
+      "q": "What name is given to a puzzle where the letters of a phrase are rearranged?",
+      "a": "An anagram"
+    },
+    {
+      "q": "Which three-dimensional puzzle cube was invented by Ernő Rubik in 1974?",
+      "a": "The Rubik's Cube"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.9153607+08:00"
+}

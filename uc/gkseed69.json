@@ -1,0 +1,24 @@
+{
+  "id": "gkseed69",
+  "kind": "standard",
+  "starter": {
+    "q": "Which game, first released by Mojang in 2009, has sold more than 300 million copies?",
+    "a": "Minecraft"
+  },
+  "topic": "Best-selling games",
+  "bonuses": [
+    {
+      "q": "Which Rockstar game of 2013 is set in the city of Los Santos?",
+      "a": "Grand Theft Auto V"
+    },
+    {
+      "q": "Which Russian puzzle game of 1984 involves falling shapes called tetrominoes?",
+      "a": "Tetris"
+    },
+    {
+      "q": "Which 2006 Nintendo game came bundled with the Wii and included tennis and bowling?",
+      "a": "Wii Sports"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7735229+08:00"
+}

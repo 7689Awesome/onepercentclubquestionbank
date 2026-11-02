@@ -1,0 +1,24 @@
+{
+  "id": "gkseed87",
+  "kind": "standard",
+  "starter": {
+    "q": "Which metal is liquid at room temperature and was once used in thermometers?",
+    "a": "Mercury"
+  },
+  "topic": "Metals",
+  "bonuses": [
+    {
+      "q": "Which metal, with the chemical symbol Fe, is used to make steel?",
+      "a": "Iron"
+    },
+    {
+      "q": "Which metal, with the symbol Au, is used for Olympic medals awarded for first place?",
+      "a": "Gold"
+    },
+    {
+      "q": "Which light metal is used to make drinks cans and foil?",
+      "a": "Aluminium"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8111302+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed75",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Formula One driver won four consecutive world titles from 2021 to 2024 with Red Bull?",
+    "a": "Max Verstappen"
+  },
+  "topic": "Formula One",
+  "bonuses": [
+    {
+      "q": "Which Italian team is the oldest and most successful in Formula One?",
+      "a": "Ferrari"
+    },
+    {
+      "q": "Which city-state hosts a famous street race through Monte Carlo?",
+      "a": "Monaco"
+    },
+    {
+      "q": "Which Asian city hosts Formula One's first ever night race, first held in 2008?",
+      "a": "Singapore"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7849602+08:00"
+}

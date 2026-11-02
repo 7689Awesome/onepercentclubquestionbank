@@ -1,0 +1,24 @@
+{
+  "id": "gkseed123",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Australian animal is the only mammal that lays eggs, along with the echidna?",
+    "a": "The platypus"
+  },
+  "topic": "Australian animals",
+  "bonuses": [
+    {
+      "q": "Which marsupial sleeps up to 20 hours a day and eats eucalyptus leaves?",
+      "a": "The koala"
+    },
+    {
+      "q": "Which small marsupial is nicknamed 'the happiest animal in the world'?",
+      "a": "The quokka"
+    },
+    {
+      "q": "Which large flightless bird is on Australia's coat of arms with the kangaroo?",
+      "a": "The emu"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8857342+08:00"
+}

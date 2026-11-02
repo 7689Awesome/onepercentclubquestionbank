@@ -1,0 +1,24 @@
+{
+  "id": "gkseed63",
+  "kind": "standard",
+  "starter": {
+    "q": "Which word, from the Japanese for 'picture character', describes the small icons such as the face with tears of joy?",
+    "a": "Emoji"
+  },
+  "topic": "Japanese words in English",
+  "bonuses": [
+    {
+      "q": "Which Japanese word for a type of poem has three lines of five, seven and five syllables?",
+      "a": "Haiku"
+    },
+    {
+      "q": "Which word, meaning 'empty orchestra', describes singing along to recorded music?",
+      "a": "Karaoke"
+    },
+    {
+      "q": "Which word describes a huge wave, from the Japanese for 'harbour wave'?",
+      "a": "Tsunami"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7619324+08:00"
+}

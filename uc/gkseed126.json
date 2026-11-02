@@ -1,0 +1,24 @@
+{
+  "id": "gkseed126",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Star Wars film of 1980, the second in the original trilogy, reveals that Darth Vader is Luke Skywalker's father?",
+    "a": "The Empire Strikes Back"
+  },
+  "topic": "Star Wars",
+  "bonuses": [
+    {
+      "q": "On which desert planet did Luke Skywalker grow up?",
+      "a": "Tatooine"
+    },
+    {
+      "q": "What is the name of the Wookiee who flies with Han Solo?",
+      "a": "Chewbacca"
+    },
+    {
+      "q": "Which small green Jedi Master trains Luke on Dagobah?",
+      "a": "Yoda"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8906559+08:00"
+}
