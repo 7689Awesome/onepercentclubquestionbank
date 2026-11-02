@@ -1,0 +1,24 @@
+{
+  "id": "gkseed08",
+  "kind": "standard",
+  "starter": {
+    "q": "Halite, or rock salt, is the mineral form of which chemical compound, with the formula NaCl?",
+    "a": "Sodium chloride"
+  },
+  "topic": "Gases",
+  "bonuses": [
+    {
+      "q": "Which noble gas, symbol Ne, gives its name to glowing red advertising signs?",
+      "a": "Neon"
+    },
+    {
+      "q": "Which gas makes up about 78 per cent of Earth's atmosphere?",
+      "a": "Nitrogen"
+    },
+    {
+      "q": "Which gas, with the formula O3, forms a layer in the stratosphere that absorbs most of the Sun's ultraviolet radiation?",
+      "a": "Ozone"
+    }
+  ],
+  "updated": "2026-10-21T10:28:25.3947949+02:00"
+}

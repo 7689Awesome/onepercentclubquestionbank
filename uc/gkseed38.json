@@ -1,0 +1,24 @@
+{
+  "id": "gkseed38",
+  "kind": "standard",
+  "starter": {
+    "q": "Which fruit is the main ingredient of guacamole?",
+    "a": "Avocado"
+  },
+  "topic": "Dishes and where they come from",
+  "bonuses": [
+    {
+      "q": "Paella comes from which region of Spain, on the Mediterranean coast?",
+      "a": "Valencia"
+    },
+    {
+      "q": "Pho, a noodle soup with herbs and broth, is a national dish of which country?",
+      "a": "Vietnam"
+    },
+    {
+      "q": "Haggis is traditionally eaten on Burns Night in which country?",
+      "a": "Scotland"
+    }
+  ],
+  "updated": "2026-10-21T10:28:25.4743885+02:00"
+}
