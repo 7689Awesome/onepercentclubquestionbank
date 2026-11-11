@@ -1,7 +1,7 @@
 {
   "id": "33ae646afcb5091e",
   "name": "Italian Cuisine [Images]",
-  "updated": "2026-11-11T21:50:31.0716951+08:00",
+  "updated": "2026-11-11T21:52:29.7935349+08:00",
   "items": [
     {
       "image": "/media/floor/ad25d695fa1749b9fa1f759d.png",
@@ -118,6 +118,14 @@
     {
       "image": "/media/floor/42c5a7fa0745e9e50f1ff2f0.png",
       "answer": "Chicken Piccata"
+    },
+    {
+      "image": "/media/floor/363cd93b93ae296c39fd291e.png",
+      "answer": "Ciabatta"
+    },
+    {
+      "image": "/media/floor/9c3310ea34bd1b29d4bd86f5.png",
+      "answer": "Affogato"
     }
   ]
 }
