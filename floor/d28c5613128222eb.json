@@ -1,7 +1,7 @@
 {
   "id": "d28c5613128222eb",
   "name": "Animals [Images]",
-  "updated": "2026-11-11T21:06:18.7436276+08:00",
+  "updated": "2026-11-11T21:27:21.6787271+08:00",
   "items": [
     {
       "image": "/media/floor/b9a069af48c9ba06e3acf31f.png",
@@ -176,10 +176,6 @@
       "answer": "Capybara"
     },
     {
-      "image": "/media/floor/9ccf5651ee9d343526fa7bd3.png",
-      "answer": "Angler Fish"
-    },
-    {
       "image": "/media/floor/b1db85d155f2606cf0fec98c.png",
       "answer": "Hyena"
     },
@@ -198,6 +194,10 @@
     {
       "image": "/media/floor/f162dabc44ee702486da78ba.png",
       "answer": "Caterpillar"
+    },
+    {
+      "image": "/media/floor/92c9d8150c96b55d98c56354.png",
+      "answer": "Anglerfish"
     }
   ]
 }
