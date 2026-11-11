@@ -1,0 +1,47 @@
+{
+  "id": "d28c5613128222eb",
+  "name": "Animals [Image]",
+  "updated": "2026-11-11T20:05:07.2151262+08:00",
+  "items": [
+    {
+      "image": "/media/floor/b9a069af48c9ba06e3acf31f.png",
+      "answer": "Lion"
+    },
+    {
+      "image": "/media/floor/33581a055c735938de0d0402.png",
+      "answer": "Tiger"
+    },
+    {
+      "image": "/media/floor/622a78d706a86f12be85b9c6.png",
+      "answer": "Elephant"
+    },
+    {
+      "image": "/media/floor/e0f6a2ba7406f2d3d88c4ad2.png",
+      "answer": "Giraffe"
+    },
+    {
+      "image": "/media/floor/e1b6d3f14133eabf4d63bc4f.png",
+      "answer": "Zebra"
+    },
+    {
+      "image": "/media/floor/3cb0c7880c927e296c783208.png",
+      "answer": "Panda"
+    },
+    {
+      "image": "/media/floor/11863fe2c3fc583c5a65d295.png",
+      "answer": "Kangaroo"
+    },
+    {
+      "image": "/media/floor/24a53837c8e75fdbd51b734c.png",
+      "answer": "Koala"
+    },
+    {
+      "image": "/media/floor/837c7de0580f49921b3c418d.png",
+      "answer": "Penguin"
+    },
+    {
+      "image": "/media/floor/6b6adb3d98199f3f7a3a1b30.png",
+      "answer": "Polar bear"
+    }
+  ]
+}
