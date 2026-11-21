@@ -1,0 +1,24 @@
+{
+  "id": "gkseed178",
+  "kind": "standard",
+  "starter": {
+    "q": "Which ancient network of trade routes, named in the nineteenth century after a luxury fabric, linked China with the Mediterranean?",
+    "a": "The Silk Road"
+  },
+  "topic": "Trade routes",
+  "bonuses": [
+    {
+      "q": "Which Venetian merchant described his travels to the court of Kublai Khan in the thirteenth century?",
+      "a": "Marco Polo"
+    },
+    {
+      "q": "Which spice, from the Banda Islands, was once so valuable that the Dutch traded Manhattan to secure an island where it grew?",
+      "a": "Nutmeg"
+    },
+    {
+      "q": "Opened in 1869, which canal gave ships a route between the Mediterranean and the Red Sea?",
+      "a": "The Suez Canal"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.7266058+08:00"
+}

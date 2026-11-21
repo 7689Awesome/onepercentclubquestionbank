@@ -1,0 +1,24 @@
+{
+  "id": "gkseed197",
+  "kind": "standard",
+  "starter": {
+    "q": "Which trophy, first awarded in 1893 and named after a Governor General of Canada, is presented to the winners of the NHL playoffs?",
+    "a": "The Stanley Cup"
+  },
+  "topic": "Sporting trophies",
+  "bonuses": [
+    {
+      "q": "Which trophy is awarded to the winners of the Super Bowl?",
+      "a": "The Vince Lombardi Trophy"
+    },
+    {
+      "q": "Which golf tournament awards its winner a green jacket?",
+      "a": "The Masters"
+    },
+    {
+      "q": "Which sailing trophy, first won in 1851, is the oldest international sporting trophy?",
+      "a": "The America's Cup"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.9502071+08:00"
+}

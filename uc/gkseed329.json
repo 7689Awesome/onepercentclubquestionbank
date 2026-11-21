@@ -1,0 +1,24 @@
+{
+  "id": "gkseed329",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Filipino dish of raw fish 'cooked' in vinegar or calamansi juice is similar to ceviche?",
+    "a": "Kinilaw"
+  },
+  "topic": "Filipino food",
+  "bonuses": [
+    {
+      "q": "Which Filipino noodle dish from Malabon is topped with seafood and thick orange sauce?",
+      "a": "Pancit Malabon"
+    },
+    {
+      "q": "Which Filipino dish of chopped pig's face and liver, served sizzling, comes from Pampanga?",
+      "a": "Sisig"
+    },
+    {
+      "q": "Which Filipino dessert of sweetened purple yam jam is used in halo-halo?",
+      "a": "Ube halaya"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.0819616+08:00"
+}

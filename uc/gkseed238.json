@@ -1,0 +1,24 @@
+{
+  "id": "gkseed238",
+  "kind": "standard",
+  "starter": {
+    "q": "Which 1982 Ridley Scott film follows Rick Deckard hunting replicants in Los Angeles?",
+    "a": "Blade Runner"
+  },
+  "topic": "Science fiction films",
+  "bonuses": [
+    {
+      "q": "Which 1968 Stanley Kubrick film features the computer HAL 9000?",
+      "a": "2001: A Space Odyssey"
+    },
+    {
+      "q": "Which 1984 film stars Arnold Schwarzenegger as a cyborg sent back in time?",
+      "a": "The Terminator"
+    },
+    {
+      "q": "Which 2009 film by Neill Blomkamp features aliens stranded in Johannesburg?",
+      "a": "District 9"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.5905147+08:00"
+}

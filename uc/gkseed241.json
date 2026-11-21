@@ -1,0 +1,24 @@
+{
+  "id": "gkseed241",
+  "kind": "standard",
+  "starter": {
+    "q": "Which film festival, held on the French Riviera, awards the Palme d'Or?",
+    "a": "Cannes"
+  },
+  "topic": "Film festivals",
+  "bonuses": [
+    {
+      "q": "Which festival awards the Golden Lion?",
+      "a": "Venice Film Festival"
+    },
+    {
+      "q": "Which festival awards the Golden Bear?",
+      "a": "Berlin International Film Festival"
+    },
+    {
+      "q": "Which American festival in Utah, founded by Robert Redford, focuses on independent film?",
+      "a": "Sundance"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.6992313+08:00"
+}

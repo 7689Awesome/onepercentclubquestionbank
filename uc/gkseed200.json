@@ -1,0 +1,24 @@
+{
+  "id": "gkseed200",
+  "kind": "standard",
+  "starter": {
+    "q": "Which spice, made from the dried stigmas of a crocus flower, is the most expensive spice in the world by weight?",
+    "a": "Saffron"
+  },
+  "topic": "Spices",
+  "bonuses": [
+    {
+      "q": "Which spice, from the bark of a tree, gives its flavour to cinnamon rolls?",
+      "a": "Cinnamon"
+    },
+    {
+      "q": "Which bright yellow spice, from a root related to ginger, gives curry its golden colour?",
+      "a": "Turmeric"
+    },
+    {
+      "q": "Which star-shaped spice is a key flavour of Chinese five-spice powder?",
+      "a": "Star anise"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.0339853+08:00"
+}

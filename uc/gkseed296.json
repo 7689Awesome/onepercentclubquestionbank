@@ -1,0 +1,24 @@
+{
+  "id": "gkseed296",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Brazilian city hosts a world-famous Carnival?",
+    "a": "Rio de Janeiro"
+  },
+  "topic": "Brazil",
+  "bonuses": [
+    {
+      "q": "Which Brazilian city, the largest in the Southern Hemisphere, is the country's financial centre?",
+      "a": "São Paulo"
+    },
+    {
+      "q": "Which Brazilian footballer won three World Cups?",
+      "a": "Pelé"
+    },
+    {
+      "q": "What is the national dance and music of Brazil, associated with Carnival?",
+      "a": "Samba"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.5162292+08:00"
+}

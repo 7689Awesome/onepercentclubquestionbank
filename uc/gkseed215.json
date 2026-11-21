@@ -1,0 +1,24 @@
+{
+  "id": "gkseed215",
+  "kind": "standard",
+  "starter": {
+    "q": "Which river, about 6,650 kilometres long, is usually considered the longest in the world?",
+    "a": "The Nile"
+  },
+  "topic": "Rivers of the world",
+  "bonuses": [
+    {
+      "q": "Which river carries more water than any other?",
+      "a": "The Amazon"
+    },
+    {
+      "q": "Which river flows through Shanghai into the East China Sea and has the Three Gorges Dam?",
+      "a": "The Yangtze"
+    },
+    {
+      "q": "Which river flows through six Southeast Asian countries and forms a large delta in Vietnam?",
+      "a": "The Mekong"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.2906119+08:00"
+}

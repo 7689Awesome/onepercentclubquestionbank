@@ -1,0 +1,24 @@
+{
+  "id": "gkseed192",
+  "kind": "standard",
+  "starter": {
+    "q": "Which word from economics describes a general rise in prices across an economy, reducing the purchasing power of money?",
+    "a": "Inflation"
+  },
+  "topic": "Economics",
+  "bonuses": [
+    {
+      "q": "What three-letter abbreviation measures the total value of goods and services produced in a country?",
+      "a": "GDP (gross domestic product)"
+    },
+    {
+      "q": "Which Scottish economist wrote The Wealth of Nations in 1776, describing the 'invisible hand'?",
+      "a": "Adam Smith"
+    },
+    {
+      "q": "What name is given to two consecutive quarters of falling GDP?",
+      "a": "A recession"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.897155+08:00"
+}

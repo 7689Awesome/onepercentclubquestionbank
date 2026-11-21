@@ -1,0 +1,24 @@
+{
+  "id": "gkseed164",
+  "kind": "standard",
+  "starter": {
+    "q": "In which paradox, described by the Greek philosopher Zeno, can a swift runner never overtake a slow tortoise that has been given a head start?",
+    "a": "Achilles and the tortoise"
+  },
+  "topic": "Paradoxes",
+  "bonuses": [
+    {
+      "q": "Which thought experiment by Erwin Schrödinger imagines an animal that is both alive and dead until observed?",
+      "a": "Schrödinger's cat"
+    },
+    {
+      "q": "Which paradox asks whether a ship whose every plank has been replaced is still the same ship?",
+      "a": "The Ship of Theseus"
+    },
+    {
+      "q": "What name is given to the statement 'This sentence is false', which can be neither true nor false?",
+      "a": "The liar paradox"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.5764033+08:00"
+}

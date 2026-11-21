@@ -1,0 +1,24 @@
+{
+  "id": "gkseed304",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to the number 10 to the power of 100?",
+    "a": "A googol"
+  },
+  "topic": "Infinity and big numbers",
+  "bonuses": [
+    {
+      "q": "Which symbol, like a sideways eight, represents infinity?",
+      "a": "∞ (the lemniscate)"
+    },
+    {
+      "q": "What is one thousand million called in modern English?",
+      "a": "A billion"
+    },
+    {
+      "q": "How many zeros does a trillion have?",
+      "a": "Twelve"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.6682461+08:00"
+}

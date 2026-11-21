@@ -1,0 +1,24 @@
+{
+  "id": "gkseed211",
+  "kind": "standard",
+  "starter": {
+    "q": "Which rainforest, covering much of the basin of South America's largest river, is the biggest in the world?",
+    "a": "The Amazon rainforest"
+  },
+  "topic": "Rainforests",
+  "bonuses": [
+    {
+      "q": "In which African river basin is the world's second-largest rainforest?",
+      "a": "The Congo"
+    },
+    {
+      "q": "What name is given to the top layer of a rainforest where most life is found?",
+      "a": "The canopy"
+    },
+    {
+      "q": "Which island, shared by three countries, has one of the oldest rainforests on Earth?",
+      "a": "Borneo"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.2463744+08:00"
+}

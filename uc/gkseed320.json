@@ -1,0 +1,24 @@
+{
+  "id": "gkseed320",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to the rule that stops attackers waiting behind defenders?",
+    "a": "Offside"
+  },
+  "topic": "Football tactics",
+  "bonuses": [
+    {
+      "q": "What does 'VAR' stand for?",
+      "a": "Video assistant referee"
+    },
+    {
+      "q": "What name is given to a goal scored directly from a corner kick?",
+      "a": "An olímpico"
+    },
+    {
+      "q": "What name is given to the series of penalty kicks used to settle a drawn knockout match?",
+      "a": "A penalty shoot-out"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.9015626+08:00"
+}

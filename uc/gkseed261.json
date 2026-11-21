@@ -1,0 +1,24 @@
+{
+  "id": "gkseed261",
+  "kind": "standard",
+  "starter": {
+    "q": "Which 1851 novel follows Captain Ahab's hunt for a white whale?",
+    "a": "Moby-Dick"
+  },
+  "topic": "Classic novels",
+  "bonuses": [
+    {
+      "q": "Which Brontë sister wrote 'Wuthering Heights'?",
+      "a": "Emily Brontë"
+    },
+    {
+      "q": "Which Russian author wrote 'War and Peace'?",
+      "a": "Leo Tolstoy"
+    },
+    {
+      "q": "Which French author wrote 'Les Misérables'?",
+      "a": "Victor Hugo"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.9683907+08:00"
+}

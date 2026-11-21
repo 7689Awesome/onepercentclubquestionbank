@@ -1,0 +1,24 @@
+{
+  "id": "gkseed267",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Chinese emperor, who first unified China in 221 BC, was buried with the Terracotta Army?",
+    "a": "Qin Shi Huang"
+  },
+  "topic": "Ancient China",
+  "bonuses": [
+    {
+      "q": "Which Chinese philosophy, traditionally founded by Laozi, stresses living in harmony with 'the Way'?",
+      "a": "Taoism (Daoism)"
+    },
+    {
+      "q": "Which Chinese military treatise is attributed to Sun Tzu?",
+      "a": "The Art of War"
+    },
+    {
+      "q": "Which dynasty, ruling from 618 to 907, is seen as a golden age of Chinese poetry?",
+      "a": "The Tang dynasty"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.0855914+08:00"
+}

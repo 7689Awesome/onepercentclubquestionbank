@@ -1,0 +1,24 @@
+{
+  "id": "gkseed217",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to a long period with little or no rain?",
+    "a": "A drought"
+  },
+  "topic": "Weather words",
+  "bonuses": [
+    {
+      "q": "What is the name of the wet-season wind system that brings heavy rain to South and Southeast Asia?",
+      "a": "The monsoon"
+    },
+    {
+      "q": "What Filipino name is given to the southwest monsoon?",
+      "a": "Habagat"
+    },
+    {
+      "q": "What Filipino name is given to the cool northeast monsoon?",
+      "a": "Amihan"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.3244243+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed222",
+  "kind": "standard",
+  "starter": {
+    "q": "Which flower, whose name means 'turban' in Persian, caused a speculative 'mania' in 17th-century Holland?",
+    "a": "The tulip"
+  },
+  "topic": "Flowers",
+  "bonuses": [
+    {
+      "q": "Which flower is the national flower of Japan?",
+      "a": "The cherry blossom (sakura)"
+    },
+    {
+      "q": "Which flower, the world's largest single bloom, is found in Indonesia and smells of rotting meat?",
+      "a": "Rafflesia"
+    },
+    {
+      "q": "Which jasmine flower is the national flower of the Philippines?",
+      "a": "Sampaguita"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.4006088+08:00"
+}

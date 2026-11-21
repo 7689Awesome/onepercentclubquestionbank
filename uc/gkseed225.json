@@ -1,0 +1,24 @@
+{
+  "id": "gkseed225",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to the process by which water turns from liquid into vapour?",
+    "a": "Evaporation"
+  },
+  "topic": "The water cycle",
+  "bonuses": [
+    {
+      "q": "What is the term for water falling from clouds as rain, sleet, snow or hail?",
+      "a": "Precipitation"
+    },
+    {
+      "q": "What do we call water stored underground in rocks?",
+      "a": "Groundwater"
+    },
+    {
+      "q": "What name is given to an underground layer of rock that holds water?",
+      "a": "An aquifer"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.4402691+08:00"
+}

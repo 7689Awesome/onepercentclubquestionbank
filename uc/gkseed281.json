@@ -1,0 +1,24 @@
+{
+  "id": "gkseed281",
+  "kind": "standard",
+  "starter": {
+    "q": "Which 1925 Tennessee trial challenged a ban on teaching evolution?",
+    "a": "The Scopes Trial"
+  },
+  "topic": "Famous trials",
+  "bonuses": [
+    {
+      "q": "Which series of trials after World War Two prosecuted Nazi leaders?",
+      "a": "The Nuremberg Trials"
+    },
+    {
+      "q": "Which American footballer's 1995 murder trial was dubbed 'the trial of the century'?",
+      "a": "O. J. Simpson"
+    },
+    {
+      "q": "Which 17th-century Massachusetts trials accused people of witchcraft?",
+      "a": "The Salem witch trials"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.3136596+08:00"
+}

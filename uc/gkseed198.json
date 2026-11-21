@@ -1,0 +1,24 @@
+{
+  "id": "gkseed198",
+  "kind": "standard",
+  "starter": {
+    "q": "Which hot drink, made from roasted seeds of a tropical shrub, is said in legend to have been discovered by an Ethiopian goatherd called Kaldi?",
+    "a": "Coffee"
+  },
+  "topic": "Coffee",
+  "bonuses": [
+    {
+      "q": "Which coffee drink is made with espresso and steamed milk topped with a thick layer of foam?",
+      "a": "Cappuccino"
+    },
+    {
+      "q": "Which two species of coffee bean dominate world production?",
+      "a": "Arabica and Robusta"
+    },
+    {
+      "q": "Which Indonesian coffee is made from beans that have passed through the digestive system of a civet?",
+      "a": "Kopi luwak"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.9644295+08:00"
+}

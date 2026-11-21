@@ -1,0 +1,24 @@
+{
+  "id": "gkseed317",
+  "kind": "standard",
+  "starter": {
+    "q": "What is the hardest substance in the human body?",
+    "a": "Tooth enamel"
+  },
+  "topic": "Teeth",
+  "bonuses": [
+    {
+      "q": "What name is given to the pointed teeth next to the incisors?",
+      "a": "Canines"
+    },
+    {
+      "q": "What name is given to the last molars to appear, often removed?",
+      "a": "Wisdom teeth"
+    },
+    {
+      "q": "What name is given to the hard deposit dentists scrape off teeth?",
+      "a": "Tartar (calculus)"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.8305975+08:00"
+}

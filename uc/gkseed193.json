@@ -1,0 +1,24 @@
+{
+  "id": "gkseed193",
+  "kind": "standard",
+  "starter": {
+    "q": "Which American civil rights leader delivered the 'I Have a Dream' speech at the Lincoln Memorial in August 1963?",
+    "a": "Martin Luther King Jr."
+  },
+  "topic": "Famous speeches",
+  "bonuses": [
+    {
+      "q": "Which US president delivered the Gettysburg Address in 1863?",
+      "a": "Abraham Lincoln"
+    },
+    {
+      "q": "Which British prime minister promised to 'fight on the beaches' in a 1940 speech?",
+      "a": "Winston Churchill"
+    },
+    {
+      "q": "Which Pakistani activist addressed the United Nations on her sixteenth birthday in 2013?",
+      "a": "Malala Yousafzai"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.9088435+08:00"
+}

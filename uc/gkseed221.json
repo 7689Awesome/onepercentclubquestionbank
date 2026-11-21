@@ -1,0 +1,24 @@
+{
+  "id": "gkseed221",
+  "kind": "standard",
+  "starter": {
+    "q": "Which tree species includes the tallest living tree on Earth, a coast redwood in California nicknamed 'Hyperion'?",
+    "a": "The redwood"
+  },
+  "topic": "Trees",
+  "bonuses": [
+    {
+      "q": "Which slow-growing tree is the oldest-living, with a specimen called 'Methuselah'?",
+      "a": "The bristlecone pine"
+    },
+    {
+      "q": "Which tree's leaves appear on the flag of Canada?",
+      "a": "The maple"
+    },
+    {
+      "q": "Which tree, sacred to Buddhists, did the Buddha sit under to attain enlightenment?",
+      "a": "The Bodhi tree (sacred fig)"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.3955901+08:00"
+}

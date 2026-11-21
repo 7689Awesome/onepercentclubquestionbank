@@ -1,0 +1,24 @@
+{
+  "id": "gkseed256",
+  "kind": "standard",
+  "starter": {
+    "q": "Which French designer founded a fashion house famous for the 'little black dress' and No. 5 perfume?",
+    "a": "Coco Chanel"
+  },
+  "topic": "Fashion designers",
+  "bonuses": [
+    {
+      "q": "Which Italian designer founded a fashion house with a Medusa logo in 1978?",
+      "a": "Gianni Versace"
+    },
+    {
+      "q": "Which British designer was known for punk fashion and tartan?",
+      "a": "Vivienne Westwood"
+    },
+    {
+      "q": "Which Japanese designer founded the label Comme des Garçons?",
+      "a": "Rei Kawakubo"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.8949536+08:00"
+}

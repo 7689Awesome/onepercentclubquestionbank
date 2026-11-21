@@ -1,0 +1,24 @@
+{
+  "id": "gkseed309",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to the dark, flat plains on the Moon formed by ancient lava?",
+    "a": "Maria (seas)"
+  },
+  "topic": "The Moon",
+  "bonuses": [
+    {
+      "q": "How long does the Moon take to orbit Earth, roughly?",
+      "a": "About 27 days (29.5 days phase to phase)"
+    },
+    {
+      "q": "What name is given to the phase when the Moon is fully lit?",
+      "a": "A full moon"
+    },
+    {
+      "q": "Which side of the Moon was first photographed in 1959?",
+      "a": "The far side"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.7347654+08:00"
+}

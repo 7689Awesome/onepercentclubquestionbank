@@ -1,0 +1,24 @@
+{
+  "id": "gkseed257",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Danish toy, whose name comes from 'leg godt' meaning 'play well', is made of interlocking bricks?",
+    "a": "LEGO"
+  },
+  "topic": "Toys",
+  "bonuses": [
+    {
+      "q": "Which toy, invented in 1974 by a Hungarian architect, has 43 quintillion possible positions?",
+      "a": "The Rubik's Cube"
+    },
+    {
+      "q": "Which electronic pet from Japan had to be fed and cleaned in a small egg-shaped device?",
+      "a": "Tamagotchi"
+    },
+    {
+      "q": "Which wooden toy, popular in the Philippines, is a spinning top?",
+      "a": "Trumpo"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.9163135+08:00"
+}

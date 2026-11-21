@@ -1,0 +1,24 @@
+{
+  "id": "gkseed204",
+  "kind": "standard",
+  "starter": {
+    "q": "Which penguin, the tallest and heaviest species, breeds during the Antarctic winter with males incubating the eggs on their feet?",
+    "a": "The emperor penguin"
+  },
+  "topic": "Penguins",
+  "bonuses": [
+    {
+      "q": "Which penguin species lives on islands right on the Equator?",
+      "a": "The Galápagos penguin"
+    },
+    {
+      "q": "Penguins are found naturally in which hemisphere?",
+      "a": "The Southern Hemisphere"
+    },
+    {
+      "q": "Which animated 2006 film features a tap-dancing emperor penguin named Mumble?",
+      "a": "Happy Feet"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.1142221+08:00"
+}

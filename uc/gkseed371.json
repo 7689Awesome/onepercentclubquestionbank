@@ -1,0 +1,24 @@
+{
+  "id": "gkseed371",
+  "kind": "standard",
+  "starter": {
+    "q": "Which singer is married to Jay-Z?",
+    "a": "Beyoncé"
+  },
+  "topic": "Celebrity couples",
+  "bonuses": [
+    {
+      "q": "Which actors played husband and wife in 'Mr. \u0026 Mrs. Smith' and later married?",
+      "a": "Brad Pitt and Angelina Jolie"
+    },
+    {
+      "q": "Which Filipino celebrity couple is popularly called 'KathNiel'?",
+      "a": "Kathryn Bernardo and Daniel Padilla"
+    },
+    {
+      "q": "Which footballer is married to Victoria, formerly 'Posh Spice'?",
+      "a": "David Beckham"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.6736707+08:00"
+}

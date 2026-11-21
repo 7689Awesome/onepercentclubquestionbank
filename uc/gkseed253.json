@@ -1,0 +1,24 @@
+{
+  "id": "gkseed253",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Japanese printmaker created 'Thirty-Six Views of Mount Fuji'?",
+    "a": "Katsushika Hokusai"
+  },
+  "topic": "Painters of Asia",
+  "bonuses": [
+    {
+      "q": "What name is given to the Japanese woodblock prints of the Edo period meaning 'pictures of the floating world'?",
+      "a": "Ukiyo-e"
+    },
+    {
+      "q": "Which Filipino painter created the 'Spoliarium', displayed at the National Museum in Manila?",
+      "a": "Juan Luna"
+    },
+    {
+      "q": "Which Chinese artist and activist was an artistic consultant on Beijing's 'Bird's Nest' Olympic stadium?",
+      "a": "Ai Weiwei"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.8486867+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed232",
+  "kind": "standard",
+  "starter": {
+    "q": "Which machine, built at Bletchley Park in 1943 to break German codes, is regarded as the first programmable electronic digital computer?",
+    "a": "Colossus"
+  },
+  "topic": "Computers in history",
+  "bonuses": [
+    {
+      "q": "Which early computer, completed in 1945 in the USA, filled a large room?",
+      "a": "ENIAC"
+    },
+    {
+      "q": "What name is given to a single binary digit, either 0 or 1?",
+      "a": "A bit"
+    },
+    {
+      "q": "Which company made the first commercially successful personal computer with a mouse and windows, the Macintosh, in 1984?",
+      "a": "Apple"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.5488154+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed154",
+  "kind": "standard",
+  "starter": {
+    "q": "Which unit of measurement, equal to roughly 9.46 trillion kilometres, is a measure of distance rather than of time, despite its name?",
+    "a": "The light year"
+  },
+  "topic": "Astronomical distances",
+  "bonuses": [
+    {
+      "q": "Which unit, roughly 150 million kilometres, is defined as the average distance between the Earth and the Sun?",
+      "a": "The astronomical unit"
+    },
+    {
+      "q": "Short for 'parallax second', which unit used by astronomers is equal to about 3.26 light years?",
+      "a": "The parsec"
+    },
+    {
+      "q": "At a little over four light years away, which star system, containing Proxima, is the nearest to the Sun?",
+      "a": "Alpha Centauri"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.4430729+08:00"
+}
