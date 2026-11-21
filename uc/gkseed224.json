@@ -1,0 +1,24 @@
+{
+  "id": "gkseed224",
+  "kind": "standard",
+  "starter": {
+    "q": "Which simple sugar, with the formula C6H12O6, is the main product of photosynthesis?",
+    "a": "Glucose"
+  },
+  "topic": "Photosynthesis",
+  "bonuses": [
+    {
+      "q": "What name is given to the waxy outer layer on leaves that reduces water loss?",
+      "a": "The cuticle"
+    },
+    {
+      "q": "Which gas is released as a by-product of photosynthesis?",
+      "a": "Oxygen"
+    },
+    {
+      "q": "In which part of a plant cell does photosynthesis take place?",
+      "a": "The chloroplast"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.4063469+08:00"
+}

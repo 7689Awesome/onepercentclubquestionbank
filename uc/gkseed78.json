@@ -1,0 +1,24 @@
+{
+  "id": "gkseed78",
+  "kind": "standard",
+  "starter": {
+    "q": "Which sport's world governing body is FIFA, and whose World Cup is held every four years?",
+    "a": "Football (soccer)"
+  },
+  "topic": "World Cups",
+  "bonuses": [
+    {
+      "q": "Which country won the first FIFA World Cup in 1930, also hosting it?",
+      "a": "Uruguay"
+    },
+    {
+      "q": "Which country has won the men's Cricket World Cup the most times?",
+      "a": "Australia"
+    },
+    {
+      "q": "Which country's national rugby union team, the All Blacks, performs the haka?",
+      "a": "New Zealand"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7886304+08:00"
+}

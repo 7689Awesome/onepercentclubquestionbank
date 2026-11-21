@@ -1,0 +1,24 @@
+{
+  "id": "gkseed347",
+  "kind": "standard",
+  "starter": {
+    "q": "What gift is traditional for a first wedding anniversary?",
+    "a": "Paper"
+  },
+  "topic": "Birthstones and anniversaries",
+  "bonuses": [
+    {
+      "q": "Which anniversary is marked by diamonds?",
+      "a": "The 60th"
+    },
+    {
+      "q": "Which gem is the birthstone for May?",
+      "a": "Emerald"
+    },
+    {
+      "q": "Which purple gem is the birthstone for February?",
+      "a": "Amethyst"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.3341809+08:00"
+}

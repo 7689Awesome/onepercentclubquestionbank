@@ -1,0 +1,24 @@
+{
+  "id": "gkseed263",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Colombian author wrote 'One Hundred Years of Solitude'?",
+    "a": "Gabriel García Márquez"
+  },
+  "topic": "Latin American writers",
+  "bonuses": [
+    {
+      "q": "Which Chilean poet won the Nobel Prize in Literature in 1971?",
+      "a": "Pablo Neruda"
+    },
+    {
+      "q": "Which Argentine writer wrote 'Ficciones'?",
+      "a": "Jorge Luis Borges"
+    },
+    {
+      "q": "Which Chilean author wrote 'The House of the Spirits'?",
+      "a": "Isabel Allende"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.0089749+08:00"
+}

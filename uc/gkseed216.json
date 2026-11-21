@@ -1,0 +1,24 @@
+{
+  "id": "gkseed216",
+  "kind": "standard",
+  "starter": {
+    "q": "Which desert, in south-west Africa, has some of the tallest sand dunes in the world and meets the Atlantic Ocean?",
+    "a": "The Namib"
+  },
+  "topic": "Deserts and dunes",
+  "bonuses": [
+    {
+      "q": "Which desert covers parts of India and Pakistan?",
+      "a": "The Thar Desert"
+    },
+    {
+      "q": "Which American desert contains Death Valley?",
+      "a": "The Mojave"
+    },
+    {
+      "q": "Which desert lies at the heart of the Arabian Peninsula and is called 'the Empty Quarter'?",
+      "a": "Rub' al Khali"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.2959269+08:00"
+}

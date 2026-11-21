@@ -1,0 +1,24 @@
+{
+  "id": "gkseed119",
+  "kind": "standard",
+  "starter": {
+    "q": "Which video game console, launched by Sony in 2020, was hard to buy for many months because of chip shortages?",
+    "a": "PlayStation 5"
+  },
+  "topic": "PlayStation exclusives",
+  "bonuses": [
+    {
+      "q": "Which PlayStation series stars the Spartan Kratos?",
+      "a": "God of War"
+    },
+    {
+      "q": "Which PlayStation game follows Joel and Ellie in a post-apocalyptic America?",
+      "a": "The Last of Us"
+    },
+    {
+      "q": "Which PlayStation game is set on the island of Tsushima in 1274?",
+      "a": "Ghost of Tsushima"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8791668+08:00"
+}

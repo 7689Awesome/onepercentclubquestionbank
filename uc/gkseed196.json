@@ -1,0 +1,24 @@
+{
+  "id": "gkseed196",
+  "kind": "standard",
+  "starter": {
+    "q": "Which word, from the Japanese for 'empty hand', names a martial art developed in Okinawa?",
+    "a": "Karate"
+  },
+  "topic": "Martial arts",
+  "bonuses": [
+    {
+      "q": "Which Korean martial art, an Olympic sport since 2000, is known for its high kicks?",
+      "a": "Taekwondo"
+    },
+    {
+      "q": "Which Brazilian martial art combines fighting with dance and music?",
+      "a": "Capoeira"
+    },
+    {
+      "q": "Which actor and martial artist created the style called Jeet Kune Do?",
+      "a": "Bruce Lee"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.9385633+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed152",
+  "kind": "standard",
+  "starter": {
+    "q": "Named after the Roman general who used it to send military messages, which simple cipher replaces every letter with one a fixed number of places further along the alphabet?",
+    "a": "The Caesar cipher (shift cipher)"
+  },
+  "topic": "Codes and ciphers",
+  "bonuses": [
+    {
+      "q": "Which German cipher machine, with rotating wheels, was broken at Bletchley Park during the Second World War?",
+      "a": "Enigma"
+    },
+    {
+      "q": "In Morse code, which distress signal is sent as three dots, three dashes and three dots?",
+      "a": "SOS"
+    },
+    {
+      "q": "What name is given to the hidden writing of a message inside another message or image, so that its very existence is concealed?",
+      "a": "Steganography"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.4257281+08:00"
+}

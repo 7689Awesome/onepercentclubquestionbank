@@ -1,0 +1,24 @@
+{
+  "id": "gkseed356",
+  "kind": "standard",
+  "starter": {
+    "q": "Which German car was designed as 'the people's car'?",
+    "a": "The Volkswagen Beetle"
+  },
+  "topic": "Cars and driving",
+  "bonuses": [
+    {
+      "q": "Which American carmaker introduced the assembly line with the Model T?",
+      "a": "Ford"
+    },
+    {
+      "q": "On which side of the road do people drive in Japan?",
+      "a": "The left"
+    },
+    {
+      "q": "On which side of the road do people drive in the Philippines?",
+      "a": "The right"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.4011794+08:00"
+}

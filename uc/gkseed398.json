@@ -1,0 +1,24 @@
+{
+  "id": "gkseed398",
+  "kind": "standard",
+  "starter": {
+    "q": "Which golf competition, held every two years, pits a team from Europe against one from the United States?",
+    "a": "The Ryder Cup"
+  },
+  "topic": "Golf",
+  "bonuses": [
+    {
+      "q": "What name is given to a hole completed in one stroke?",
+      "a": "A hole in one (an ace)"
+    },
+    {
+      "q": "Which golf major is the oldest, first held in 1860?",
+      "a": "The Open Championship"
+    },
+    {
+      "q": "What name is given to the person who carries a golfer's clubs?",
+      "a": "A caddie"
+    }
+  ],
+  "updated": "2026-11-21T20:01:02.2449491+08:00"
+}

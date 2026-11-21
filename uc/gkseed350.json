@@ -1,0 +1,24 @@
+{
+  "id": "gkseed350",
+  "kind": "standard",
+  "starter": {
+    "q": "In which country do people eat twelve grapes at midnight on New Year's Eve?",
+    "a": "Spain"
+  },
+  "topic": "New Year traditions",
+  "bonuses": [
+    {
+      "q": "Which Scottish name is given to New Year's Eve celebrations?",
+      "a": "Hogmanay"
+    },
+    {
+      "q": "In the Philippines, how many round fruits do many families display at New Year for luck?",
+      "a": "Twelve (or thirteen)"
+    },
+    {
+      "q": "Which animal is the 2025 Chinese zodiac sign?",
+      "a": "The snake"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.363887+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed138",
+  "kind": "standard",
+  "starter": {
+    "q": "Which bird, the national bird of the United States, is a sea eagle with a white head?",
+    "a": "The bald eagle"
+  },
+  "topic": "National animals",
+  "bonuses": [
+    {
+      "q": "Which animal is the national animal of Scotland?",
+      "a": "The unicorn"
+    },
+    {
+      "q": "Which big cat is the national animal of India?",
+      "a": "The Bengal tiger"
+    },
+    {
+      "q": "Which animal, found in Indonesia, is the world's largest lizard?",
+      "a": "The Komodo dragon"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.9192591+08:00"
+}

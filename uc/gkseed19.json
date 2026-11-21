@@ -1,0 +1,24 @@
+{
+  "id": "gkseed19",
+  "kind": "standard",
+  "starter": {
+    "q": "Which language has the most native speakers in the world?",
+    "a": "Mandarin Chinese"
+  },
+  "topic": "Languages of the world",
+  "bonuses": [
+    {
+      "q": "What is the official language of Brazil?",
+      "a": "Portuguese"
+    },
+    {
+      "q": "Te reo is the language of which indigenous people of New Zealand?",
+      "a": "The Māori"
+    },
+    {
+      "q": "Which country has four national languages: German, French, Italian and Romansh?",
+      "a": "Switzerland"
+    }
+  ],
+  "updated": "2026-10-21T10:28:25.4228465+02:00"
+}

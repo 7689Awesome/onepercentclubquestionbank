@@ -1,0 +1,24 @@
+{
+  "id": "gkseed286",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Istanbul bridge was the first to link Europe and Asia?",
+    "a": "The Bosphorus Bridge (15 July Martyrs Bridge)"
+  },
+  "topic": "Bridges of the world",
+  "bonuses": [
+    {
+      "q": "Which bridge in Venice has a name meaning 'sighs'?",
+      "a": "The Bridge of Sighs"
+    },
+    {
+      "q": "Which Australian bridge is nicknamed 'the Coathanger'?",
+      "a": "Sydney Harbour Bridge"
+    },
+    {
+      "q": "Which is the longest bridge in the Philippines, linking Samar and Leyte?",
+      "a": "San Juanico Bridge"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.3835468+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed367",
+  "kind": "standard",
+  "starter": {
+    "q": "Which 2008 film began the Marvel Cinematic Universe?",
+    "a": "Iron Man"
+  },
+  "topic": "Superheroes on film",
+  "bonuses": [
+    {
+      "q": "Which 2018 Marvel film is set in Wakanda?",
+      "a": "Black Panther"
+    },
+    {
+      "q": "Which DC film of 2017 starred Gal Gadot?",
+      "a": "Wonder Woman"
+    },
+    {
+      "q": "Which 2018 animated film introduced Miles Morales to cinemas?",
+      "a": "Spider-Man: Into the Spider-Verse"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.5962044+08:00"
+}

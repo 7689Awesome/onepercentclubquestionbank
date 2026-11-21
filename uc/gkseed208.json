@@ -1,0 +1,24 @@
+{
+  "id": "gkseed208",
+  "kind": "standard",
+  "starter": {
+    "q": "In which 1993 film does a scientist say 'Life, uh, finds a way', after dinosaurs are cloned from ancient DNA?",
+    "a": "Jurassic Park"
+  },
+  "topic": "Dinosaurs in film",
+  "bonuses": [
+    {
+      "q": "In the 'Jurassic Park' novel and film, where is the DNA extracted from?",
+      "a": "Mosquitoes trapped in amber"
+    },
+    {
+      "q": "Which author wrote the novel 'Jurassic Park'?",
+      "a": "Michael Crichton"
+    },
+    {
+      "q": "What is the name of the theme park in the 2015 sequel?",
+      "a": "Jurassic World"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.1830223+08:00"
+}

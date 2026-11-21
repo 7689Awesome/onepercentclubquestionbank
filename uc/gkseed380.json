@@ -1,0 +1,24 @@
+{
+  "id": "gkseed380",
+  "kind": "standard",
+  "starter": {
+    "q": "How many islands make up the Philippines, according to the 2016 count?",
+    "a": "About 7,641"
+  },
+  "topic": "Islands of the Philippines",
+  "bonuses": [
+    {
+      "q": "Which is the largest island in the Visayas?",
+      "a": "Negros"
+    },
+    {
+      "q": "Which island province is called the 'Island Born of Fire' for its volcanoes?",
+      "a": "Camiguin"
+    },
+    {
+      "q": "Which northernmost Philippine province is a group of islands closer to Taiwan than to Manila?",
+      "a": "Batanes"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.9224289+08:00"
+}

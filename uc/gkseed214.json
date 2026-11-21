@@ -1,0 +1,24 @@
+{
+  "id": "gkseed214",
+  "kind": "standard",
+  "starter": {
+    "q": "Which mountain on the border of Nepal and China is known in Nepali as Sagarmatha?",
+    "a": "Mount Everest"
+  },
+  "topic": "Mountains",
+  "bonuses": [
+    {
+      "q": "Which pair first reached the summit of Everest in 1953?",
+      "a": "Edmund Hillary and Tenzing Norgay"
+    },
+    {
+      "q": "Which is the highest mountain in Europe, in Russia's Caucasus range?",
+      "a": "Mount Elbrus"
+    },
+    {
+      "q": "Which mountain in Malaysian Borneo is the highest in Malaysia?",
+      "a": "Mount Kinabalu"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.2805586+08:00"
+}

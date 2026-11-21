@@ -1,0 +1,24 @@
+{
+  "id": "gkseed294",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Canadian province is mainly French-speaking?",
+    "a": "Quebec"
+  },
+  "topic": "Canada",
+  "bonuses": [
+    {
+      "q": "Which Canadian city is the largest?",
+      "a": "Toronto"
+    },
+    {
+      "q": "What is the name of the tall tower in Toronto?",
+      "a": "The CN Tower"
+    },
+    {
+      "q": "Which Canadian police force is famous for its red uniforms?",
+      "a": "The Royal Canadian Mounted Police (Mounties)"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.5064768+08:00"
+}

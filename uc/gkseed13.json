@@ -1,0 +1,24 @@
+{
+  "id": "gkseed13",
+  "kind": "standard",
+  "starter": {
+    "q": "Which city, purpose-built as a compromise between Sydney and Melbourne, is the capital of Australia?",
+    "a": "Canberra"
+  },
+  "topic": "Capitals that aren't the biggest city",
+  "bonuses": [
+    {
+      "q": "What is the capital of Canada?",
+      "a": "Ottawa"
+    },
+    {
+      "q": "Which city, built from scratch in the interior, replaced Rio de Janeiro as Brazil's capital in 1960?",
+      "a": "Brasília"
+    },
+    {
+      "q": "Which city succeeded Istanbul as the capital of Turkey in 1923?",
+      "a": "Ankara"
+    }
+  ],
+  "updated": "2026-10-21T10:28:25.4071717+02:00"
+}

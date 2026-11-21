@@ -1,0 +1,24 @@
+{
+  "id": "gkseed159",
+  "kind": "standard",
+  "starter": {
+    "q": "Which word, from the Greek for 'all people', describes an outbreak of disease that spreads across many countries or continents?",
+    "a": "Pandemic"
+  },
+  "topic": "Microbes",
+  "bonuses": [
+    {
+      "q": "What name is given to a virus that infects bacteria, often shortened to 'phage'?",
+      "a": "Bacteriophage"
+    },
+    {
+      "q": "Which single-celled organism, a type of fungus, is used both to leaven bread and to ferment beer?",
+      "a": "Yeast"
+    },
+    {
+      "q": "What name is given to the community of trillions of microbes living in the human digestive system?",
+      "a": "The gut microbiome (gut flora)"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.5235045+08:00"
+}

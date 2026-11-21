@@ -1,0 +1,24 @@
+{
+  "id": "gkseed297",
+  "kind": "standard",
+  "starter": {
+    "q": "Which city is the capital of Egypt?",
+    "a": "Cairo"
+  },
+  "topic": "Egypt",
+  "bonuses": [
+    {
+      "q": "Which dam on the Nile created Lake Nasser?",
+      "a": "The Aswan High Dam"
+    },
+    {
+      "q": "Which British archaeologist found Tutankhamun's tomb in 1922?",
+      "a": "Howard Carter"
+    },
+    {
+      "q": "Which queen of Egypt allied with Julius Caesar and Mark Antony?",
+      "a": "Cleopatra"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.5591018+08:00"
+}

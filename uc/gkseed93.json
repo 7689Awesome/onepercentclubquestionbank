@@ -1,0 +1,24 @@
+{
+  "id": "gkseed93",
+  "kind": "standard",
+  "starter": {
+    "q": "Which video game series, created by Hideo Kojima, follows the soldier Solid Snake?",
+    "a": "Metal Gear"
+  },
+  "topic": "Video game heroes",
+  "bonuses": [
+    {
+      "q": "Which hero of Nintendo games wears a green tunic and saves Princess Zelda?",
+      "a": "Link"
+    },
+    {
+      "q": "In the Halo games, what is the codename of the super-soldier hero?",
+      "a": "Master Chief"
+    },
+    {
+      "q": "Which blue hedgehog is Sega's mascot?",
+      "a": "Sonic"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8231089+08:00"
+}

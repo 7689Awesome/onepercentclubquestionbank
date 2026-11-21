@@ -1,0 +1,24 @@
+{
+  "id": "gkseed133",
+  "kind": "standard",
+  "starter": {
+    "q": "Which part of a cell contains its genetic material?",
+    "a": "The nucleus"
+  },
+  "topic": "Genetics",
+  "bonuses": [
+    {
+      "q": "What do the letters DNA stand for?",
+      "a": "Deoxyribonucleic acid"
+    },
+    {
+      "q": "How many pairs of chromosomes do humans normally have?",
+      "a": "23"
+    },
+    {
+      "q": "Which sheep, born in 1996, was the first mammal cloned from an adult cell?",
+      "a": "Dolly"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.9080905+08:00"
+}

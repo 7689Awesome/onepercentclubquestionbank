@@ -1,0 +1,24 @@
+{
+  "id": "gkseed335",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Italian frozen dessert is denser than ice cream?",
+    "a": "Gelato"
+  },
+  "topic": "Desserts of the world",
+  "bonuses": [
+    {
+      "q": "Which Austrian chocolate cake with apricot jam was created at the Hotel Sacher?",
+      "a": "Sachertorte"
+    },
+    {
+      "q": "Which Turkish sweet made of layers of filo pastry, nuts and syrup is popular across the Middle East?",
+      "a": "Baklava"
+    },
+    {
+      "q": "Which Portuguese custard tart originated in Belém?",
+      "a": "Pastel de nata"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.1767684+08:00"
+}

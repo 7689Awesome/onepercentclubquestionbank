@@ -1,0 +1,24 @@
+{
+  "id": "gkseed143",
+  "kind": "standard",
+  "starter": {
+    "q": "Which famous waterfall lies on the border between Canada and the United States?",
+    "a": "Niagara Falls"
+  },
+  "topic": "Waterfalls",
+  "bonuses": [
+    {
+      "q": "Which waterfall in Venezuela is the tallest in the world?",
+      "a": "Angel Falls"
+    },
+    {
+      "q": "Which waterfall on the Zambezi is known locally as 'the smoke that thunders'?",
+      "a": "Victoria Falls"
+    },
+    {
+      "q": "Which giant waterfall system lies on the border of Argentina and Brazil?",
+      "a": "Iguazu Falls"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.9296786+08:00"
+}

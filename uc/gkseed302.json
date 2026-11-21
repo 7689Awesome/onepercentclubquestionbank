@@ -1,0 +1,24 @@
+{
+  "id": "gkseed302",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to the middle value in an ordered list of numbers?",
+    "a": "The median"
+  },
+  "topic": "Statistics",
+  "bonuses": [
+    {
+      "q": "What name is given to the most frequent value in a set of data?",
+      "a": "The mode"
+    },
+    {
+      "q": "What name is given to the average found by adding values and dividing by how many there are?",
+      "a": "The mean"
+    },
+    {
+      "q": "What shape is a normal distribution graph often compared to?",
+      "a": "A bell"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.6417246+08:00"
+}

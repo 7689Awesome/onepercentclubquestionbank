@@ -1,0 +1,24 @@
+{
+  "id": "gkseed382",
+  "kind": "standard",
+  "starter": {
+    "q": "Which sea between Egypt and Saudi Arabia is named after a colour?",
+    "a": "The Red Sea"
+  },
+  "topic": "Colours in names",
+  "bonuses": [
+    {
+      "q": "Which river in China is named after a colour?",
+      "a": "The Yellow River (Huang He)"
+    },
+    {
+      "q": "Which mountain range in the eastern US is named after a colour?",
+      "a": "The Blue Ridge Mountains"
+    },
+    {
+      "q": "Which colour of card shows a football player has been sent off?",
+      "a": "Red"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.9857+08:00"
+}

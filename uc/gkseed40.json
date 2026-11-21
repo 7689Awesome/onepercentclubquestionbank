@@ -1,0 +1,24 @@
+{
+  "id": "gkseed40",
+  "kind": "standard",
+  "starter": {
+    "q": "Which civil rights leader gave the 'I Have a Dream' speech at the March on Washington in 1963?",
+    "a": "Martin Luther King Jr."
+  },
+  "topic": "The Nobel Peace Prize",
+  "bonuses": [
+    {
+      "q": "Which South African leader shared the 1993 Nobel Peace Prize with F. W. de Klerk?",
+      "a": "Nelson Mandela"
+    },
+    {
+      "q": "Which Pakistani campaigner for girls' education became the youngest Nobel laureate in 2014, aged 17?",
+      "a": "Malala Yousafzai"
+    },
+    {
+      "q": "Which nun, who founded the Missionaries of Charity in Calcutta, won the prize in 1979?",
+      "a": "Mother Teresa (Saint Teresa of Calcutta)"
+    }
+  ],
+  "updated": "2026-10-21T10:28:25.4785214+02:00"
+}

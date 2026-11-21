@@ -1,0 +1,24 @@
+{
+  "id": "gkseed318",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to the stage of sleep with rapid eye movements, when most dreaming happens?",
+    "a": "REM sleep"
+  },
+  "topic": "Sleep",
+  "bonuses": [
+    {
+      "q": "Which hormone, released in darkness, makes us sleepy?",
+      "a": "Melatonin"
+    },
+    {
+      "q": "What name is given to the body's roughly 24-hour internal clock?",
+      "a": "The circadian rhythm"
+    },
+    {
+      "q": "What name is given to a short daytime sleep, common in Spain?",
+      "a": "A siesta"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.8509716+08:00"
+}

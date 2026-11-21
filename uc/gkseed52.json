@@ -1,0 +1,24 @@
+{
+  "id": "gkseed52",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Pixar film of 2015 is set inside the mind of an eleven-year-old girl called Riley?",
+    "a": "Inside Out"
+  },
+  "topic": "Animated film studios",
+  "bonuses": [
+    {
+      "q": "Founded by Hayao Miyazaki and Isao Takahata, which studio made Spirited Away?",
+      "a": "Studio Ghibli"
+    },
+    {
+      "q": "Which studio, best known for Wallace and Gromit, is based in Bristol?",
+      "a": "Aardman Animations"
+    },
+    {
+      "q": "Which studio, part of Universal, created the Minions and the Despicable Me films?",
+      "a": "Illumination"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.738101+08:00"
+}

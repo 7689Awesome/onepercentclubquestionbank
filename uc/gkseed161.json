@@ -1,0 +1,24 @@
+{
+  "id": "gkseed161",
+  "kind": "standard",
+  "starter": {
+    "q": "Which word, from the Greek for 'heat' and 'movement', names the branch of physics dealing with heat, work and energy, which has four numbered laws?",
+    "a": "Thermodynamics"
+  },
+  "topic": "Laws of physics",
+  "bonuses": [
+    {
+      "q": "Which law of motion, Newton's third, states that for every action there is an equal and what?",
+      "a": "Opposite reaction"
+    },
+    {
+      "q": "Which law states that, at constant temperature, the pressure of a gas is inversely proportional to its volume?",
+      "a": "Boyle's law"
+    },
+    {
+      "q": "Which law, named after a German physicist, states that the current through a conductor is proportional to the voltage across it?",
+      "a": "Ohm's law"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.5407692+08:00"
+}

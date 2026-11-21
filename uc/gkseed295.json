@@ -1,0 +1,24 @@
+{
+  "id": "gkseed295",
+  "kind": "standard",
+  "starter": {
+    "q": "Which ancient city near Mexico City has the Pyramids of the Sun and Moon?",
+    "a": "Teotihuacan"
+  },
+  "topic": "Mexico",
+  "bonuses": [
+    {
+      "q": "Which Mexican holiday on 5 May marks a victory over the French?",
+      "a": "Cinco de Mayo"
+    },
+    {
+      "q": "Which Mexican peninsula is home to Cancún?",
+      "a": "Yucatán"
+    },
+    {
+      "q": "Which Mexican painter married Frida Kahlo?",
+      "a": "Diego Rivera"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.5146892+08:00"
+}

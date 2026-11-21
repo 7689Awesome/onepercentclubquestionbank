@@ -1,0 +1,24 @@
+{
+  "id": "gkseed390",
+  "kind": "standard",
+  "starter": {
+    "q": "Which horse was Alexander the Great's?",
+    "a": "Bucephalus"
+  },
+  "topic": "Famous horses",
+  "bonuses": [
+    {
+      "q": "Which fictional horse belongs to the Lone Ranger?",
+      "a": "Silver"
+    },
+    {
+      "q": "Which horse in 'Toy Story' belongs to Woody?",
+      "a": "Bullseye"
+    },
+    {
+      "q": "Which winged horse sprang from Medusa's blood?",
+      "a": "Pegasus"
+    }
+  ],
+  "updated": "2026-11-21T20:01:02.13073+08:00"
+}

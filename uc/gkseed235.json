@@ -1,0 +1,24 @@
+{
+  "id": "gkseed235",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Disney princess, the first to appear in a full-length animated feature in 1937, eats a poisoned apple?",
+    "a": "Snow White"
+  },
+  "topic": "Disney princesses",
+  "bonuses": [
+    {
+      "q": "Which Disney princess is the daughter of King Triton?",
+      "a": "Ariel"
+    },
+    {
+      "q": "Which Disney heroine from 1995 is based on a real Powhatan woman?",
+      "a": "Pocahontas"
+    },
+    {
+      "q": "Which Disney princess from 2009's 'The Princess and the Frog' lives in New Orleans?",
+      "a": "Tiana"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.5723185+08:00"
+}

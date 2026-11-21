@@ -1,0 +1,24 @@
+{
+  "id": "gkseed64",
+  "kind": "standard",
+  "starter": {
+    "q": "Which famous ship sank on its maiden voyage in April 1912 after hitting an iceberg in the North Atlantic?",
+    "a": "RMS Titanic"
+  },
+  "topic": "Famous ships",
+  "bonuses": [
+    {
+      "q": "Which ship carried the Pilgrims from England to America in 1620?",
+      "a": "The Mayflower"
+    },
+    {
+      "q": "Which was Charles Darwin's ship on his voyage to the Galápagos?",
+      "a": "HMS Beagle"
+    },
+    {
+      "q": "Which ship was Captain Cook's on his first voyage to Australia?",
+      "a": "HMS Endeavour"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7625253+08:00"
+}

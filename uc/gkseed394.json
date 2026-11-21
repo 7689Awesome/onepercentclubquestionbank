@@ -1,0 +1,24 @@
+{
+  "id": "gkseed394",
+  "kind": "standard",
+  "starter": {
+    "q": "How many inches are in a foot?",
+    "a": "Twelve"
+  },
+  "topic": "Measurement",
+  "bonuses": [
+    {
+      "q": "How many feet are in a mile?",
+      "a": "5,280"
+    },
+    {
+      "q": "How many centimetres are in an inch, approximately?",
+      "a": "2.54"
+    },
+    {
+      "q": "How many kilograms is one tonne?",
+      "a": "1,000"
+    }
+  ],
+  "updated": "2026-11-21T20:01:02.1995737+08:00"
+}

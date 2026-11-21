@@ -1,0 +1,24 @@
+{
+  "id": "gkseed137",
+  "kind": "standard",
+  "starter": {
+    "q": "Which rapper, born Aubrey Graham, began his career as an actor on the Canadian teen drama Degrassi?",
+    "a": "Drake"
+  },
+  "topic": "Hip hop",
+  "bonuses": [
+    {
+      "q": "Which rapper released the Pulitzer Prize-winning album DAMN.?",
+      "a": "Kendrick Lamar"
+    },
+    {
+      "q": "Which rapper is known as Slim Shady?",
+      "a": "Eminem"
+    },
+    {
+      "q": "Which rapper and businessman, married to Beyoncé, founded Roc Nation?",
+      "a": "Jay-Z"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.9174278+08:00"
+}

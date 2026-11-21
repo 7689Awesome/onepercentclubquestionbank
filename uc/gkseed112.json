@@ -1,0 +1,24 @@
+{
+  "id": "gkseed112",
+  "kind": "standard",
+  "starter": {
+    "q": "Which European city, the capital of the Netherlands, is famous for its canals and the Anne Frank House?",
+    "a": "Amsterdam"
+  },
+  "topic": "European cities",
+  "bonuses": [
+    {
+      "q": "Which Spanish city is home to the Sagrada Família?",
+      "a": "Barcelona"
+    },
+    {
+      "q": "Which Czech city is famous for the Charles Bridge?",
+      "a": "Prague"
+    },
+    {
+      "q": "Which Italian city is built on more than a hundred small islands in a lagoon?",
+      "a": "Venice"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8639004+08:00"
+}

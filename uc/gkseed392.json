@@ -1,0 +1,24 @@
+{
+  "id": "gkseed392",
+  "kind": "standard",
+  "starter": {
+    "q": "Which blue-and-white astromech droid is C-3PO's companion in Star Wars?",
+    "a": "R2-D2"
+  },
+  "topic": "Famous robots",
+  "bonuses": [
+    {
+      "q": "Which Japanese robot cat from the future has a magic pocket?",
+      "a": "Doraemon"
+    },
+    {
+      "q": "Which Honda humanoid robot was introduced in 2000?",
+      "a": "ASIMO"
+    },
+    {
+      "q": "Which Pixar robot falls in love with EVE?",
+      "a": "WALL-E"
+    }
+  ],
+  "updated": "2026-11-21T20:01:02.1765268+08:00"
+}

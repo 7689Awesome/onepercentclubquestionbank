@@ -1,0 +1,24 @@
+{
+  "id": "gkseed276",
+  "kind": "standard",
+  "starter": {
+    "q": "Which secret society, founded in 1892, launched the revolution against Spain?",
+    "a": "The Katipunan"
+  },
+  "topic": "The Philippine Revolution",
+  "bonuses": [
+    {
+      "q": "What did revolutionaries tear in 1896 in the 'Cry of Pugad Lawin'?",
+      "a": "Their cedulas (tax certificates)"
+    },
+    {
+      "q": "In which town did Emilio Aguinaldo declare independence on 12 June 1898?",
+      "a": "Kawit, Cavite"
+    },
+    {
+      "q": "Which young general died defending Tirad Pass in 1899?",
+      "a": "Gregorio del Pilar"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.2344919+08:00"
+}

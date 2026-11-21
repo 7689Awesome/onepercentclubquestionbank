@@ -1,0 +1,24 @@
+{
+  "id": "gkseed346",
+  "kind": "standard",
+  "starter": {
+    "q": "Which calendar, introduced in 1582, is used across most of the world today?",
+    "a": "The Gregorian calendar"
+  },
+  "topic": "Calendars",
+  "bonuses": [
+    {
+      "q": "Which Roman leader gave his name to July?",
+      "a": "Julius Caesar"
+    },
+    {
+      "q": "Which month was named after the first Roman emperor?",
+      "a": "August"
+    },
+    {
+      "q": "Which month's name comes from the Latin for 'eight', though it is now the tenth month?",
+      "a": "October"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.3230574+08:00"
+}

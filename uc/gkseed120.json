@@ -1,0 +1,24 @@
+{
+  "id": "gkseed120",
+  "kind": "standard",
+  "starter": {
+    "q": "Which language did the ancient Romans speak?",
+    "a": "Latin"
+  },
+  "topic": "Latin phrases",
+  "bonuses": [
+    {
+      "q": "Which Latin phrase means 'seize the day'?",
+      "a": "Carpe diem"
+    },
+    {
+      "q": "What does the abbreviation 'e.g.' stand for in Latin?",
+      "a": "Exempli gratia"
+    },
+    {
+      "q": "Which Latin phrase, meaning 'and the other things', is usually shortened to 'etc.'?",
+      "a": "Et cetera"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8802923+08:00"
+}

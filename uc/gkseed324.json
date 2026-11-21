@@ -1,0 +1,24 @@
+{
+  "id": "gkseed324",
+  "kind": "standard",
+  "starter": {
+    "q": "Which game's world championship, 'Worlds', is run by Riot Games?",
+    "a": "League of Legends"
+  },
+  "topic": "Esports",
+  "bonuses": [
+    {
+      "q": "Which Valve game's top tournament is called 'The International'?",
+      "a": "Dota 2"
+    },
+    {
+      "q": "Which mobile game's world championship has been won several times by Filipino teams such as Blacklist and ECHO?",
+      "a": "Mobile Legends: Bang Bang"
+    },
+    {
+      "q": "Which South Korean player, known as 'Faker', is a League of Legends legend?",
+      "a": "Lee Sang-hyeok"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.9902206+08:00"
+}

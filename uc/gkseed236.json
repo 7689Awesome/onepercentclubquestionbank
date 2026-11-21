@@ -1,0 +1,24 @@
+{
+  "id": "gkseed236",
+  "kind": "standard",
+  "starter": {
+    "q": "Which villain, voiced by James Earl Jones, wears a black helmet and breathes heavily?",
+    "a": "Darth Vader"
+  },
+  "topic": "Villains of film",
+  "bonuses": [
+    {
+      "q": "Which Disney villain wants to make a coat from Dalmatian puppies?",
+      "a": "Cruella de Vil"
+    },
+    {
+      "q": "Which villain in 'The Silence of the Lambs' is a cannibalistic psychiatrist?",
+      "a": "Hannibal Lecter"
+    },
+    {
+      "q": "Which Pixar villain is a pink, strawberry-scented teddy bear in Toy Story 3?",
+      "a": "Lotso (Lots-o'-Huggin' Bear)"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.5739152+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed393",
+  "kind": "standard",
+  "starter": {
+    "q": "How many minutes are in a day?",
+    "a": "1,440"
+  },
+  "topic": "Time",
+  "bonuses": [
+    {
+      "q": "Which is the shortest month of the year?",
+      "a": "February"
+    },
+    {
+      "q": "What name is given to a period of ten years?",
+      "a": "A decade"
+    },
+    {
+      "q": "What name is given to a period of a thousand years?",
+      "a": "A millennium"
+    }
+  ],
+  "updated": "2026-11-21T20:01:02.1796465+08:00"
+}

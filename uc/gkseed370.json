@@ -1,0 +1,24 @@
+{
+  "id": "gkseed370",
+  "kind": "standard",
+  "starter": {
+    "q": "Which British talent show created by Simon Cowell found One Direction?",
+    "a": "The X Factor"
+  },
+  "topic": "Talent shows",
+  "bonuses": [
+    {
+      "q": "Which show saw Susan Boyle sing 'I Dreamed a Dream' in 2009?",
+      "a": "Britain's Got Talent"
+    },
+    {
+      "q": "Which singing show has coaches choosing singers by voice alone, with spinning chairs?",
+      "a": "The Voice"
+    },
+    {
+      "q": "Which American singing competition launched Kelly Clarkson?",
+      "a": "American Idol"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.6707316+08:00"
+}
