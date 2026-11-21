@@ -343,21 +343,59 @@
   ],
   "vowels": [
     {
-      "category": "",
-      "answers": []
+      "category": "Filipino Desserts",
+      "answers": [
+        "Halo Halo",
+        "Leche Flan",
+        "Bibingka",
+        "Kutsinta"
+      ]
     },
     {
-      "category": "",
-      "answers": []
+      "category": "Song titles minus one",
+      "answers": [
+        "Twenty-three Karat Magic",
+        "Nine-Hundred and Ninety-Nine Years",
+        "Twenty Guns",
+        "Ninety-Eight Red Balloons"
+      ]
     },
     {
-      "category": "",
-      "answers": []
+      "category": "Studies and Disciplines",
+      "answers": [
+        "Taxonomy",
+        "Paleontology",
+        "Meteorology'",
+        "Cosmology"
+      ]
     },
     {
-      "category": "",
-      "answers": []
+      "category": "Jollibee Menu Items",
+      "answers": [
+        "Chickenjoy",
+        "Yumburger",
+        "Jolly Spaghetti",
+        "Peach Mango Pie"
+      ]
+    },
+    {
+      "category": "Metro Manila Cities",
+      "answers": [
+        "Makati",
+        "Pasig",
+        "Taguig",
+        "Mandaluyong"
+      ]
+    },
+    {
+      "category": "Taylor Swift Albums",
+      "answers": [
+        "Folklore",
+        "Evermore",
+        "Midnights",
+        "Lover"
+      ]
     }
   ],
-  "updated": "2026-11-22T03:36:28.8216534+08:00"
+  "updated": "2026-11-22T03:39:16.6082804+08:00"
 }
