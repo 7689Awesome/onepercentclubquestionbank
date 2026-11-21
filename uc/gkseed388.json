@@ -1,0 +1,24 @@
+{
+  "id": "gkseed388",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Japanese company invented instant noodles, under Momofuku Ando?",
+    "a": "Nissin"
+  },
+  "topic": "Inventions of Asia",
+  "bonuses": [
+    {
+      "q": "Which Chinese invention of the Han dynasty is credited to Cai Lun?",
+      "a": "Paper"
+    },
+    {
+      "q": "Which Korean invention of 1377 is the oldest surviving book printed with movable metal type?",
+      "a": "Jikji"
+    },
+    {
+      "q": "Which Filipino is credited with inventing the 'Sing-Along System', a karaoke machine?",
+      "a": "Roberto del Rosario"
+    }
+  ],
+  "updated": "2026-11-21T20:01:02.1242436+08:00"
+}

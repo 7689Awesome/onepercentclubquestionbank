@@ -1,0 +1,24 @@
+{
+  "id": "gkseed386",
+  "kind": "standard",
+  "starter": {
+    "q": "Which ancient Chinese board game, called 'baduk' in Korea, uses black and white stones?",
+    "a": "Go"
+  },
+  "topic": "Board games of Asia",
+  "bonuses": [
+    {
+      "q": "Which Japanese chess variant allows captured pieces to be used again?",
+      "a": "Shogi"
+    },
+    {
+      "q": "Which Chinese tile game is played by four players and is popular in the Philippines?",
+      "a": "Mahjong"
+    },
+    {
+      "q": "Which Indian game is the ancestor of Snakes and Ladders?",
+      "a": "Moksha Patam"
+    }
+  ],
+  "updated": "2026-11-21T20:01:02.0841915+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed391",
+  "kind": "standard",
+  "starter": {
+    "q": "Which fictional dog is Tintin's companion?",
+    "a": "Snowy"
+  },
+  "topic": "Famous dogs",
+  "bonuses": [
+    {
+      "q": "Which cartoon dog solves mysteries with 'Mystery Inc.'?",
+      "a": "Scooby-Doo"
+    },
+    {
+      "q": "Which dog owned by Dorothy appears in 'The Wizard of Oz'?",
+      "a": "Toto"
+    },
+    {
+      "q": "Which Pixar film features a talking dog named Dug?",
+      "a": "Up"
+    }
+  ],
+  "updated": "2026-11-21T20:01:02.1339431+08:00"
+}

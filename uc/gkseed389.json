@@ -1,0 +1,24 @@
+{
+  "id": "gkseed389",
+  "kind": "standard",
+  "starter": {
+    "q": "Which item of clothing is named after the Earl of Cardigan?",
+    "a": "The cardigan"
+  },
+  "topic": "Eponyms",
+  "bonuses": [
+    {
+      "q": "Which raincoat is named after its inventor Charles Macintosh?",
+      "a": "The mackintosh"
+    },
+    {
+      "q": "Which word for a boycott comes from an Irish land agent?",
+      "a": "Boycott (Charles Boycott)"
+    },
+    {
+      "q": "Which dessert of peaches, ice cream and raspberry sauce is named after an Australian opera singer?",
+      "a": "Peach Melba"
+    }
+  ],
+  "updated": "2026-11-21T20:01:02.1292114+08:00"
+}

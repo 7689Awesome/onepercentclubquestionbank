@@ -1,0 +1,24 @@
+{
+  "id": "gkseed401",
+  "kind": "standard",
+  "starter": {
+    "q": "Which crisps brand comes in a tube?",
+    "a": "Pringles"
+  },
+  "topic": "Snacks",
+  "bonuses": [
+    {
+      "q": "Which Japanese snack brand makes chocolate-coated biscuit sticks?",
+      "a": "Pocky (Glico)"
+    },
+    {
+      "q": "Which Filipino snack brand makes the cheese-flavoured 'Chippy'?",
+      "a": "Jack 'n Jill (URC)"
+    },
+    {
+      "q": "Which popcorn flavour is made with sugar and butter, sold at funfairs?",
+      "a": "Caramel"
+    }
+  ],
+  "updated": "2026-11-21T20:01:02.3024935+08:00"
+}

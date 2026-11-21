@@ -1,0 +1,24 @@
+{
+  "id": "gkseed399",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Ethiopian runner won the 1960 Olympic marathon in Rome running barefoot?",
+    "a": "Abebe Bikila"
+  },
+  "topic": "Running",
+  "bonuses": [
+    {
+      "q": "Which city's marathon, held since 1897, is the oldest annual marathon?",
+      "a": "Boston"
+    },
+    {
+      "q": "Which distance in metres is one lap of a standard running track?",
+      "a": "400 metres"
+    },
+    {
+      "q": "What name is given to a race in which runners hand over a baton?",
+      "a": "A relay"
+    }
+  ],
+  "updated": "2026-11-21T20:01:02.2638304+08:00"
+}
