@@ -1,0 +1,24 @@
+{
+  "id": "gkseed89",
+  "kind": "standard",
+  "starter": {
+    "q": "Which J. R. R. Tolkien novel of 1937 follows Bilbo Baggins on a quest with thirteen dwarves?",
+    "a": "The Hobbit"
+  },
+  "topic": "The Lord of the Rings",
+  "bonuses": [
+    {
+      "q": "What is the name of the volcano where the One Ring must be destroyed?",
+      "a": "Mount Doom"
+    },
+    {
+      "q": "Which wizard is known as 'the Grey' and later 'the White'?",
+      "a": "Gandalf"
+    },
+    {
+      "q": "Which creature calls the ring 'my precious'?",
+      "a": "Gollum"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8143677+08:00"
+}

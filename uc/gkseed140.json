@@ -1,0 +1,24 @@
+{
+  "id": "gkseed140",
+  "kind": "standard",
+  "starter": {
+    "q": "Which reality TV show, first shown in 2015, puts single people in a villa where they must couple up?",
+    "a": "Love Island"
+  },
+  "topic": "Reality TV",
+  "bonuses": [
+    {
+      "q": "Which Netflix reality show has couples get engaged before seeing each other?",
+      "a": "Love Is Blind"
+    },
+    {
+      "q": "Which baking competition has contestants make showstoppers in a tent?",
+      "a": "The Great British Bake Off"
+    },
+    {
+      "q": "Which American family's reality show began as Keeping Up With the Kardashians?",
+      "a": "The Kardashians"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.9217223+08:00"
+}

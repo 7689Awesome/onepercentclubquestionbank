@@ -1,0 +1,24 @@
+{
+  "id": "gkseed100",
+  "kind": "standard",
+  "starter": {
+    "q": "Which ancient civilisation built Machu Picchu high in the Andes in the fifteenth century?",
+    "a": "The Inca"
+  },
+  "topic": "Ancient civilisations",
+  "bonuses": [
+    {
+      "q": "Which civilisation built the pyramid of Chichén Itzá in Mexico?",
+      "a": "The Maya"
+    },
+    {
+      "q": "Which empire built the city of Tenochtitlan, now Mexico City?",
+      "a": "The Aztecs"
+    },
+    {
+      "q": "Which empire built the temple of Angkor Wat?",
+      "a": "The Khmer Empire"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.83683+08:00"
+}

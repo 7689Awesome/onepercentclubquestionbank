@@ -1,0 +1,24 @@
+{
+  "id": "gkseed25",
+  "kind": "standard",
+  "starter": {
+    "q": "Which George Orwell novel features the Party slogans 'War is peace, freedom is slavery, ignorance is strength'?",
+    "a": "Nineteen Eighty-Four"
+  },
+  "topic": "Dystopian novels",
+  "bonuses": [
+    {
+      "q": "Which Aldous Huxley novel is set in the World State, whose citizens are conditioned from birth and take the drug soma?",
+      "a": "Brave New World"
+    },
+    {
+      "q": "Who wrote The Handmaid's Tale, set in the Republic of Gilead?",
+      "a": "Margaret Atwood"
+    },
+    {
+      "q": "In Ray Bradbury's novel Fahrenheit 451, what does the number refer to?",
+      "a": "The temperature at which paper (books) catches fire"
+    }
+  ],
+  "updated": "2026-10-21T10:28:25.4390144+02:00"
+}

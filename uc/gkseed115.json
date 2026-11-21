@@ -1,0 +1,24 @@
+{
+  "id": "gkseed115",
+  "kind": "standard",
+  "starter": {
+    "q": "What is the hardest natural substance known?",
+    "a": "Diamond"
+  },
+  "topic": "Minerals",
+  "bonuses": [
+    {
+      "q": "What scale ranks minerals by hardness from one to ten?",
+      "a": "The Mohs scale"
+    },
+    {
+      "q": "Which mineral, the softest on the Mohs scale, is used in baby powder?",
+      "a": "Talc"
+    },
+    {
+      "q": "Which mineral, made of silicon dioxide, is used in watches for its vibrations?",
+      "a": "Quartz"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8694387+08:00"
+}

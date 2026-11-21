@@ -1,0 +1,24 @@
+{
+  "id": "gkseed84",
+  "kind": "standard",
+  "starter": {
+    "q": "Which chain of fast-food restaurants, founded in 1940 by brothers Richard and Maurice, now has golden arches as its logo?",
+    "a": "McDonald's"
+  },
+  "topic": "Fast food",
+  "bonuses": [
+    {
+      "q": "Which Filipino fast-food chain, famous for its sweet spaghetti, has a bee as its mascot?",
+      "a": "Jollibee"
+    },
+    {
+      "q": "Which American chain is famous for its Whopper burger?",
+      "a": "Burger King"
+    },
+    {
+      "q": "Which chain, founded by Colonel Harland Sanders, sells fried chicken in a bucket?",
+      "a": "KFC"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8045633+08:00"
+}

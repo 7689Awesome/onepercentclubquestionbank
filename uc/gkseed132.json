@@ -1,0 +1,24 @@
+{
+  "id": "gkseed132",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Asian country, whose name means 'land of the free', is the only one in Southeast Asia never colonised by a European power?",
+    "a": "Thailand"
+  },
+  "topic": "Thailand",
+  "bonuses": [
+    {
+      "q": "Which Thai noodle dish is stir-fried with tamarind and peanuts?",
+      "a": "Pad thai"
+    },
+    {
+      "q": "What is the currency of Thailand?",
+      "a": "The baht"
+    },
+    {
+      "q": "Which Thai island is famous for its Full Moon Parties?",
+      "a": "Ko Pha-ngan"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.9055579+08:00"
+}

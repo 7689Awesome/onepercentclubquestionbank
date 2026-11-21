@@ -1,0 +1,24 @@
+{
+  "id": "gkseed107",
+  "kind": "standard",
+  "starter": {
+    "q": "Which dinosaur, whose name means 'tyrant lizard king', was one of the largest meat-eating dinosaurs?",
+    "a": "Tyrannosaurus rex"
+  },
+  "topic": "Dinosaurs",
+  "bonuses": [
+    {
+      "q": "Which plant-eating dinosaur had three horns on its face?",
+      "a": "Triceratops"
+    },
+    {
+      "q": "Which dinosaur had large plates along its back and a spiked tail?",
+      "a": "Stegosaurus"
+    },
+    {
+      "q": "Which small, fast dinosaur was made famous by Jurassic Park?",
+      "a": "Velociraptor"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8508388+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed122",
+  "kind": "standard",
+  "starter": {
+    "q": "Which tech company, founded in 2015, released the AI chatbot ChatGPT in November 2022?",
+    "a": "OpenAI"
+  },
+  "topic": "Artificial intelligence",
+  "bonuses": [
+    {
+      "q": "Which Google AI company's program AlphaGo beat a world champion at the board game Go?",
+      "a": "DeepMind"
+    },
+    {
+      "q": "What three-letter abbreviation is used for AI models such as GPT that are trained on huge amounts of text?",
+      "a": "LLM (large language model)"
+    },
+    {
+      "q": "Which British mathematician proposed a test of whether a machine can think like a human?",
+      "a": "Alan Turing"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8850054+08:00"
+}

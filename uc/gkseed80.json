@@ -1,0 +1,24 @@
+{
+  "id": "gkseed80",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Studio Ghibli film of 2001 follows a girl called Chihiro who works in a bathhouse for spirits?",
+    "a": "Spirited Away"
+  },
+  "topic": "Studio Ghibli",
+  "bonuses": [
+    {
+      "q": "In which Ghibli film does a goldfish princess want to become human?",
+      "a": "Ponyo"
+    },
+    {
+      "q": "In which Ghibli film does a young witch start a delivery service?",
+      "a": "Kiki's Delivery Service"
+    },
+    {
+      "q": "Which Ghibli film features a walking castle owned by a wizard called Howl?",
+      "a": "Howl's Moving Castle"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7967925+08:00"
+}

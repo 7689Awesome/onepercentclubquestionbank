@@ -1,0 +1,24 @@
+{
+  "id": "gkseed130",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to the large moving pieces of the Earth's crust whose collisions cause earthquakes?",
+    "a": "Tectonic plates"
+  },
+  "topic": "Earthquakes and volcanoes",
+  "bonuses": [
+    {
+      "q": "What name is given to the ring of volcanoes around the Pacific Ocean?",
+      "a": "The Ring of Fire"
+    },
+    {
+      "q": "What is molten rock called once it reaches the Earth's surface?",
+      "a": "Lava"
+    },
+    {
+      "q": "What name is given to the point on the surface directly above an earthquake's origin?",
+      "a": "The epicentre"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.9016121+08:00"
+}

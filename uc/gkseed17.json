@@ -1,0 +1,24 @@
+{
+  "id": "gkseed17",
+  "kind": "standard",
+  "starter": {
+    "q": "What is the hardest naturally occurring mineral, scoring 10 on the Mohs scale?",
+    "a": "Diamond"
+  },
+  "topic": "Gemstones",
+  "bonuses": [
+    {
+      "q": "Rubies and sapphires are both varieties of which mineral?",
+      "a": "Corundum"
+    },
+    {
+      "q": "Which green gemstone is a variety of the mineral beryl?",
+      "a": "Emerald"
+    },
+    {
+      "q": "Which organic gemstone is fossilised tree resin, sometimes with insects trapped inside?",
+      "a": "Amber"
+    }
+  ],
+  "updated": "2026-10-21T10:28:25.4179888+02:00"
+}

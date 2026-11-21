@@ -1,0 +1,24 @@
+{
+  "id": "gkseed97",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Disney film of 2013, featuring the sisters Anna and Elsa, includes the song Let It Go?",
+    "a": "Frozen"
+  },
+  "topic": "Disney songs",
+  "bonuses": [
+    {
+      "q": "Which song from The Lion King means 'no worries'?",
+      "a": "Hakuna Matata"
+    },
+    {
+      "q": "Which song from Moana is sung by the demigod Maui?",
+      "a": "You're Welcome"
+    },
+    {
+      "q": "Which song from Encanto topped the Billboard Hot 100 in 2022?",
+      "a": "We Don't Talk About Bruno"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8301802+08:00"
+}

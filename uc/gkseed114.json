@@ -1,0 +1,24 @@
+{
+  "id": "gkseed114",
+  "kind": "standard",
+  "starter": {
+    "q": "Which American singer-songwriter released the album 1989 in 2014 and a re-recorded version in 2023?",
+    "a": "Taylor Swift"
+  },
+  "topic": "Taylor Swift",
+  "bonuses": [
+    {
+      "q": "What name is given to Taylor Swift's fans?",
+      "a": "Swifties"
+    },
+    {
+      "q": "Which 2023 to 2024 tour by Taylor Swift became the highest-grossing tour of all time?",
+      "a": "The Eras Tour"
+    },
+    {
+      "q": "Which NFL player did Taylor Swift announce her engagement to in 2025?",
+      "a": "Travis Kelce"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8677161+08:00"
+}

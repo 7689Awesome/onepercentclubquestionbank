@@ -1,0 +1,24 @@
+{
+  "id": "gkseed79",
+  "kind": "standard",
+  "starter": {
+    "q": "Which word describes an animal that eats only plants?",
+    "a": "Herbivore"
+  },
+  "topic": "Animal diets",
+  "bonuses": [
+    {
+      "q": "What word describes an animal that eats both plants and meat?",
+      "a": "Omnivore"
+    },
+    {
+      "q": "What word describes an animal that eats mainly insects?",
+      "a": "Insectivore"
+    },
+    {
+      "q": "What name is given to animals, such as vultures, that feed on dead animals?",
+      "a": "Scavengers"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7957052+08:00"
+}

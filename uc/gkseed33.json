@@ -1,0 +1,24 @@
+{
+  "id": "gkseed33",
+  "kind": "standard",
+  "starter": {
+    "q": "Counting polar deserts, what is the largest desert in the world?",
+    "a": "Antarctica (the Antarctic Desert)"
+  },
+  "topic": "Hot deserts",
+  "bonuses": [
+    {
+      "q": "What is the largest hot desert in the world?",
+      "a": "The Sahara"
+    },
+    {
+      "q": "Which desert in northern Chile is one of the driest places on Earth?",
+      "a": "The Atacama"
+    },
+    {
+      "q": "The Gobi Desert lies in China and which other country?",
+      "a": "Mongolia"
+    }
+  ],
+  "updated": "2026-10-21T10:28:25.4583903+02:00"
+}

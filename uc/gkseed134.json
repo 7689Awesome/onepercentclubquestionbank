@@ -1,0 +1,24 @@
+{
+  "id": "gkseed134",
+  "kind": "standard",
+  "starter": {
+    "q": "Which American basketball player, nicknamed King James, became the NBA's all-time leading scorer in 2023?",
+    "a": "LeBron James"
+  },
+  "topic": "Basketball",
+  "bonuses": [
+    {
+      "q": "Which player wore number 23 for the Chicago Bulls and won six NBA titles?",
+      "a": "Michael Jordan"
+    },
+    {
+      "q": "Which Golden State Warriors guard is famous for his three-point shooting?",
+      "a": "Stephen Curry"
+    },
+    {
+      "q": "Which Chinese centre played for the Houston Rockets from 2002 to 2011?",
+      "a": "Yao Ming"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.909429+08:00"
+}

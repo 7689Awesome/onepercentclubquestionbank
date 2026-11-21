@@ -1,0 +1,24 @@
+{
+  "id": "gkseed70",
+  "kind": "standard",
+  "starter": {
+    "q": "In Greek myth, which hero had a mother who dipped him in the River Styx, leaving only his heel vulnerable?",
+    "a": "Achilles"
+  },
+  "topic": "Heroes of Greek myth",
+  "bonuses": [
+    {
+      "q": "Which hero killed the Minotaur in the labyrinth on Crete?",
+      "a": "Theseus"
+    },
+    {
+      "q": "Which hero beheaded Medusa?",
+      "a": "Perseus"
+    },
+    {
+      "q": "Which hero led the Argonauts in search of the Golden Fleece?",
+      "a": "Jason"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7755415+08:00"
+}

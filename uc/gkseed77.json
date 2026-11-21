@@ -1,0 +1,24 @@
+{
+  "id": "gkseed77",
+  "kind": "standard",
+  "starter": {
+    "q": "Which ancient wonder of the world, the only one still standing, was built as a tomb for the pharaoh Khufu?",
+    "a": "The Great Pyramid of Giza"
+  },
+  "topic": "Ancient Egypt",
+  "bonuses": [
+    {
+      "q": "Which young pharaoh's tomb was discovered almost intact by Howard Carter in 1922?",
+      "a": "Tutankhamun"
+    },
+    {
+      "q": "What name is given to the ancient Egyptian writing system of pictures and symbols?",
+      "a": "Hieroglyphics"
+    },
+    {
+      "q": "Which stone, found in 1799, helped scholars decipher hieroglyphs?",
+      "a": "The Rosetta Stone"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7874853+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed95",
+  "kind": "standard",
+  "starter": {
+    "q": "Which word describes a word or phrase that reads the same backwards as forwards, such as 'racecar'?",
+    "a": "A palindrome"
+  },
+  "topic": "Word play",
+  "bonuses": [
+    {
+      "q": "What name is given to a word formed by rearranging the letters of another, such as 'listen' and 'silent'?",
+      "a": "An anagram"
+    },
+    {
+      "q": "What name is given to a word made by blending two others, such as 'brunch'?",
+      "a": "A portmanteau"
+    },
+    {
+      "q": "What name is given to a word that sounds like the noise it describes, such as 'buzz'?",
+      "a": "Onomatopoeia"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8275651+08:00"
+}

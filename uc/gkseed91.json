@@ -1,0 +1,24 @@
+{
+  "id": "gkseed91",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Mexican festival, held in early November, honours loved ones who have died with altars and sugar skulls?",
+    "a": "Day of the Dead (Día de los Muertos)"
+  },
+  "topic": "Festivals",
+  "bonuses": [
+    {
+      "q": "Which Hindu festival of colours is celebrated by throwing coloured powder?",
+      "a": "Holi"
+    },
+    {
+      "q": "Which Thai festival marks the new year with water fights?",
+      "a": "Songkran"
+    },
+    {
+      "q": "Which festival, celebrated by Chinese communities with lanterns and mooncakes, is held in autumn?",
+      "a": "The Mid-Autumn Festival"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8192128+08:00"
+}

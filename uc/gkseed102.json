@@ -1,0 +1,24 @@
+{
+  "id": "gkseed102",
+  "kind": "standard",
+  "starter": {
+    "q": "Which unit of length is defined as the distance light travels in a vacuum in 1/299,792,458 of a second?",
+    "a": "The metre"
+  },
+  "topic": "SI units",
+  "bonuses": [
+    {
+      "q": "What is the SI unit of mass?",
+      "a": "The kilogram"
+    },
+    {
+      "q": "What is the SI unit of electric current?",
+      "a": "The ampere"
+    },
+    {
+      "q": "What is the SI unit of temperature?",
+      "a": "The kelvin"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8392828+08:00"
+}
