@@ -1,0 +1,24 @@
+{
+  "id": "gkseed43",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to an animal that eats both plants and meat?",
+    "a": "An omnivore"
+  },
+  "topic": "Animal record holders",
+  "bonuses": [
+    {
+      "q": "What is the largest animal known ever to have lived?",
+      "a": "The blue whale"
+    },
+    {
+      "q": "What is the fastest land animal?",
+      "a": "The cheetah"
+    },
+    {
+      "q": "Which seabird has the largest wingspan of any living bird, sometimes more than three metres?",
+      "a": "The wandering albatross (accept albatross)"
+    }
+  ],
+  "updated": "2026-10-21T10:28:25.4875642+02:00"
+}

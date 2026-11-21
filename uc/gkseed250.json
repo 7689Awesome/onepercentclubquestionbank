@@ -1,0 +1,24 @@
+{
+  "id": "gkseed250",
+  "kind": "standard",
+  "starter": {
+    "q": "What does 'OPM' stand for in Filipino music?",
+    "a": "Original Pilipino Music"
+  },
+  "topic": "OPM",
+  "bonuses": [
+    {
+      "q": "Which Filipino band released the album 'Cutterpillow' in 1995?",
+      "a": "Eraserheads"
+    },
+    {
+      "q": "Which Filipino singer-songwriter wrote 'Anak', translated into many languages?",
+      "a": "Freddie Aguilar"
+    },
+    {
+      "q": "Which Filipino band, known for comic songs, also recorded the ballad 'Harana'?",
+      "a": "Parokya ni Edgar"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.8178089+08:00"
+}

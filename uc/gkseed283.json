@@ -1,0 +1,24 @@
+{
+  "id": "gkseed283",
+  "kind": "standard",
+  "starter": {
+    "q": "Which group of British double agents recruited at a university in the 1930s included Kim Philby?",
+    "a": "The Cambridge Five"
+  },
+  "topic": "Spies and espionage",
+  "bonuses": [
+    {
+      "q": "Which American intelligence agency is headquartered in Langley, Virginia?",
+      "a": "The CIA"
+    },
+    {
+      "q": "What is the name of the UK's foreign intelligence service?",
+      "a": "MI6 (the Secret Intelligence Service)"
+    },
+    {
+      "q": "Which Dutch dancer was executed as a spy by France in 1917?",
+      "a": "Mata Hari"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.3256371+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed67",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Christopher Nolan film of 2010 follows a team who steal secrets by entering people's dreams?",
+    "a": "Inception"
+  },
+  "topic": "Christopher Nolan films",
+  "bonuses": [
+    {
+      "q": "Which 2014 Nolan film follows astronauts travelling through a wormhole?",
+      "a": "Interstellar"
+    },
+    {
+      "q": "Which 2017 Nolan film is about the evacuation of soldiers from a French beach in 1940?",
+      "a": "Dunkirk"
+    },
+    {
+      "q": "Which 2008 Nolan film features Heath Ledger as the Joker?",
+      "a": "The Dark Knight"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7691136+08:00"
+}

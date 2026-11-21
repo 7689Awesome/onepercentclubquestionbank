@@ -1,0 +1,24 @@
+{
+  "id": "gkseed125",
+  "kind": "standard",
+  "starter": {
+    "q": "Which famous clock tower in London is often called Big Ben, though that is really the name of its bell?",
+    "a": "Elizabeth Tower"
+  },
+  "topic": "London landmarks",
+  "bonuses": [
+    {
+      "q": "Which giant observation wheel on the South Bank opened in 2000?",
+      "a": "The London Eye"
+    },
+    {
+      "q": "Which royal residence is the London home of the British monarch?",
+      "a": "Buckingham Palace"
+    },
+    {
+      "q": "Which castle on the Thames houses the Crown Jewels?",
+      "a": "The Tower of London"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8895993+08:00"
+}

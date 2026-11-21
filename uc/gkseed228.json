@@ -1,0 +1,24 @@
+{
+  "id": "gkseed228",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to a material, such as rubber, that does not let electricity flow easily?",
+    "a": "An insulator"
+  },
+  "topic": "Electricity",
+  "bonuses": [
+    {
+      "q": "Which unit measures electrical potential difference?",
+      "a": "The volt"
+    },
+    {
+      "q": "Which Italian physicist invented the first electric battery?",
+      "a": "Alessandro Volta"
+    },
+    {
+      "q": "What do we call a circuit with only one path for current?",
+      "a": "A series circuit"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.5000813+08:00"
+}

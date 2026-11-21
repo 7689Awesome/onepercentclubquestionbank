@@ -1,0 +1,24 @@
+{
+  "id": "gkseed59",
+  "kind": "standard",
+  "starter": {
+    "q": "Which country is the world's largest archipelagic state, made up of more than 17,000 islands including Java and Sumatra?",
+    "a": "Indonesia"
+  },
+  "topic": "Southeast Asia",
+  "bonuses": [
+    {
+      "q": "Which country's capital is Phnom Penh?",
+      "a": "Cambodia"
+    },
+    {
+      "q": "Which country, formerly known as Burma, has its capital at Naypyidaw?",
+      "a": "Myanmar"
+    },
+    {
+      "q": "Which tiny oil-rich sultanate shares the island of Borneo with Malaysia and Indonesia?",
+      "a": "Brunei"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7504658+08:00"
+}

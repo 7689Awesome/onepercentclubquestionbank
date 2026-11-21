@@ -1,0 +1,24 @@
+{
+  "id": "gkseed206",
+  "kind": "standard",
+  "starter": {
+    "q": "Which dog breed, originally bred in Germany, is widely used by police and is sometimes called an Alsatian?",
+    "a": "The German Shepherd"
+  },
+  "topic": "Dogs",
+  "bonuses": [
+    {
+      "q": "Which dog breed is most associated with Dalmatia in Croatia and with fire engines?",
+      "a": "The Dalmatian"
+    },
+    {
+      "q": "Which dog breed is the tallest on average?",
+      "a": "The Great Dane"
+    },
+    {
+      "q": "Which Japanese dog became famous for waiting at Shibuya Station for his dead owner for nearly ten years?",
+      "a": "Hachikō"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.1663986+08:00"
+}

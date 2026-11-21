@@ -1,0 +1,24 @@
+{
+  "id": "gkseed240",
+  "kind": "standard",
+  "starter": {
+    "q": "Which awards, presented by the Recording Academy, honour achievements in music?",
+    "a": "The Grammy Awards"
+  },
+  "topic": "Award ceremonies",
+  "bonuses": [
+    {
+      "q": "Which awards honour excellence in television in the United States?",
+      "a": "The Emmy Awards"
+    },
+    {
+      "q": "Which awards honour Broadway theatre?",
+      "a": "The Tony Awards"
+    },
+    {
+      "q": "What name is given to someone who has won an Emmy, Grammy, Oscar and Tony?",
+      "a": "An EGOT"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.6802005+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed207",
+  "kind": "standard",
+  "starter": {
+    "q": "Which tailless cat breed takes its name from an island in the Irish Sea?",
+    "a": "The Manx"
+  },
+  "topic": "Cats",
+  "bonuses": [
+    {
+      "q": "Which Thai cat breed has a pale body with darker points on its ears, face, paws and tail?",
+      "a": "The Siamese"
+    },
+    {
+      "q": "What name is given to the rough-surfaced organ that cats use for grooming?",
+      "a": "Their tongue (papillae)"
+    },
+    {
+      "q": "In ancient Egypt, which cat-headed goddess was worshipped at Bubastis?",
+      "a": "Bastet"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.1745009+08:00"
+}

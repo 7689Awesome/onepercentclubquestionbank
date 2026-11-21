@@ -1,0 +1,24 @@
+{
+  "id": "gkseed293",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Australian city is the capital of Victoria?",
+    "a": "Melbourne"
+  },
+  "topic": "Australia",
+  "bonuses": [
+    {
+      "q": "What is the name of the huge red rock in the Northern Territory?",
+      "a": "Uluru"
+    },
+    {
+      "q": "Which dangerous jellyfish is found in northern Australian waters?",
+      "a": "The box jellyfish"
+    },
+    {
+      "q": "What name is given to the remote interior of Australia?",
+      "a": "The Outback"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.4992296+08:00"
+}

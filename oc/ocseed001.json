@@ -1,0 +1,333 @@
+{
+  "id": "ocseed001",
+  "name": "Game Night Classic",
+  "connections": [
+    {
+      "clues": [
+        {
+          "text": "Hermes"
+        },
+        {
+          "text": "Freddie"
+        },
+        {
+          "text": "Thermometer"
+        },
+        {
+          "text": "Closest planet to the Sun"
+        }
+      ],
+      "answer": "Mercury"
+    },
+    {
+      "clues": [
+        {
+          "text": "Florida"
+        },
+        {
+          "text": "Piano"
+        },
+        {
+          "text": "Computer"
+        },
+        {
+          "text": "Lock"
+        }
+      ],
+      "answer": "They have keys"
+    },
+    {
+      "clues": [
+        {
+          "text": "Mumbai"
+        },
+        {
+          "text": "Ho Chi Minh City"
+        },
+        {
+          "text": "Chennai"
+        },
+        {
+          "text": "Beijing"
+        }
+      ],
+      "answer": "Cities whose English names changed (Bombay, Saigon, Madras, Peking)"
+    },
+    {
+      "clues": [
+        {
+          "text": "Crystal"
+        },
+        {
+          "text": "Ruby"
+        },
+        {
+          "text": "Yellow"
+        },
+        {
+          "text": "Red"
+        }
+      ],
+      "answer": "Pokémon games"
+    },
+    {
+      "clues": [
+        {
+          "text": "Bashful"
+        },
+        {
+          "text": "Dopey"
+        },
+        {
+          "text": "Grumpy"
+        },
+        {
+          "text": "Sleepy"
+        }
+      ],
+      "answer": "The Seven Dwarfs"
+    },
+    {
+      "clues": [
+        {
+          "text": "Brazil"
+        },
+        {
+          "text": "Hazel"
+        },
+        {
+          "text": "Pea"
+        },
+        {
+          "text": "Coco"
+        }
+      ],
+      "answer": "___nut"
+    }
+  ],
+  "sequences": [
+    {
+      "clues": [
+        {
+          "text": "Mercury"
+        },
+        {
+          "text": "Venus"
+        },
+        {
+          "text": "Earth"
+        },
+        {
+          "text": "Mars"
+        }
+      ],
+      "answer": "Planets outward from the Sun"
+    },
+    {
+      "clues": [
+        {
+          "text": "Ichi"
+        },
+        {
+          "text": "Ni"
+        },
+        {
+          "text": "San"
+        },
+        {
+          "text": "Shi (or Yon)"
+        }
+      ],
+      "answer": "Counting in Japanese"
+    },
+    {
+      "clues": [
+        {
+          "text": "Alpha"
+        },
+        {
+          "text": "Beta"
+        },
+        {
+          "text": "Gamma"
+        },
+        {
+          "text": "Delta"
+        }
+      ],
+      "answer": "The Greek alphabet"
+    },
+    {
+      "clues": [
+        {
+          "text": "Pearl"
+        },
+        {
+          "text": "Ruby"
+        },
+        {
+          "text": "Gold"
+        },
+        {
+          "text": "Diamond"
+        }
+      ],
+      "answer": "Wedding anniversaries: 30th, 40th, 50th, 60th"
+    },
+    {
+      "clues": [
+        {
+          "text": "J"
+        },
+        {
+          "text": "F"
+        },
+        {
+          "text": "M"
+        },
+        {
+          "text": "A"
+        }
+      ],
+      "answer": "Months: January, February, March, April"
+    },
+    {
+      "clues": [
+        {
+          "text": "Doh"
+        },
+        {
+          "text": "Ray"
+        },
+        {
+          "text": "Me"
+        },
+        {
+          "text": "Fah"
+        }
+      ],
+      "answer": "Tonic sol-fa"
+    }
+  ],
+  "walls": [
+    {
+      "groups": [
+        {
+          "clues": [
+            "Penne",
+            "Fusilli",
+            "Rigatoni",
+            "Farfalle"
+          ],
+          "answer": "Pasta"
+        },
+        {
+          "clues": [
+            "Snap",
+            "Rummy",
+            "Poker",
+            "Bridge"
+          ],
+          "answer": "Card games"
+        },
+        {
+          "clues": [
+            "Styles",
+            "Kane",
+            "Potter",
+            "Houdini"
+          ],
+          "answer": "Famous Harrys"
+        },
+        {
+          "clues": [
+            "Sponge",
+            "Carrot",
+            "Cup",
+            "Pan"
+          ],
+          "answer": "___cake"
+        }
+      ]
+    },
+    {
+      "groups": [
+        {
+          "clues": [
+            "Jennie",
+            "Lisa",
+            "Rosé",
+            "Jisoo"
+          ],
+          "answer": "Blackpink"
+        },
+        {
+          "clues": [
+            "Bart",
+            "Maggie",
+            "Milhouse",
+            "Ned"
+          ],
+          "answer": "The Simpsons characters"
+        },
+        {
+          "clues": [
+            "Titan",
+            "Europa",
+            "Io",
+            "Phobos"
+          ],
+          "answer": "Moons"
+        },
+        {
+          "clues": [
+            "Arial",
+            "Helvetica",
+            "Calibri",
+            "Garamond"
+          ],
+          "answer": "Fonts"
+        }
+      ]
+    }
+  ],
+  "vowels": [
+    {
+      "category": "Disney films",
+      "answers": [
+        "The Lion King",
+        "Frozen",
+        "Moana",
+        "Encanto"
+      ]
+    },
+    {
+      "category": "Capital cities",
+      "answers": [
+        "Kuala Lumpur",
+        "Buenos Aires",
+        "Copenhagen",
+        "Wellington"
+      ]
+    },
+    {
+      "category": "In the kitchen",
+      "answers": [
+        "Frying pan",
+        "Toaster",
+        "Kettle",
+        "Microwave"
+      ]
+    },
+    {
+      "category": "K-pop groups",
+      "answers": [
+        "Twice",
+        "Seventeen",
+        "Stray Kids",
+        "Big Bang"
+      ]
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.2943855+08:00"
+}

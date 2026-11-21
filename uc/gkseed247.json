@@ -1,0 +1,24 @@
+{
+  "id": "gkseed247",
+  "kind": "standard",
+  "starter": {
+    "q": "Which band's 1971 album includes 'Stairway to Heaven'?",
+    "a": "Led Zeppelin"
+  },
+  "topic": "Rock legends",
+  "bonuses": [
+    {
+      "q": "Which band was fronted by Freddie Mercury?",
+      "a": "Queen"
+    },
+    {
+      "q": "Which band, led by Mick Jagger, recorded '(I Can't Get No) Satisfaction'?",
+      "a": "The Rolling Stones"
+    },
+    {
+      "q": "Which guitarist set his guitar on fire at the 1967 Monterey Pop Festival?",
+      "a": "Jimi Hendrix"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.7734843+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed26",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to the supercontinent that began to break apart about 200 million years ago?",
+    "a": "Pangaea"
+  },
+  "topic": "Geology",
+  "bonuses": [
+    {
+      "q": "What kind of rock forms when magma or lava cools and hardens?",
+      "a": "Igneous rock"
+    },
+    {
+      "q": "Which scale, devised in 1935 by an American seismologist, was long used to measure the size of earthquakes?",
+      "a": "The Richter scale"
+    },
+    {
+      "q": "What name is given to the horseshoe-shaped belt of volcanoes and earthquakes around the edge of the Pacific?",
+      "a": "The Ring of Fire"
+    }
+  ],
+  "updated": "2026-10-21T10:28:25.441157+02:00"
+}

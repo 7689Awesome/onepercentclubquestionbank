@@ -1,0 +1,24 @@
+{
+  "id": "gkseed323",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Filipino professional league, founded in 1975, is Asia's oldest pro basketball league?",
+    "a": "The PBA"
+  },
+  "topic": "Basketball in the Philippines",
+  "bonuses": [
+    {
+      "q": "What is the nickname of the Philippine men's national basketball team?",
+      "a": "Gilas Pilipinas"
+    },
+    {
+      "q": "Which three countries co-hosted the 2023 FIBA Basketball World Cup?",
+      "a": "The Philippines, Japan and Indonesia"
+    },
+    {
+      "q": "Which Filipino-American NBA player has played for Gilas Pilipinas as a naturalised player?",
+      "a": "Jordan Clarkson"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.9675469+08:00"
+}

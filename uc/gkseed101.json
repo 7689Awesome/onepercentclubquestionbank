@@ -1,0 +1,24 @@
+{
+  "id": "gkseed101",
+  "kind": "standard",
+  "starter": {
+    "q": "Which animated series, created by Matt Groening and first shown as a full series in 1989, is set in the town of Springfield?",
+    "a": "The Simpsons"
+  },
+  "topic": "The Simpsons",
+  "bonuses": [
+    {
+      "q": "What is the name of the Simpsons' baby daughter, who is rarely seen without a dummy?",
+      "a": "Maggie"
+    },
+    {
+      "q": "What is the name of the Simpsons' bartender friend who runs Moe's Tavern?",
+      "a": "Moe Szyslak"
+    },
+    {
+      "q": "What is the name of the Simpsons' religious next-door neighbour?",
+      "a": "Ned Flanders"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8382036+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed68",
+  "kind": "standard",
+  "starter": {
+    "q": "Which gas makes up about 78 per cent of the Earth's atmosphere?",
+    "a": "Nitrogen"
+  },
+  "topic": "The atmosphere",
+  "bonuses": [
+    {
+      "q": "Which layer of the atmosphere, closest to the ground, is where our weather happens?",
+      "a": "The troposphere"
+    },
+    {
+      "q": "Which form of oxygen, with three atoms, forms a protective layer high in the atmosphere?",
+      "a": "Ozone"
+    },
+    {
+      "q": "Which noble gas makes up nearly one per cent of the atmosphere?",
+      "a": "Argon"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7707921+08:00"
+}

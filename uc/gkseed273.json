@@ -1,0 +1,24 @@
+{
+  "id": "gkseed273",
+  "kind": "standard",
+  "starter": {
+    "q": "Which long battle on the Western Front in 1916 had over a million casualties on the river of that name?",
+    "a": "The Battle of the Somme"
+  },
+  "topic": "World War One",
+  "bonuses": [
+    {
+      "q": "Which 1919 treaty formally ended the war with Germany?",
+      "a": "The Treaty of Versailles"
+    },
+    {
+      "q": "Which British passenger liner was sunk by a German U-boat in 1915?",
+      "a": "RMS Lusitania"
+    },
+    {
+      "q": "What red flower became a symbol of remembrance after the war?",
+      "a": "The poppy"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.2052124+08:00"
+}

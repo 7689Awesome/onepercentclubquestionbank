@@ -1,0 +1,24 @@
+{
+  "id": "gkseed270",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Norwegian explorer led the first expedition to reach the South Pole in 1911?",
+    "a": "Roald Amundsen"
+  },
+  "topic": "Explorers",
+  "bonuses": [
+    {
+      "q": "Which British explorer died returning from the South Pole in 1912?",
+      "a": "Robert Falcon Scott"
+    },
+    {
+      "q": "Which Moroccan traveller journeyed across the Islamic world in the 1300s?",
+      "a": "Ibn Battuta"
+    },
+    {
+      "q": "Which British captain mapped New Zealand and eastern Australia in the 1770s?",
+      "a": "James Cook"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.1636+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed355",
+  "kind": "standard",
+  "starter": {
+    "q": "Which ocean liner was called 'unsinkable' before it struck an iceberg?",
+    "a": "RMS Titanic"
+  },
+  "topic": "Ships and boats",
+  "bonuses": [
+    {
+      "q": "What name is given to the left side of a ship?",
+      "a": "Port"
+    },
+    {
+      "q": "What name is given to the traditional Filipino outrigger boat?",
+      "a": "Bangka"
+    },
+    {
+      "q": "Which ancient boat, still used in Mindanao, gave its name to the Philippine village unit 'barangay'?",
+      "a": "Balangay"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.399042+08:00"
+}

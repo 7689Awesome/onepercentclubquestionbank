@@ -1,0 +1,24 @@
+{
+  "id": "gkseed177",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to a Viking burial in which the dead were placed in a ship, sometimes set alight or buried under a mound?",
+    "a": "A ship burial"
+  },
+  "topic": "The Vikings",
+  "bonuses": [
+    {
+      "q": "Which Viking explorer, son of Erik the Red, is believed to have reached North America around the year 1000?",
+      "a": "Leif Erikson"
+    },
+    {
+      "q": "Which Norse god of thunder carried the hammer Mjölnir?",
+      "a": "Thor"
+    },
+    {
+      "q": "Which raid in 793 on a monastery off the coast of Northumbria is often taken as the start of the Viking Age?",
+      "a": "Lindisfarne"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.7255545+08:00"
+}

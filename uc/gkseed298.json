@@ -1,0 +1,24 @@
+{
+  "id": "gkseed298",
+  "kind": "standard",
+  "starter": {
+    "q": "Which city was capital of the Ottoman Empire?",
+    "a": "Istanbul (Constantinople)"
+  },
+  "topic": "Turkey",
+  "bonuses": [
+    {
+      "q": "Which region of Turkey is famous for 'fairy chimneys' and hot-air balloons?",
+      "a": "Cappadocia"
+    },
+    {
+      "q": "Who founded the modern Republic of Turkey in 1923?",
+      "a": "Mustafa Kemal Atatürk"
+    },
+    {
+      "q": "Which Istanbul landmark has been a church, a mosque and a museum?",
+      "a": "Hagia Sophia"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.5673487+08:00"
+}

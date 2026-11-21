@@ -1,0 +1,24 @@
+{
+  "id": "gkseed124",
+  "kind": "standard",
+  "starter": {
+    "q": "Which singer, born Stefani Germanotta, won an Oscar for the song Shallow from A Star Is Born?",
+    "a": "Lady Gaga"
+  },
+  "topic": "Stage names",
+  "bonuses": [
+    {
+      "q": "What is the stage name of the singer Robyn Fenty?",
+      "a": "Rihanna"
+    },
+    {
+      "q": "What is the stage name of the rapper Marshall Mathers?",
+      "a": "Eminem"
+    },
+    {
+      "q": "What is the stage name of the singer Abel Tesfaye?",
+      "a": "The Weeknd"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8882601+08:00"
+}

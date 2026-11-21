@@ -1,0 +1,24 @@
+{
+  "id": "gkseed288",
+  "kind": "standard",
+  "starter": {
+    "q": "Which line divides North and South Korea?",
+    "a": "The Demilitarized Zone (38th parallel)"
+  },
+  "topic": "Borders",
+  "bonuses": [
+    {
+      "q": "Which wall divided a German city from 1961 to 1989?",
+      "a": "The Berlin Wall"
+    },
+    {
+      "q": "Which line drawn in 1947 divided India and Pakistan?",
+      "a": "The Radcliffe Line"
+    },
+    {
+      "q": "Which treaty of 1494 divided newly found lands between Spain and Portugal?",
+      "a": "The Treaty of Tordesillas"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.418074+08:00"
+}

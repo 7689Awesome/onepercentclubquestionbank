@@ -1,0 +1,24 @@
+{
+  "id": "gkseed199",
+  "kind": "standard",
+  "starter": {
+    "q": "Which blue-veined Italian cheese takes its name from a town near Milan?",
+    "a": "Gorgonzola"
+  },
+  "topic": "Cheese",
+  "bonuses": [
+    {
+      "q": "Which Greek cheese, made from sheep's or goat's milk, is cured in brine?",
+      "a": "Feta"
+    },
+    {
+      "q": "Which hard Italian cheese, from around Parma, is called 'the King of Cheeses'?",
+      "a": "Parmigiano-Reggiano (Parmesan)"
+    },
+    {
+      "q": "Which Swiss cheese is known for the holes made by gas bubbles during ripening?",
+      "a": "Emmental"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.9827165+08:00"
+}

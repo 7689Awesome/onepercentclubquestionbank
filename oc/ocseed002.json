@@ -1,0 +1,333 @@
+{
+  "id": "ocseed002",
+  "name": "Pop Culture Special",
+  "connections": [
+    {
+      "clues": [
+        {
+          "text": "Gunther"
+        },
+        {
+          "text": "Janice"
+        },
+        {
+          "text": "Ugly Naked Guy"
+        },
+        {
+          "text": "Chandler"
+        }
+      ],
+      "answer": "Characters in Friends"
+    },
+    {
+      "clues": [
+        {
+          "text": "Allan"
+        },
+        {
+          "text": "Midge"
+        },
+        {
+          "text": "Skipper"
+        },
+        {
+          "text": "Ken"
+        }
+      ],
+      "answer": "Barbie's friends and family"
+    },
+    {
+      "clues": [
+        {
+          "text": "Initech"
+        },
+        {
+          "text": "Hooli"
+        },
+        {
+          "text": "Wayne Enterprises"
+        },
+        {
+          "text": "Dunder Mifflin"
+        }
+      ],
+      "answer": "Fictional companies"
+    },
+    {
+      "clues": [
+        {
+          "text": "Marbles"
+        },
+        {
+          "text": "Tug of war"
+        },
+        {
+          "text": "Dalgona"
+        },
+        {
+          "text": "Red Light, Green Light"
+        }
+      ],
+      "answer": "Games in Squid Game"
+    },
+    {
+      "clues": [
+        {
+          "text": "Soul"
+        },
+        {
+          "text": "Time"
+        },
+        {
+          "text": "Mind"
+        },
+        {
+          "text": "Reality"
+        }
+      ],
+      "answer": "Infinity Stones"
+    },
+    {
+      "clues": [
+        {
+          "text": "Zachary"
+        },
+        {
+          "text": "Roger"
+        },
+        {
+          "text": "Elizabeth"
+        },
+        {
+          "text": "Swift"
+        }
+      ],
+      "answer": "Famous Taylors"
+    }
+  ],
+  "sequences": [
+    {
+      "clues": [
+        {
+          "text": "Philosopher's Stone"
+        },
+        {
+          "text": "Chamber of Secrets"
+        },
+        {
+          "text": "Prisoner of Azkaban"
+        },
+        {
+          "text": "Goblet of Fire"
+        }
+      ],
+      "answer": "Harry Potter books"
+    },
+    {
+      "clues": [
+        {
+          "text": "Bulbasaur"
+        },
+        {
+          "text": "Ivysaur"
+        },
+        {
+          "text": "Venusaur"
+        },
+        {
+          "text": "Charmander"
+        }
+      ],
+      "answer": "The Pokédex: No. 1, 2, 3, 4"
+    },
+    {
+      "clues": [
+        {
+          "text": "The Phantom Menace"
+        },
+        {
+          "text": "Attack of the Clones"
+        },
+        {
+          "text": "Revenge of the Sith"
+        },
+        {
+          "text": "A New Hope"
+        }
+      ],
+      "answer": "Star Wars episodes I to IV"
+    },
+    {
+      "clues": [
+        {
+          "text": "The Avengers"
+        },
+        {
+          "text": "Age of Ultron"
+        },
+        {
+          "text": "Infinity War"
+        },
+        {
+          "text": "Endgame"
+        }
+      ],
+      "answer": "Avengers films"
+    },
+    {
+      "clues": [
+        {
+          "text": "PS2"
+        },
+        {
+          "text": "PS3"
+        },
+        {
+          "text": "PS4"
+        },
+        {
+          "text": "PS5"
+        }
+      ],
+      "answer": "PlayStation consoles"
+    },
+    {
+      "clues": [
+        {
+          "text": "iPhone X"
+        },
+        {
+          "text": "iPhone XS"
+        },
+        {
+          "text": "iPhone 11"
+        },
+        {
+          "text": "iPhone 12"
+        }
+      ],
+      "answer": "iPhones, in order of release"
+    }
+  ],
+  "walls": [
+    {
+      "groups": [
+        {
+          "clues": [
+            "Lover",
+            "Reputation",
+            "Folklore",
+            "Midnights"
+          ],
+          "answer": "Taylor Swift albums"
+        },
+        {
+          "clues": [
+            "Fire",
+            "Grass",
+            "Psychic",
+            "Ghost"
+          ],
+          "answer": "Pokémon types"
+        },
+        {
+          "clues": [
+            "Strange",
+            "Who",
+            "Octopus",
+            "Dre"
+          ],
+          "answer": "Doctor ___"
+        },
+        {
+          "clues": [
+            "Wood",
+            "Metal",
+            "Water",
+            "Earth"
+          ],
+          "answer": "The Chinese five elements (wu xing)"
+        }
+      ]
+    },
+    {
+      "groups": [
+        {
+          "clues": [
+            "Lumos",
+            "Accio",
+            "Expelliarmus",
+            "Alohomora"
+          ],
+          "answer": "Harry Potter spells"
+        },
+        {
+          "clues": [
+            "Banana",
+            "Mushroom",
+            "Star",
+            "Lightning"
+          ],
+          "answer": "Mario Kart items"
+        },
+        {
+          "clues": [
+            "Wars",
+            "Trek",
+            "Fish",
+            "Gate"
+          ],
+          "answer": "Star ___"
+        },
+        {
+          "clues": [
+            "Creeper",
+            "Enderman",
+            "Zombie",
+            "Ghast"
+          ],
+          "answer": "Minecraft mobs"
+        }
+      ]
+    }
+  ],
+  "vowels": [
+    {
+      "category": "Marvel heroes",
+      "answers": [
+        "Iron Man",
+        "Black Widow",
+        "Captain America",
+        "Spider-Man"
+      ]
+    },
+    {
+      "category": "Games consoles",
+      "answers": [
+        "Nintendo Switch",
+        "PlayStation",
+        "Game Boy",
+        "Xbox"
+      ]
+    },
+    {
+      "category": "Pixar films",
+      "answers": [
+        "Toy Story",
+        "Inside Out",
+        "Ratatouille",
+        "Monsters, Inc."
+      ]
+    },
+    {
+      "category": "Apps",
+      "answers": [
+        "Instagram",
+        "TikTok",
+        "Snapchat",
+        "WhatsApp"
+      ]
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.3013888+08:00"
+}

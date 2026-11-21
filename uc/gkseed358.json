@@ -1,0 +1,24 @@
+{
+  "id": "gkseed358",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Paris museum has a glass pyramid entrance designed by I. M. Pei?",
+    "a": "The Louvre"
+  },
+  "topic": "Famous buildings",
+  "bonuses": [
+    {
+      "q": "Which Barcelona basilica, designed by Antoni Gaudí, is still unfinished?",
+      "a": "La Sagrada Família"
+    },
+    {
+      "q": "Which Indian marble mausoleum was built by Shah Jahan for his wife?",
+      "a": "The Taj Mahal"
+    },
+    {
+      "q": "Which Beijing stadium, built for 2008, is nicknamed the 'Bird's Nest'?",
+      "a": "The Beijing National Stadium"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.5035292+08:00"
+}

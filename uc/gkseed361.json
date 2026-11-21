@@ -1,0 +1,24 @@
+{
+  "id": "gkseed361",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to a crime of taking money entrusted to you?",
+    "a": "Embezzlement"
+  },
+  "topic": "The law",
+  "bonuses": [
+    {
+      "q": "What Latin term means 'you shall have the body', protecting against unlawful detention?",
+      "a": "Habeas corpus"
+    },
+    {
+      "q": "What name is given to the twelve citizens who decide a verdict in some trials?",
+      "a": "A jury"
+    },
+    {
+      "q": "What name is given to a written statement made under oath?",
+      "a": "An affidavit"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.553317+08:00"
+}

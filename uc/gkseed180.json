@@ -1,0 +1,24 @@
+{
+  "id": "gkseed180",
+  "kind": "standard",
+  "starter": {
+    "q": "Which bridge in San Francisco, opened in 1937, is painted a colour officially called 'International Orange'?",
+    "a": "The Golden Gate Bridge"
+  },
+  "topic": "Bridges",
+  "bonuses": [
+    {
+      "q": "Which London bridge, with two towers and a bascule road deck, is often mistakenly called London Bridge?",
+      "a": "Tower Bridge"
+    },
+    {
+      "q": "Which covered bridge in Venice crosses the Rio di Palazzo between the Doge's Palace and the prisons?",
+      "a": "The Bridge of Sighs"
+    },
+    {
+      "q": "Which bridge, opened in 2018, connects Hong Kong, Macau and Zhuhai across the Pearl River estuary?",
+      "a": "The Hong Kong–Zhuhai–Macau Bridge"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.752933+08:00"
+}

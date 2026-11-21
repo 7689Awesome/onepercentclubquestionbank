@@ -1,0 +1,24 @@
+{
+  "id": "gkseed248",
+  "kind": "standard",
+  "starter": {
+    "q": "Which singer, with a five-octave vocal range, had hits including 'Hero' and 'All I Want for Christmas Is You'?",
+    "a": "Mariah Carey"
+  },
+  "topic": "Pop divas",
+  "bonuses": [
+    {
+      "q": "Which singer released 'Like a Virgin' and 'Vogue'?",
+      "a": "Madonna"
+    },
+    {
+      "q": "Which Barbadian singer's breakthrough hit was 'Umbrella' in 2007?",
+      "a": "Rihanna"
+    },
+    {
+      "q": "Which singer had a 2019 hit with 'Truth Hurts'?",
+      "a": "Lizzo"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.7905278+08:00"
+}

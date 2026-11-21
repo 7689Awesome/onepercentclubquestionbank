@@ -1,0 +1,24 @@
+{
+  "id": "gkseed14",
+  "kind": "standard",
+  "starter": {
+    "q": "Which physicist published his general theory of relativity in 1915?",
+    "a": "Albert Einstein"
+  },
+  "topic": "Units named after scientists",
+  "bonuses": [
+    {
+      "q": "The SI unit of force is named after which English scientist?",
+      "a": "Isaac Newton (the newton)"
+    },
+    {
+      "q": "The SI unit of electrical resistance is named after which German physicist?",
+      "a": "Georg Ohm (the ohm)"
+    },
+    {
+      "q": "The SI unit of frequency, one cycle per second, is named after which German physicist, who proved the existence of radio waves?",
+      "a": "Heinrich Hertz (the hertz)"
+    }
+  ],
+  "updated": "2026-10-21T10:28:25.4098192+02:00"
+}

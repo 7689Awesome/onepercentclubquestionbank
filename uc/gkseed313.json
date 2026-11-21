@@ -1,0 +1,24 @@
+{
+  "id": "gkseed313",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to the polymer used for most plastic drinks bottles, abbreviated PET?",
+    "a": "Polyethylene terephthalate"
+  },
+  "topic": "Plastics and materials",
+  "bonuses": [
+    {
+      "q": "Which material, invented by DuPont, is used in bulletproof vests?",
+      "a": "Kevlar"
+    },
+    {
+      "q": "Which non-stick coating is used on frying pans?",
+      "a": "Teflon (PTFE)"
+    },
+    {
+      "q": "Which single layer of carbon atoms is the thinnest material known?",
+      "a": "Graphene"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.7764239+08:00"
+}

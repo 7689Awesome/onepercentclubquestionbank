@@ -1,0 +1,24 @@
+{
+  "id": "gkseed379",
+  "kind": "standard",
+  "starter": {
+    "q": "Which famous address is home to the British prime minister?",
+    "a": "10 Downing Street"
+  },
+  "topic": "Famous addresses",
+  "bonuses": [
+    {
+      "q": "Which Washington address is the White House?",
+      "a": "1600 Pennsylvania Avenue"
+    },
+    {
+      "q": "Which Paris palace is the official residence of the French president?",
+      "a": "The Élysée Palace"
+    },
+    {
+      "q": "Which Manila address is Malacañang Palace on?",
+      "a": "J. P. Laurel Street"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.8700013+08:00"
+}

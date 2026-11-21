@@ -1,0 +1,24 @@
+{
+  "id": "gkseed212",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Indonesian volcano erupted in 1815 in the largest eruption in recorded history, causing a 'year without a summer'?",
+    "a": "Mount Tambora"
+  },
+  "topic": "Volcanoes of Asia",
+  "bonuses": [
+    {
+      "q": "Which Indonesian volcano's 1883 eruption was heard thousands of kilometres away?",
+      "a": "Krakatoa"
+    },
+    {
+      "q": "Which symmetrical volcano in Albay is the most active in the Philippines?",
+      "a": "Mayon"
+    },
+    {
+      "q": "Which Japanese volcano last erupted in 1707?",
+      "a": "Mount Fuji"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.2636071+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed146",
+  "kind": "standard",
+  "starter": {
+    "q": "Which two colours make up the flag of Indonesia, the same as Monaco's?",
+    "a": "Red and white"
+  },
+  "topic": "Flags",
+  "bonuses": [
+    {
+      "q": "Which country's flag shows a red maple leaf?",
+      "a": "Canada"
+    },
+    {
+      "q": "Which country's flag is a red circle on a white background?",
+      "a": "Japan"
+    },
+    {
+      "q": "Which Himalayan kingdom's flag shows a white dragon on yellow and orange?",
+      "a": "Bhutan"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.9337842+08:00"
+}

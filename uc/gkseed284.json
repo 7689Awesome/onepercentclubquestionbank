@@ -1,0 +1,24 @@
+{
+  "id": "gkseed284",
+  "kind": "standard",
+  "starter": {
+    "q": "Which English pirate was known as 'Blackbeard'?",
+    "a": "Edward Teach"
+  },
+  "topic": "Pirates",
+  "bonuses": [
+    {
+      "q": "Which Chinese pirate commanded a huge fleet in the early 1800s?",
+      "a": "Ching Shih (Zheng Yi Sao)"
+    },
+    {
+      "q": "What name is given to the black flag with a skull and crossbones?",
+      "a": "The Jolly Roger"
+    },
+    {
+      "q": "Which Robert Louis Stevenson novel features Long John Silver?",
+      "a": "Treasure Island"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.3417783+08:00"
+}

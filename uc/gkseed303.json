@@ -1,0 +1,24 @@
+{
+  "id": "gkseed303",
+  "kind": "standard",
+  "starter": {
+    "q": "What is the probability of rolling a six on a fair six-sided die?",
+    "a": "One-sixth"
+  },
+  "topic": "Probability",
+  "bonuses": [
+    {
+      "q": "What is the probability of a fair coin landing heads twice in a row?",
+      "a": "One-quarter"
+    },
+    {
+      "q": "What name is given to a probability puzzle about three doors, a car and two goats?",
+      "a": "The Monty Hall problem"
+    },
+    {
+      "q": "How many people are needed in a room for a better-than-even chance that two share a birthday?",
+      "a": "23"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.6449249+08:00"
+}

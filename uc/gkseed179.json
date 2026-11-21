@@ -1,0 +1,24 @@
+{
+  "id": "gkseed179",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Inca citadel, built high in the Andes in the fifteenth century, was brought to international attention by Hiram Bingham in 1911?",
+    "a": "Machu Picchu"
+  },
+  "topic": "The Americas before Columbus",
+  "bonuses": [
+    {
+      "q": "Which people built the city of Tenochtitlan, on whose site Mexico City now stands?",
+      "a": "The Aztecs (Mexica)"
+    },
+    {
+      "q": "Which civilisation, known for its calendar and stepped pyramids such as Chichén Itzá, flourished in the Yucatán?",
+      "a": "The Maya"
+    },
+    {
+      "q": "What name is given to the knotted cords the Inca used to keep records?",
+      "a": "Quipu (khipu)"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.7323092+08:00"
+}

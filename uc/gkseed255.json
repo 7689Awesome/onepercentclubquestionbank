@@ -1,0 +1,24 @@
+{
+  "id": "gkseed255",
+  "kind": "standard",
+  "starter": {
+    "q": "What does 'DSLR' stand for?",
+    "a": "Digital single-lens reflex"
+  },
+  "topic": "Photography",
+  "bonuses": [
+    {
+      "q": "Which company introduced the instant 'Polaroid' camera?",
+      "a": "Polaroid"
+    },
+    {
+      "q": "What name is given to a photo of yourself, named Word of the Year in 2013?",
+      "a": "A selfie"
+    },
+    {
+      "q": "What setting controls how long a camera's shutter stays open?",
+      "a": "Shutter speed"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.8756474+08:00"
+}

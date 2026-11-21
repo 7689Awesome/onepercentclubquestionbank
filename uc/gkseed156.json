@@ -1,0 +1,24 @@
+{
+  "id": "gkseed156",
+  "kind": "standard",
+  "starter": {
+    "q": "Which boundary around a black hole, from within which nothing, not even light, can escape, shares its name with a line where land and sky appear to meet?",
+    "a": "The event horizon"
+  },
+  "topic": "Black holes",
+  "bonuses": [
+    {
+      "q": "Which physicist predicted in 1974 that black holes should slowly emit radiation and evaporate?",
+      "a": "Stephen Hawking"
+    },
+    {
+      "q": "What is the name of the supermassive black hole at the centre of the Milky Way, imaged by the Event Horizon Telescope in 2022?",
+      "a": "Sagittarius A* (Sagittarius A-star)"
+    },
+    {
+      "q": "What informal term describes the stretching of an object into a long thin strand as it falls towards a black hole?",
+      "a": "Spaghettification"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.47165+08:00"
+}

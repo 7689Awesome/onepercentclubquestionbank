@@ -1,0 +1,24 @@
+{
+  "id": "gkseed301",
+  "kind": "standard",
+  "starter": {
+    "q": "Which equation, published in 1905, links mass and energy?",
+    "a": "E = mc²"
+  },
+  "topic": "Famous equations",
+  "bonuses": [
+    {
+      "q": "Which theorem states that a² + b² = c² in a right-angled triangle?",
+      "a": "Pythagoras' theorem"
+    },
+    {
+      "q": "In Newton's second law, force equals mass multiplied by what?",
+      "a": "Acceleration"
+    },
+    {
+      "q": "Which formula gives the area of a circle?",
+      "a": "πr²"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.6146015+08:00"
+}

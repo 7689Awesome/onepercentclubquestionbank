@@ -1,0 +1,24 @@
+{
+  "id": "gkseed194",
+  "kind": "standard",
+  "starter": {
+    "q": "Which South African leader, released in 1990 after twenty-seven years in prison, became the country's first Black president in 1994?",
+    "a": "Nelson Mandela"
+  },
+  "topic": "Political leaders",
+  "bonuses": [
+    {
+      "q": "Who was the first prime minister of Singapore, serving from 1959 to 1990?",
+      "a": "Lee Kuan Yew"
+    },
+    {
+      "q": "Who was the first female prime minister of the United Kingdom?",
+      "a": "Margaret Thatcher"
+    },
+    {
+      "q": "Who was the first prime minister of India after independence in 1947?",
+      "a": "Jawaharlal Nehru"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.9124194+08:00"
+}

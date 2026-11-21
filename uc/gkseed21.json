@@ -1,0 +1,24 @@
+{
+  "id": "gkseed21",
+  "kind": "standard",
+  "starter": {
+    "q": "Which British monarch reigned for more than seventy years, from 1952 until 2022?",
+    "a": "Elizabeth II"
+  },
+  "topic": "The Tudors",
+  "bonuses": [
+    {
+      "q": "Which king founded the Tudor dynasty after winning the Battle of Bosworth Field in 1485?",
+      "a": "Henry VII"
+    },
+    {
+      "q": "How many times did Henry VIII marry?",
+      "a": "Six"
+    },
+    {
+      "q": "Which queen, the last of the Tudors, died in 1603?",
+      "a": "Elizabeth I"
+    }
+  ],
+  "updated": "2026-10-21T10:28:25.4277355+02:00"
+}

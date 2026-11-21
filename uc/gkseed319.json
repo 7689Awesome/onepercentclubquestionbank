@@ -1,0 +1,24 @@
+{
+  "id": "gkseed319",
+  "kind": "standard",
+  "starter": {
+    "q": "What does 'BMI' stand for?",
+    "a": "Body mass index"
+  },
+  "topic": "Exercise and fitness",
+  "bonuses": [
+    {
+      "q": "Which form of exercise was developed by Joseph Pilates?",
+      "a": "Pilates"
+    },
+    {
+      "q": "Which form of exercise from India combines postures and breathing?",
+      "a": "Yoga"
+    },
+    {
+      "q": "What does 'HIIT' stand for?",
+      "a": "High-intensity interval training"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.8546189+08:00"
+}

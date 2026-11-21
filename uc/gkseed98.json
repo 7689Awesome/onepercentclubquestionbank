@@ -1,0 +1,24 @@
+{
+  "id": "gkseed98",
+  "kind": "standard",
+  "starter": {
+    "q": "Which process do green plants use to make food from sunlight, water and carbon dioxide?",
+    "a": "Photosynthesis"
+  },
+  "topic": "Plants",
+  "bonuses": [
+    {
+      "q": "Which green pigment in plants absorbs sunlight?",
+      "a": "Chlorophyll"
+    },
+    {
+      "q": "What name is given to the tiny pores on leaves that let gases in and out?",
+      "a": "Stomata"
+    },
+    {
+      "q": "Which part of a flower produces pollen?",
+      "a": "The stamen (anther)"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8316994+08:00"
+}

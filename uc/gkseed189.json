@@ -1,0 +1,24 @@
+{
+  "id": "gkseed189",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Lin-Manuel Miranda musical, which opened on Broadway in 2015, tells the story of America's first Treasury Secretary through hip hop?",
+    "a": "Hamilton"
+  },
+  "topic": "Musicals",
+  "bonuses": [
+    {
+      "q": "Which musical tells the untold story of the witches of Oz, Elphaba and Glinda?",
+      "a": "Wicked"
+    },
+    {
+      "q": "Which Andrew Lloyd Webber musical features a disfigured composer haunting the Paris Opera House?",
+      "a": "The Phantom of the Opera"
+    },
+    {
+      "q": "Which musical, set in nineteenth-century France, follows the convict Jean Valjean?",
+      "a": "Les Misérables"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.8515845+08:00"
+}

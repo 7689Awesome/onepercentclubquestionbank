@@ -1,0 +1,24 @@
+{
+  "id": "gkseed245",
+  "kind": "standard",
+  "starter": {
+    "q": "Which ballet by Tchaikovsky features Odette, a princess turned into a bird?",
+    "a": "Swan Lake"
+  },
+  "topic": "Ballet",
+  "bonuses": [
+    {
+      "q": "Which ballet by Tchaikovsky is set at Christmas and features a Sugar Plum Fairy?",
+      "a": "The Nutcracker"
+    },
+    {
+      "q": "What name is given to the stiff, short skirt worn by ballerinas?",
+      "a": "A tutu"
+    },
+    {
+      "q": "Which Russian ballet company is based in Moscow?",
+      "a": "The Bolshoi"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.7506473+08:00"
+}
