@@ -304,39 +304,39 @@
       "groups": [
         {
           "clues": [
-            "",
-            "",
-            "",
-            ""
+            "Cat",
+            "Sword",
+            "Jelly",
+            "Star"
           ],
-          "answer": ""
+          "answer": "_____fish"
         },
         {
           "clues": [
-            "",
-            "",
-            "",
-            ""
+            "Rope",
+            "Dagger",
+            "Candlestick",
+            "Revolver"
           ],
-          "answer": ""
+          "answer": "Clue/Cluedo weapons"
         },
         {
           "clues": [
-            "",
-            "",
-            "",
-            ""
+            "Crab",
+            "Ram",
+            "Bull",
+            "Scales"
           ],
-          "answer": ""
+          "answer": "Zodiac symbols"
         },
         {
           "clues": [
-            "",
-            "",
-            "",
-            ""
+            "Oyster",
+            "Prawn",
+            "Lobster",
+            "Mussel"
           ],
-          "answer": ""
+          "answer": "Shellfish"
         }
       ]
     }
@@ -359,5 +359,5 @@
       "answers": []
     }
   ],
-  "updated": "2026-11-22T03:31:25.862197+08:00"
+  "updated": "2026-11-22T03:36:28.8216534+08:00"
 }
