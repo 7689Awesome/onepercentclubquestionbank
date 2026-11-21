@@ -139,109 +139,124 @@
       "kind": "text",
       "clues": [
         {
-          "text": ""
+          "text": "Brown Light Blue",
+          "html": "Brown\u003cbr\u003eLight Blue"
         },
         {
-          "text": ""
+          "text": "Pink Orange",
+          "html": "Pink\u003cbr\u003eOrange"
         },
         {
-          "text": ""
+          "text": "Red Yellow",
+          "html": "Red\u003cbr\u003eYellow"
         },
         {
-          "text": ""
+          "text": "Green Dark Blue",
+          "html": "Green\u003cbr\u003eDark Blue"
         }
       ],
-      "answer": ""
+      "answer": "Monopoly property groups by pair"
     },
     {
       "kind": "text",
       "clues": [
         {
-          "text": ""
+          "text": "Rizal"
         },
         {
-          "text": ""
+          "text": "Bonifacio"
         },
         {
-          "text": ""
+          "text": "Mabini"
         },
         {
-          "text": ""
+          "text": "Quezon"
         }
       ],
-      "answer": ""
+      "answer": "Faces of PH Coins"
+    },
+    {
+      "kind": "pictures",
+      "clues": [
+        {
+          "text": "",
+          "image": "/media/oc/d5331ac875c0bf511376aea1.png",
+          "desc": "Park"
+        },
+        {
+          "text": "",
+          "image": "/media/oc/4b44e6bf382a31d37c002db0.png",
+          "desc": "Reverse"
+        },
+        {
+          "text": "",
+          "image": "/media/oc/fe6fd6dd2e0e9a2c32ae7ae7.png",
+          "desc": "Neutral"
+        },
+        {
+          "text": "",
+          "image": "/media/oc/6dbb74037c9bee7d08efc14c.png",
+          "desc": "Drive"
+        }
+      ],
+      "answer": "PRNDL (Automatic transmission)"
     },
     {
       "kind": "text",
       "clues": [
         {
-          "text": ""
+          "text": "Maids a-milking",
+          "html": "Maids\u003cbr\u003ea-milking"
         },
         {
-          "text": ""
+          "text": "Swans a-swimming",
+          "html": "Swans\u003cbr\u003ea-swimming"
         },
         {
-          "text": ""
+          "text": "Geese a-laying",
+          "html": "Geese\u003cbr\u003ea-laying"
         },
         {
-          "text": ""
+          "text": "Golden rings"
         }
       ],
-      "answer": ""
+      "answer": "8, 7, 6, 5 on the 12 Days of Christmas"
     },
     {
       "kind": "text",
       "clues": [
         {
-          "text": ""
+          "text": "Peaceful"
         },
         {
-          "text": ""
+          "text": "Easy"
         },
         {
-          "text": ""
+          "text": "Normal"
         },
         {
-          "text": ""
+          "text": "Hard"
         }
       ],
-      "answer": ""
+      "answer": "Minecraft difficulty levels"
     },
     {
       "kind": "text",
       "clues": [
         {
-          "text": ""
+          "text": "A, B, C"
         },
         {
-          "text": ""
+          "text": "1, 2, 3"
         },
         {
-          "text": ""
+          "text": "Do, Re, Mi"
         },
         {
-          "text": ""
+          "text": "A, B, C"
         }
       ],
-      "answer": ""
-    },
-    {
-      "kind": "text",
-      "clues": [
-        {
-          "text": ""
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": ""
-        }
-      ],
-      "answer": ""
+      "answer": "ABC by The Jackson 5"
     }
   ],
   "walls": [
@@ -344,5 +359,5 @@
       "answers": []
     }
   ],
-  "updated": "2026-11-22T03:22:21.3518258+08:00"
+  "updated": "2026-11-22T03:29:02.562322+08:00"
 }
