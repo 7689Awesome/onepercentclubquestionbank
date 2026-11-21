@@ -264,39 +264,39 @@
       "groups": [
         {
           "clues": [
-            "",
-            "",
-            "",
-            ""
+            "Spider",
+            "Super",
+            "Ant",
+            "Bat"
           ],
-          "answer": ""
+          "answer": "____ man"
         },
         {
           "clues": [
-            "",
-            "",
-            "",
-            ""
+            "Beetle",
+            "Fly",
+            "Wasp",
+            "Cricket"
           ],
-          "answer": ""
+          "answer": "Insects"
         },
         {
           "clues": [
-            "",
-            "",
-            "",
-            ""
+            "Copper",
+            "Gold",
+            "Zinc",
+            "Lead"
           ],
-          "answer": ""
+          "answer": "Metals"
         },
         {
           "clues": [
-            "",
-            "",
-            "",
-            ""
+            "Boot",
+            "Dog",
+            "Zinc",
+            "Lead"
           ],
-          "answer": ""
+          "answer": "Monopoly pieces"
         }
       ]
     },
@@ -359,5 +359,5 @@
       "answers": []
     }
   ],
-  "updated": "2026-11-22T03:29:02.562322+08:00"
+  "updated": "2026-11-22T03:31:09.4768199+08:00"
 }
