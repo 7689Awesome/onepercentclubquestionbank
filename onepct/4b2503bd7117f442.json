@@ -1,0 +1,276 @@
+{
+  "id": "4b2503bd7117f442",
+  "name": "US S3E2",
+  "updated": "2026-10-16T16:14:47.6316897+08:00",
+  "questions": [
+    {
+      "level": 90,
+      "kind": "text",
+      "text": "Grandpa hid a safe in the house and told his grandkids they could find its location using the tools he left them. Where will they find Grandpa's safe?",
+      "image": "/media/onepct/6820c1fbc125b8e4a31ce8ed.png",
+      "answer": 0,
+      "accept": [
+        "closet"
+      ],
+      "answerText": "closet",
+      "textHtml": "Grandpa hid a safe in the house and told his grandkids they could find its location using the tools he left them. Where will they find Grandpa\u0026#39;s safe?",
+      "answerHtml": "closet",
+      "check": "auto"
+    },
+    {
+      "level": 80,
+      "kind": "choice",
+      "text": "\"Fork\" is the name of a person who's related by blood to \"Knife\" but not to \"Spoon\". Which two people could be identical twins with each other?",
+      "options": [
+        "Spoon \u0026 Fork",
+        "Spoon \u0026 Knife",
+        "Knife \u0026 Fork"
+      ],
+      "answer": 2,
+      "why": "Spoon cannot be an identical twin, because you cannot be related to one identical twin without being related to both.",
+      "textHtml": "\u0026quot;Fork\u0026quot; is the name of a person who\u0026#39;s related by blood to \u0026quot;Knife\u0026quot; but not to \u0026quot;Spoon\u0026quot;. Which two people could be identical twins with each other?",
+      "whyHtml": "Spoon cannot be an identical twin, because you cannot be related to one identical twin without being related to both.",
+      "optionsHtml": [
+        "Spoon \u0026amp; Fork",
+        "Spoon \u0026amp; Knife",
+        "Knife \u0026amp; Fork"
+      ]
+    },
+    {
+      "level": 70,
+      "kind": "choice",
+      "text": "Follow the flowchart and do what it says.",
+      "image": "/media/onepct/c95f8968b35a7b12f7aa5b2b.png",
+      "options": [
+        "Loser",
+        "This"
+      ],
+      "answer": 1,
+      "answerImage": "/media/onepct/ffac4ca0ac43540768ae925a.png",
+      "textHtml": "Follow the flowchart and do what it says.",
+      "optionsHtml": [
+        "Loser",
+        "This"
+      ]
+    },
+    {
+      "level": 60,
+      "kind": "choice",
+      "text": "There are no IFs, ANDs, or BUTs in the sentence below. So, which is it missing more of?",
+      "image": "/media/onepct/7dead40a20fa4e9ff3f5cbee.png",
+      "options": [
+        "IFs",
+        "ANDs",
+        "BUTs"
+      ],
+      "answer": 1,
+      "why": "There is one BUT, and two IFs, but three ANDs.",
+      "textHtml": "There are no IFs, ANDs, or BUTs in the sentence below. So, which is it missing more of?",
+      "whyHtml": "There is one BUT, and two IFs, but three ANDs.",
+      "optionsHtml": [
+        "IFs",
+        "ANDs",
+        "BUTs"
+      ]
+    },
+    {
+      "level": 50,
+      "kind": "text",
+      "text": "Count the number of times all or a part of the guy's face appears in this picture.",
+      "image": "/media/onepct/cec42d42aff3886e4c5530c7.png",
+      "answer": 0,
+      "accept": [
+        "20",
+        "twenty"
+      ],
+      "answerText": "20",
+      "answerImage": "/media/onepct/6edbb68a0cb6e514a50d2c33.png",
+      "textHtml": "Count the number of times all or a part of the guy\u0026#39;s face appears in this picture.",
+      "answerHtml": "20",
+      "check": "auto"
+    },
+    {
+      "level": 45,
+      "kind": "choice",
+      "text": "This driver has been stopped by delivery robots crossing the street. Which picture in the choices shows the driver's point of view?",
+      "image": "/media/onepct/608af99e1bfe55b0dfde3b5e.png",
+      "options": [
+        "Picture A",
+        "Picture B",
+        "Picture C",
+        "Picture D"
+      ],
+      "answer": 1,
+      "textHtml": "This driver has been stopped by delivery robots crossing the street. Which picture in the choices shows the driver\u0026#39;s point of view?",
+      "optionImages": [
+        "/media/onepct/1422d20459dd41532f8ceb4f.png",
+        "/media/onepct/4a802ecb392f0c71bf3ce77f.png",
+        "/media/onepct/e4ce25b300151b963e0c0fce.png",
+        "/media/onepct/dcca5a41a7a03f95c990cadd.png"
+      ]
+    },
+    {
+      "level": 40,
+      "kind": "text",
+      "text": "How many total daughters are pictured in this family tree?",
+      "image": "/media/onepct/112292c4562fa13f8194f192.png",
+      "answer": 0,
+      "accept": [
+        "6",
+        "six"
+      ],
+      "answerText": "6",
+      "why": "All six women and girls are daughters even if their parents aren't pictured.",
+      "textHtml": "How many total daughters are pictured in this family tree?",
+      "whyHtml": "All six women and girls are daughters even if their parents aren\u0026#39;t pictured.",
+      "answerHtml": "6",
+      "check": "auto"
+    },
+    {
+      "level": 35,
+      "kind": "choice",
+      "text": "This strand of Christmas lights is missing a few bulbs! Based on its pattern, which color bulb is missing most from the part of the strand you see?",
+      "options": [
+        "Blue",
+        "Green",
+        "Yellow",
+        "Red"
+      ],
+      "answer": 0,
+      "answerImage": "/media/onepct/6a53492fbb0f323fc44d37d3.png",
+      "why": "The second row is missing one yellow bulb and one green bulb. But the third row is missing two blue bulbs.",
+      "textHtml": "This strand of Christmas lights is missing a few bulbs! Based on its pattern, which color bulb is missing most from the part of the strand you see?",
+      "whyHtml": "The second row is missing one yellow bulb and one green bulb. But the third row is missing two blue bulbs.",
+      "optionsHtml": [
+        "Blue",
+        "Green",
+        "Yellow",
+        "Red"
+      ]
+    },
+    {
+      "level": 30,
+      "kind": "choice",
+      "text": "Which artwork below shows these pieces once they've been assembled?",
+      "image": "/media/onepct/30d2defd30fac33b3b5678d8.png",
+      "options": [
+        "Picture A",
+        "Picture B",
+        "Picture C",
+        "Picture D"
+      ],
+      "answer": 3,
+      "why": "A has a smile that isn't in the original. B and C each have extra triangles.",
+      "textHtml": "Which artwork below shows these pieces once they\u0026#39;ve been assembled?",
+      "whyHtml": "A has a smile that isn\u0026#39;t in the original. B and C each have extra triangles.",
+      "optionImages": [
+        "/media/onepct/d746cb7ac264eea615b142b1.png",
+        "/media/onepct/ab0d56377578239b44144ca3.png",
+        "/media/onepct/9d63cc0c442bf375e13327eb.png",
+        "/media/onepct/61ccb74ccf6bd7acca6805e9.png"
+      ]
+    },
+    {
+      "level": 25,
+      "kind": "text",
+      "text": "To celebrate her husband's birthday, Martha bought a six-pack of cupcakes. What's the fewest number of cuts she'll have to make in order for each family member to have an equal share of all these cupcakes?",
+      "image": "/media/onepct/4d53e7750a7a69c120b5dfc2.png",
+      "answer": 0,
+      "accept": [
+        "2",
+        "two"
+      ],
+      "answerText": "2",
+      "why": "If each family member takes one cupcake, there are two left over. Cut those in half and everyone has an equal number of cupcakes.",
+      "textHtml": "To celebrate her husband\u0026#39;s birthday, Martha bought a six-pack of cupcakes. What\u0026#39;s the fewest number of cuts she\u0026#39;ll have to make in order for each family member to have an equal share of all these cupcakes?",
+      "whyHtml": "If each family member takes one cupcake, there are two left over. Cut those in half and everyone has an equal number of cupcakes.",
+      "answerHtml": "2",
+      "check": "auto"
+    },
+    {
+      "level": 20,
+      "kind": "text",
+      "text": "If you shaded every word in this question green, except for words that are colors of the rainbow, like red and blue, how many words would be colored green?",
+      "answer": 0,
+      "accept": [
+        "25",
+        "twenty-five"
+      ],
+      "answerText": "25",
+      "answerImage": "/media/onepct/dc676d7ffc549075491cd5cd.png",
+      "why": "29 words - 4 words that are colors = 25.",
+      "textHtml": "If you shaded every word in this question green, except for words that are colors of the rainbow, like red and blue, how many words would be colored green?",
+      "whyHtml": "29 words - 4 words that are colors = 25.",
+      "answerHtml": "25",
+      "check": "auto"
+    },
+    {
+      "level": 15,
+      "kind": "text",
+      "text": "The newest chargers in your drawer would not be covered by any other cords. How many old chargers are there?",
+      "image": "/media/onepct/ddb61283707dc070762e94b3.png",
+      "answer": 0,
+      "accept": [
+        "7",
+        "seven"
+      ],
+      "answerText": "7",
+      "answerImage": "/media/onepct/d9fdcbc7b5fef48a2607756f.png",
+      "why": "There are 9 chargers, but 2 are new because they are uncovered. That means there are 7 old chargers in the drawer.",
+      "textHtml": "The newest chargers in your drawer would not be covered by any other cords. How many old chargers are there?",
+      "whyHtml": "There are 9 chargers, but 2 are new because they are uncovered. That means there are 7 old chargers in the drawer.",
+      "answerHtml": "7",
+      "check": "auto"
+    },
+    {
+      "level": 10,
+      "kind": "text",
+      "text": "What's missing from this grid?",
+      "image": "/media/onepct/6bd1323b98697e212175cd95.png",
+      "answer": 0,
+      "accept": [
+        "F"
+      ],
+      "answerText": "F",
+      "answerImage": "/media/onepct/f90b71a6db8abe0c32f3b2bb.png",
+      "why": "The question \"What's missing from this grid?\" is written out backwards in the grid, starting in the bottom right-hand corner. The missing letter is the F from the word FROM.",
+      "textHtml": "What\u0026#39;s missing from this grid?",
+      "whyHtml": "The question \u0026quot;What\u0026#39;s missing from this grid?\u0026quot; is written out backwards in the grid, starting in the bottom right-hand corner. The missing letter is the F from the word FROM.",
+      "answerHtml": "F",
+      "check": "auto"
+    },
+    {
+      "level": 5,
+      "kind": "text",
+      "text": "There's a drawer containing ten beads in four different amounts of four different colors. If there are twice as many red beads as white beads, and twice as many white beads as blue beads, how many green beads are there?",
+      "answer": 0,
+      "accept": [
+        "3",
+        "three"
+      ],
+      "answerText": "3",
+      "why": "The only way for there to be four different amounts that add up to 10 is 1+2+3+4. 3 is the only number that can't be twice or half of any of the other ones.",
+      "textHtml": "There\u0026#39;s a drawer containing ten beads in four different amounts of four different colors. If there are twice as many red beads as white beads, and twice as many white beads as blue beads, how many green beads are there?",
+      "whyHtml": "The only way for there to be four different amounts that add up to 10 is 1+2+3+4. 3 is the only number that can\u0026#39;t be twice or half of any of the other ones.",
+      "answerHtml": "3",
+      "check": "auto"
+    },
+    {
+      "level": 1,
+      "kind": "text",
+      "text": "What four digit number replaces the question mark in this image?",
+      "image": "/media/onepct/918c09e190d3373922284a81.png",
+      "answer": 0,
+      "accept": [
+        "1113"
+      ],
+      "answerText": "1113",
+      "answerImage": "/media/onepct/afeaa6a75092d6d6cf4c9808.png",
+      "why": "The digits represent the number of red, blue, green, and yellow shapes in each group. The 4th group is made up of 1 red, 1 blue, 1 green, and 3 yellows.",
+      "textHtml": "What four digit number replaces the question mark in this image?",
+      "whyHtml": "The digits represent the number of red, blue, green, and yellow shapes in each group. The 4th group is made up of 1 red, 1 blue, 1 green, and 3 yellows.",
+      "answerHtml": "1113",
+      "check": "auto"
+    }
+  ]
+}
