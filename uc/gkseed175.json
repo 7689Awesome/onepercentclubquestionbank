@@ -1,0 +1,24 @@
+{
+  "id": "gkseed175",
+  "kind": "standard",
+  "starter": {
+    "q": "Which archipelago nation of over seven thousand islands is named after a sixteenth-century Spanish king?",
+    "a": "The Philippines (Philip II)"
+  },
+  "topic": "The Philippines",
+  "bonuses": [
+    {
+      "q": "Which colourful public transport vehicles, originally built from US military jeeps, are an icon of Filipino streets?",
+      "a": "Jeepneys"
+    },
+    {
+      "q": "Which near-perfect cone-shaped volcano in Albay province is one of the Philippines' most active?",
+      "a": "Mayon Volcano"
+    },
+    {
+      "q": "What name is given to the Filipino dish of meat stewed in vinegar, soy sauce, garlic and bay leaves?",
+      "a": "Adobo"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.7039123+08:00"
+}

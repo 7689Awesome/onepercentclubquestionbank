@@ -1,0 +1,24 @@
+{
+  "id": "gkseed271",
+  "kind": "standard",
+  "starter": {
+    "q": "Which empire, at its height the largest in history, was said to be one 'on which the sun never sets'?",
+    "a": "The British Empire"
+  },
+  "topic": "Empires",
+  "bonuses": [
+    {
+      "q": "Which empire was ruled from Constantinople after the fall of Rome in the West?",
+      "a": "The Byzantine Empire"
+    },
+    {
+      "q": "Which Turkish empire captured Constantinople in 1453?",
+      "a": "The Ottoman Empire"
+    },
+    {
+      "q": "Which empire built the Taj Mahal?",
+      "a": "The Mughal Empire"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.1767445+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed254",
+  "kind": "standard",
+  "starter": {
+    "q": "Which French sculptor created 'The Thinker'?",
+    "a": "Auguste Rodin"
+  },
+  "topic": "Sculpture",
+  "bonuses": [
+    {
+      "q": "Which ancient Greek statue of Aphrodite, missing its arms, is in the Louvre?",
+      "a": "Venus de Milo"
+    },
+    {
+      "q": "Which statue in Copenhagen depicts a character from a Hans Christian Andersen tale?",
+      "a": "The Little Mermaid"
+    },
+    {
+      "q": "Which British artist made 'The Angel of the North'?",
+      "a": "Antony Gormley"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.8638704+08:00"
+}

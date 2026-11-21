@@ -1,0 +1,24 @@
+{
+  "id": "gkseed260",
+  "kind": "standard",
+  "starter": {
+    "q": "Which series by Veronica Roth divides society into five factions?",
+    "a": "Divergent"
+  },
+  "topic": "Young adult fiction",
+  "bonuses": [
+    {
+      "q": "Which series by James Dashner features teenagers trapped in a giant maze?",
+      "a": "The Maze Runner"
+    },
+    {
+      "q": "Which novel by Stephen Chbosky is told through letters by a teenager named Charlie?",
+      "a": "The Perks of Being a Wallflower"
+    },
+    {
+      "q": "Which series by Leigh Bardugo is set in the Grishaverse?",
+      "a": "Shadow and Bone"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.9656613+08:00"
+}

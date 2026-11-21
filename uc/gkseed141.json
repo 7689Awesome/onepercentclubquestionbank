@@ -1,0 +1,24 @@
+{
+  "id": "gkseed141",
+  "kind": "standard",
+  "starter": {
+    "q": "Which famous scientist proposed the theory of evolution by natural selection in On the Origin of Species?",
+    "a": "Charles Darwin"
+  },
+  "topic": "Evolution",
+  "bonuses": [
+    {
+      "q": "Which group of Pacific islands, visited by Darwin, is famous for its finches and tortoises?",
+      "a": "The Galápagos Islands"
+    },
+    {
+      "q": "What name is given to the remains of ancient living things preserved in rock?",
+      "a": "Fossils"
+    },
+    {
+      "q": "Which famous phrase is often used for natural selection, though not coined by Darwin?",
+      "a": "Survival of the fittest"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.9251076+08:00"
+}

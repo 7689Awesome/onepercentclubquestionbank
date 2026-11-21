@@ -1,0 +1,24 @@
+{
+  "id": "gkseed357",
+  "kind": "standard",
+  "starter": {
+    "q": "Which country opened the world's first public steam railway in 1825?",
+    "a": "The United Kingdom (England)"
+  },
+  "topic": "Trains",
+  "bonuses": [
+    {
+      "q": "Which Chinese train uses magnetic levitation to reach 431 km/h in Shanghai?",
+      "a": "The Shanghai Maglev"
+    },
+    {
+      "q": "Which mountain railway in India is a UNESCO World Heritage Site?",
+      "a": "The Darjeeling Himalayan Railway"
+    },
+    {
+      "q": "Which railway line in Manila is the oldest light rail in Southeast Asia?",
+      "a": "LRT Line 1"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.4050087+08:00"
+}

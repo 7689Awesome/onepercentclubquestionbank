@@ -1,0 +1,24 @@
+{
+  "id": "gkseed385",
+  "kind": "standard",
+  "starter": {
+    "q": "Which European microstate's flag is almost identical to Indonesia's?",
+    "a": "Monaco"
+  },
+  "topic": "Colours of flags",
+  "bonuses": [
+    {
+      "q": "Which colours are on the flag of Germany?",
+      "a": "Black, red and gold"
+    },
+    {
+      "q": "Which country's flag is red with a yellow star?",
+      "a": "Vietnam"
+    },
+    {
+      "q": "Which colour is the sun on the Philippine flag?",
+      "a": "Golden yellow"
+    }
+  ],
+  "updated": "2026-11-21T20:01:02.0660342+08:00"
+}

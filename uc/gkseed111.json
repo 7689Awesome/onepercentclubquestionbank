@@ -1,0 +1,24 @@
+{
+  "id": "gkseed111",
+  "kind": "standard",
+  "starter": {
+    "q": "Which streaming star, real name Jimmy Donaldson, became the most-subscribed individual on YouTube?",
+    "a": "MrBeast"
+  },
+  "topic": "YouTube",
+  "bonuses": [
+    {
+      "q": "What was the title of the first video uploaded to YouTube in 2005?",
+      "a": "Me at the Zoo"
+    },
+    {
+      "q": "Which company bought YouTube in 2006?",
+      "a": "Google"
+    },
+    {
+      "q": "Which Swedish gamer was YouTube's most-subscribed individual creator from 2013 to 2019?",
+      "a": "PewDiePie"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8625113+08:00"
+}

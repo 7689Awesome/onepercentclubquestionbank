@@ -1,0 +1,24 @@
+{
+  "id": "gkseed310",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to Earth's outermost solid layer?",
+    "a": "The crust"
+  },
+  "topic": "Earth's layers",
+  "bonuses": [
+    {
+      "q": "What name is given to the thick layer between the crust and the core?",
+      "a": "The mantle"
+    },
+    {
+      "q": "Which two metals mainly make up Earth's core?",
+      "a": "Iron and nickel"
+    },
+    {
+      "q": "What name is given to the boundary between the crust and the mantle, named after a Croatian seismologist?",
+      "a": "The Moho (Mohorovičić discontinuity)"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.7478495+08:00"
+}

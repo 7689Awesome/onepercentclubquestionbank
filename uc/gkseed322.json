@@ -1,0 +1,24 @@
+{
+  "id": "gkseed322",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Thai combat sport is known as 'the art of eight limbs'?",
+    "a": "Muay Thai"
+  },
+  "topic": "Combat sports",
+  "bonuses": [
+    {
+      "q": "Which Brazilian martial art focuses on ground fighting and submissions?",
+      "a": "Brazilian jiu-jitsu"
+    },
+    {
+      "q": "What does 'MMA' stand for?",
+      "a": "Mixed martial arts"
+    },
+    {
+      "q": "Which Filipino boxer became the first eight-division world champion?",
+      "a": "Manny Pacquiao"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.9435193+08:00"
+}

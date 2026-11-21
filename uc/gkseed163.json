@@ -1,0 +1,24 @@
+{
+  "id": "gkseed163",
+  "kind": "standard",
+  "starter": {
+    "q": "Which ancient method, named after a Greek scholar from Cyrene, finds prime numbers by crossing out the multiples of each prime in turn?",
+    "a": "The Sieve of Eratosthenes"
+  },
+  "topic": "Prime numbers",
+  "bonuses": [
+    {
+      "q": "Which ancient Greek mathematician proved that there are infinitely many primes?",
+      "a": "Euclid"
+    },
+    {
+      "q": "What name is given to pairs of primes that differ by two, such as 11 and 13?",
+      "a": "Twin primes"
+    },
+    {
+      "q": "Named after a French monk, what type of prime is one less than a power of two, such as 7 or 31?",
+      "a": "A Mersenne prime"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.5709153+08:00"
+}

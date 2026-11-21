@@ -1,0 +1,24 @@
+{
+  "id": "gkseed113",
+  "kind": "standard",
+  "starter": {
+    "q": "Which planet is famous for its Great Red Spot, a storm larger than the Earth?",
+    "a": "Jupiter"
+  },
+  "topic": "The outer planets",
+  "bonuses": [
+    {
+      "q": "Which planet rotates on its side?",
+      "a": "Uranus"
+    },
+    {
+      "q": "Which planet has the strongest winds in the solar system?",
+      "a": "Neptune"
+    },
+    {
+      "q": "Which planet's largest moon is Titan?",
+      "a": "Saturn"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8644083+08:00"
+}

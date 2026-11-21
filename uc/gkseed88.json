@@ -1,0 +1,24 @@
+{
+  "id": "gkseed88",
+  "kind": "standard",
+  "starter": {
+    "q": "Which ocean, the largest on Earth, contains the deepest point, the Mariana Trench?",
+    "a": "The Pacific Ocean"
+  },
+  "topic": "Oceans",
+  "bonuses": [
+    {
+      "q": "Which ocean is the second largest, lying between the Americas and Europe and Africa?",
+      "a": "The Atlantic Ocean"
+    },
+    {
+      "q": "Which ocean is the smallest and coldest?",
+      "a": "The Arctic Ocean"
+    },
+    {
+      "q": "Which ocean surrounds the Maldives and lies south of India?",
+      "a": "The Indian Ocean"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8129204+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed171",
+  "kind": "standard",
+  "starter": {
+    "q": "Which emoji, officially called 'Face with Tears of Joy', was named Word of the Year by Oxford Dictionaries in 2015?",
+    "a": "😂 (Face with Tears of Joy)"
+  },
+  "topic": "Emoji",
+  "bonuses": [
+    {
+      "q": "From which language does the word 'emoji' come?",
+      "a": "Japanese"
+    },
+    {
+      "q": "Which non-profit organisation approves new emoji as part of its character-encoding standard?",
+      "a": "The Unicode Consortium"
+    },
+    {
+      "q": "With the release of iOS 5, in which year did Apple add an emoji keyboard to iPhones worldwide?",
+      "a": "2011"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.6443951+08:00"
+}

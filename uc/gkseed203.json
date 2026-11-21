@@ -1,0 +1,24 @@
+{
+  "id": "gkseed203",
+  "kind": "standard",
+  "starter": {
+    "q": "Which shark, the largest predatory fish, was made famous by Steven Spielberg's 1975 film 'Jaws'?",
+    "a": "The great white shark"
+  },
+  "topic": "Sharks",
+  "bonuses": [
+    {
+      "q": "Which shark is named after the distinctive shape of its flattened, wide head?",
+      "a": "The hammerhead"
+    },
+    {
+      "q": "Which gentle filter-feeding shark is the biggest fish in the sea?",
+      "a": "The whale shark"
+    },
+    {
+      "q": "Sharks' skeletons are made not of bone but of which flexible tissue?",
+      "a": "Cartilage"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.0970123+08:00"
+}

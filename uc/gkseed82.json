@@ -1,0 +1,24 @@
+{
+  "id": "gkseed82",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to the period of European history, from about the fourteenth to the seventeenth century, that saw a rebirth of art and learning?",
+    "a": "The Renaissance"
+  },
+  "topic": "Renaissance artists",
+  "bonuses": [
+    {
+      "q": "Which artist painted the ceiling of the Sistine Chapel?",
+      "a": "Michelangelo"
+    },
+    {
+      "q": "Which artist painted The Last Supper and the Mona Lisa?",
+      "a": "Leonardo da Vinci"
+    },
+    {
+      "q": "Which artist painted The Birth of Venus?",
+      "a": "Sandro Botticelli"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7991817+08:00"
+}

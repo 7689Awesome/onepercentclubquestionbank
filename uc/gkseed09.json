@@ -1,0 +1,24 @@
+{
+  "id": "gkseed09",
+  "kind": "standard",
+  "starter": {
+    "q": "In which year did the Berlin Wall fall, after East Germany opened its border crossings?",
+    "a": "1989"
+  },
+  "topic": "The Cold War",
+  "bonuses": [
+    {
+      "q": "Which crisis of October 1962 brought the USA and the Soviet Union closest to nuclear war, after Soviet missiles were found about 90 miles from Florida?",
+      "a": "The Cuban Missile Crisis"
+    },
+    {
+      "q": "Which Soviet leader introduced the policies of glasnost and perestroika in the 1980s?",
+      "a": "Mikhail Gorbachev"
+    },
+    {
+      "q": "What name is given to the operation of 1948 and 1949 in which Western allies supplied West Berlin by air during a Soviet blockade?",
+      "a": "The Berlin Airlift"
+    }
+  ],
+  "updated": "2026-10-21T10:28:25.3970164+02:00"
+}

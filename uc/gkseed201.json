@@ -1,0 +1,24 @@
+{
+  "id": "gkseed201",
+  "kind": "standard",
+  "starter": {
+    "q": "Which tropical tree's seeds, fermented and roasted, are the raw material of chocolate?",
+    "a": "Cacao (the cocoa tree)"
+  },
+  "topic": "Chocolate",
+  "bonuses": [
+    {
+      "q": "Which Swiss chocolatier is credited with inventing milk chocolate in 1875, with Henri Nestlé's condensed milk?",
+      "a": "Daniel Peter"
+    },
+    {
+      "q": "Which Mesoamerican civilisation used cacao beans as currency?",
+      "a": "The Aztecs"
+    },
+    {
+      "q": "Which country produces more cocoa than any other?",
+      "a": "Côte d'Ivoire (Ivory Coast)"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.0518193+08:00"
+}

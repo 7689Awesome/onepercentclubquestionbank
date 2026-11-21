@@ -1,0 +1,24 @@
+{
+  "id": "gkseed265",
+  "kind": "standard",
+  "starter": {
+    "q": "Which American poet's collection 'Leaves of Grass' was first published in 1855?",
+    "a": "Walt Whitman"
+  },
+  "topic": "Modern poetry",
+  "bonuses": [
+    {
+      "q": "Which American poet wrote 'Still I Rise' and the memoir 'I Know Why the Caged Bird Sings'?",
+      "a": "Maya Angelou"
+    },
+    {
+      "q": "Which Indian-born Canadian poet wrote the bestselling collection 'milk and honey'?",
+      "a": "Rupi Kaur"
+    },
+    {
+      "q": "Which American poet read 'The Hill We Climb' at the 2021 US inauguration?",
+      "a": "Amanda Gorman"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.055682+08:00"
+}

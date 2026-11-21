@@ -1,0 +1,24 @@
+{
+  "id": "gkseed314",
+  "kind": "standard",
+  "starter": {
+    "q": "How many chromosomes do humans normally have?",
+    "a": "46"
+  },
+  "topic": "DNA and heredity",
+  "bonuses": [
+    {
+      "q": "What name is given to a section of DNA that codes for a trait?",
+      "a": "A gene"
+    },
+    {
+      "q": "What is the name of the gene-editing tool developed by Doudna and Charpentier?",
+      "a": "CRISPR"
+    },
+    {
+      "q": "Which base pairs with adenine in DNA?",
+      "a": "Thymine"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.790532+08:00"
+}

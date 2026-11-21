@@ -1,0 +1,24 @@
+{
+  "id": "gkseed148",
+  "kind": "standard",
+  "starter": {
+    "q": "Which streaming series about a chef running his family's sandwich shop in Chicago stars Jeremy Allen White?",
+    "a": "The Bear"
+  },
+  "topic": "TV chefs",
+  "bonuses": [
+    {
+      "q": "Which Scottish-born chef is famous for Hell's Kitchen?",
+      "a": "Gordon Ramsay"
+    },
+    {
+      "q": "Which British chef is known for campaigns to improve school dinners?",
+      "a": "Jamie Oliver"
+    },
+    {
+      "q": "Which Netflix series profiles a famous chef in each episode?",
+      "a": "Chef's Table"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.9446881+08:00"
+}

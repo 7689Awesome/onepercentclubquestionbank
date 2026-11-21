@@ -1,0 +1,24 @@
+{
+  "id": "gkseed144",
+  "kind": "standard",
+  "starter": {
+    "q": "Which shape has eight sides?",
+    "a": "An octagon"
+  },
+  "topic": "Shapes",
+  "bonuses": [
+    {
+      "q": "How many sides does a hexagon have?",
+      "a": "Six"
+    },
+    {
+      "q": "What name is given to a triangle with all sides equal?",
+      "a": "Equilateral"
+    },
+    {
+      "q": "What three-dimensional shape is a dice?",
+      "a": "A cube"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.9319581+08:00"
+}

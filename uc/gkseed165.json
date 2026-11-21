@@ -1,0 +1,24 @@
+{
+  "id": "gkseed165",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Danish author wrote fairy tales including The Little Mermaid, The Snow Queen and The Ugly Duckling?",
+    "a": "Hans Christian Andersen"
+  },
+  "topic": "Fairy tales",
+  "bonuses": [
+    {
+      "q": "Which German brothers collected tales including Hansel and Gretel and Rumpelstiltskin in the nineteenth century?",
+      "a": "The Brothers Grimm"
+    },
+    {
+      "q": "In the Grimm tale, what is Rapunzel told to let down from her tower?",
+      "a": "Her hair"
+    },
+    {
+      "q": "Which French author published Cinderella and Puss in Boots in a 1697 collection of tales?",
+      "a": "Charles Perrault"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.5807968+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed384",
+  "kind": "standard",
+  "starter": {
+    "q": "What animal is the 'elephant in the room'?",
+    "a": "An elephant"
+  },
+  "topic": "Animals in idioms",
+  "bonuses": [
+    {
+      "q": "What does it mean to 'let the cat out of the bag'?",
+      "a": "To reveal a secret"
+    },
+    {
+      "q": "Which animal's tears are called fake tears?",
+      "a": "The crocodile"
+    },
+    {
+      "q": "Which bird is said to bury its head in the sand?",
+      "a": "The ostrich"
+    }
+  ],
+  "updated": "2026-11-21T20:01:02.0335642+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed167",
+  "kind": "standard",
+  "starter": {
+    "q": "Known as the Queen of Crime, which English novelist created the Belgian detective Hercule Poirot?",
+    "a": "Agatha Christie"
+  },
+  "topic": "Agatha Christie",
+  "bonuses": [
+    {
+      "q": "Which elderly amateur sleuth, who lives in the village of St Mary Mead, did Christie create?",
+      "a": "Miss Marple"
+    },
+    {
+      "q": "On which luxury train is the murder solved by Poirot in a 1934 novel?",
+      "a": "The Orient Express"
+    },
+    {
+      "q": "Which Christie play, running continuously in London's West End since 1952, is the longest-running play in the world?",
+      "a": "The Mousetrap"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.6101081+08:00"
+}

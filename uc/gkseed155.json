@@ -1,0 +1,24 @@
+{
+  "id": "gkseed155",
+  "kind": "standard",
+  "starter": {
+    "q": "Which space telescope, launched on Christmas Day 2021, observes mainly in the infrared from a point about 1.5 million kilometres from Earth?",
+    "a": "The James Webb Space Telescope"
+  },
+  "topic": "Space telescopes",
+  "bonuses": [
+    {
+      "q": "Launched in 1990 and repaired by astronauts five times, which telescope is named after the astronomer who showed the universe is expanding?",
+      "a": "The Hubble Space Telescope"
+    },
+    {
+      "q": "At which of the Lagrange points, beyond the Earth on the line from the Sun, does the James Webb telescope orbit?",
+      "a": "L2 (the second Lagrange point)"
+    },
+    {
+      "q": "Which NASA space observatory, launched in 2009, searched for planets by watching stars dim and found thousands of exoplanets?",
+      "a": "Kepler"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.460226+08:00"
+}

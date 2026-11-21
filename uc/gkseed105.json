@@ -1,0 +1,24 @@
+{
+  "id": "gkseed105",
+  "kind": "standard",
+  "starter": {
+    "q": "Which famous ship of Greek legend carried Jason and his crew?",
+    "a": "The Argo"
+  },
+  "topic": "Famous voyages",
+  "bonuses": [
+    {
+      "q": "Which Portuguese explorer was the first European to reach India by sea, in 1498?",
+      "a": "Vasco da Gama"
+    },
+    {
+      "q": "Which explorer led the first expedition to sail around the world, though he died on the way?",
+      "a": "Ferdinand Magellan"
+    },
+    {
+      "q": "Which explorer reached the Americas in 1492?",
+      "a": "Christopher Columbus"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8475082+08:00"
+}

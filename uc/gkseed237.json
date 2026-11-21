@@ -1,0 +1,24 @@
+{
+  "id": "gkseed237",
+  "kind": "standard",
+  "starter": {
+    "q": "Which masked killer stalks Haddonfield on Halloween night in John Carpenter's 1978 film?",
+    "a": "Michael Myers"
+  },
+  "topic": "Horror icons",
+  "bonuses": [
+    {
+      "q": "Which killer with a bladed glove attacks teenagers in their dreams?",
+      "a": "Freddy Krueger"
+    },
+    {
+      "q": "Which cursed girl crawls out of a television in 'The Ring'?",
+      "a": "Samara (Sadako in the Japanese original)"
+    },
+    {
+      "q": "Which clown terrorises the children of Derry in Stephen King's 'It'?",
+      "a": "Pennywise"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.5804444+08:00"
+}

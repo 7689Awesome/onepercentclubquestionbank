@@ -1,0 +1,24 @@
+{
+  "id": "gkseed351",
+  "kind": "standard",
+  "starter": {
+    "q": "Which religion's holy book is the Guru Granth Sahib?",
+    "a": "Sikhism"
+  },
+  "topic": "World religions",
+  "bonuses": [
+    {
+      "q": "In which Indian city did the Buddha give his first sermon, at Sarnath nearby?",
+      "a": "Varanasi"
+    },
+    {
+      "q": "Which Jewish festival of lights lasts eight nights?",
+      "a": "Hanukkah"
+    },
+    {
+      "q": "Which city is the holiest in Islam, home to the Kaaba?",
+      "a": "Mecca"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.3743864+08:00"
+}

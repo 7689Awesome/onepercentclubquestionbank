@@ -1,0 +1,24 @@
+{
+  "id": "gkseed58",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Swedish band won the Eurovision Song Contest in 1974 with the song Waterloo?",
+    "a": "ABBA"
+  },
+  "topic": "Eurovision",
+  "bonuses": [
+    {
+      "q": "Which Canadian singer won Eurovision for Switzerland in 1988?",
+      "a": "Celine Dion"
+    },
+    {
+      "q": "Which Italian rock band won Eurovision in 2021 with Zitti e buoni?",
+      "a": "Måneskin"
+    },
+    {
+      "q": "Which country has won Eurovision seven times, a record it shares with Sweden?",
+      "a": "Ireland"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7487012+08:00"
+}

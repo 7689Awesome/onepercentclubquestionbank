@@ -1,0 +1,24 @@
+{
+  "id": "gkseed280",
+  "kind": "standard",
+  "starter": {
+    "q": "Which royal house has ruled the United Kingdom since 1917?",
+    "a": "The House of Windsor"
+  },
+  "topic": "Royal families",
+  "bonuses": [
+    {
+      "q": "Which country is ruled by the world's oldest continuous hereditary monarchy?",
+      "a": "Japan"
+    },
+    {
+      "q": "Which Thai king reigned for 70 years until 2016?",
+      "a": "Bhumibol Adulyadej"
+    },
+    {
+      "q": "Which Danish queen abdicated in 2024?",
+      "a": "Margrethe II"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.2785803+08:00"
+}

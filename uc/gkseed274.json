@@ -1,0 +1,24 @@
+{
+  "id": "gkseed274",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Soviet satellite, launched in 1957, began the Space Race?",
+    "a": "Sputnik 1"
+  },
+  "topic": "The Space Race",
+  "bonuses": [
+    {
+      "q": "Which US president promised in 1961 to land a man on the Moon by the end of the decade?",
+      "a": "John F. Kennedy"
+    },
+    {
+      "q": "Which American was the first to orbit the Earth, in 1962?",
+      "a": "John Glenn"
+    },
+    {
+      "q": "Which space station was operated by the Soviet Union and later Russia from 1986 to 2001?",
+      "a": "Mir"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.2161192+08:00"
+}

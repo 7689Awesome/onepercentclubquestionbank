@@ -1,0 +1,24 @@
+{
+  "id": "gkseed209",
+  "kind": "standard",
+  "starter": {
+    "q": "Which insect, the subject of plagues in the Bible, is a grasshopper that forms huge swarms?",
+    "a": "The locust"
+  },
+  "topic": "Insects",
+  "bonuses": [
+    {
+      "q": "What name is given to the hard front wings of a beetle?",
+      "a": "Elytra"
+    },
+    {
+      "q": "How many body sections does an insect have?",
+      "a": "Three (head, thorax, abdomen)"
+    },
+    {
+      "q": "Which insect has the longest known migration, flying thousands of kilometres from Canada to Mexico?",
+      "a": "The monarch butterfly"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.2148007+08:00"
+}

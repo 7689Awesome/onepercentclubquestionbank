@@ -1,0 +1,24 @@
+{
+  "id": "gkseed195",
+  "kind": "standard",
+  "starter": {
+    "q": "Which American mountain in South Dakota features carved heads of four US presidents, including Washington and Lincoln?",
+    "a": "Mount Rushmore"
+  },
+  "topic": "US presidents",
+  "bonuses": [
+    {
+      "q": "Which president appears on the US one-dollar bill?",
+      "a": "George Washington"
+    },
+    {
+      "q": "Which president, the only one to serve more than two terms, led the US through most of the Second World War?",
+      "a": "Franklin D. Roosevelt"
+    },
+    {
+      "q": "Which president resigned in 1974 after the Watergate scandal?",
+      "a": "Richard Nixon"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.9264951+08:00"
+}

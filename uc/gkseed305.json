@@ -1,0 +1,24 @@
+{
+  "id": "gkseed305",
+  "kind": "standard",
+  "starter": {
+    "q": "How many bits are in a byte?",
+    "a": "Eight"
+  },
+  "topic": "Codes and computing",
+  "bonuses": [
+    {
+      "q": "In binary, what number is written as 101?",
+      "a": "Five"
+    },
+    {
+      "q": "What name is given to the numbering system with base 16, used in colour codes like #FF0000?",
+      "a": "Hexadecimal"
+    },
+    {
+      "q": "What colour is the hex code #FFFFFF?",
+      "a": "White"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.6756679+08:00"
+}

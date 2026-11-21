@@ -1,0 +1,24 @@
+{
+  "id": "gkseed290",
+  "kind": "standard",
+  "starter": {
+    "q": "What is the Japanese name for Japan?",
+    "a": "Nihon (Nippon)"
+  },
+  "topic": "Japan",
+  "bonuses": [
+    {
+      "q": "Which Japanese city, capital in the 700s, is home to a giant bronze Buddha at Tōdai-ji?",
+      "a": "Nara"
+    },
+    {
+      "q": "What name is given to the Japanese bullet trains?",
+      "a": "Shinkansen"
+    },
+    {
+      "q": "Which is the northernmost of Japan's main islands?",
+      "a": "Hokkaido"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.4341282+08:00"
+}

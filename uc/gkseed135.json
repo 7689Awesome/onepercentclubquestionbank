@@ -1,0 +1,24 @@
+{
+  "id": "gkseed135",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Italian city, with its leaning bell tower, is also the birthplace of Galileo?",
+    "a": "Pisa"
+  },
+  "topic": "Italy",
+  "bonuses": [
+    {
+      "q": "Which Italian city is home to the Colosseum?",
+      "a": "Rome"
+    },
+    {
+      "q": "Which Italian city is famous for its fashion week and the cathedral called the Duomo?",
+      "a": "Milan"
+    },
+    {
+      "q": "Which Italian dish of rice is slowly cooked in stock?",
+      "a": "Risotto"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.9143056+08:00"
+}

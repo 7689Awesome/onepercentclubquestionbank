@@ -1,0 +1,24 @@
+{
+  "id": "gkseed278",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Englishwoman led the campaign for women's suffrage and founded the Women's Social and Political Union?",
+    "a": "Emmeline Pankhurst"
+  },
+  "topic": "Women in history",
+  "bonuses": [
+    {
+      "q": "Which country was the first to give women the vote nationally, in 1893?",
+      "a": "New Zealand"
+    },
+    {
+      "q": "Which Kenyan environmentalist became the first African woman to win the Nobel Peace Prize?",
+      "a": "Wangari Maathai"
+    },
+    {
+      "q": "Which Filipina revolutionary is called 'the Mother of Balintawak'?",
+      "a": "Melchora Aquino (Tandang Sora)"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.253236+08:00"
+}

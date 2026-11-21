@@ -1,0 +1,24 @@
+{
+  "id": "gkseed162",
+  "kind": "standard",
+  "starter": {
+    "q": "Which mathematical constant, approximately 2.718, is the base of the natural logarithm and is named after the Swiss mathematician Leonhard Euler?",
+    "a": "e (Euler's number)"
+  },
+  "topic": "Mathematical constants",
+  "bonuses": [
+    {
+      "q": "Which constant, roughly 1.618, is known as the golden ratio and denoted by a Greek letter?",
+      "a": "Phi"
+    },
+    {
+      "q": "What name is given to the imaginary number whose square is minus one?",
+      "a": "i"
+    },
+    {
+      "q": "Which famous equation, often called the most beautiful in mathematics, links e, i, pi, one and zero?",
+      "a": "Euler's identity"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.5571196+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed65",
+  "kind": "standard",
+  "starter": {
+    "q": "Which American singer released the albums Lemonade and Renaissance, and in 2024 the country album Cowboy Carter?",
+    "a": "Beyoncé"
+  },
+  "topic": "Girl groups",
+  "bonuses": [
+    {
+      "q": "Which British girl group sang Wannabe in 1996?",
+      "a": "The Spice Girls"
+    },
+    {
+      "q": "Which girl group, formed on The X Factor in 2011, sang Shout Out to My Ex?",
+      "a": "Little Mix"
+    },
+    {
+      "q": "Which K-pop girl group, managed by JYP, has nine members and sang TT?",
+      "a": "TWICE"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.763969+08:00"
+}

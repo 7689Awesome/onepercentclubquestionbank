@@ -1,0 +1,24 @@
+{
+  "id": "gkseed353",
+  "kind": "standard",
+  "starter": {
+    "q": "Which airline is the flag carrier of the United Arab Emirates, based in Dubai?",
+    "a": "Emirates"
+  },
+  "topic": "Airlines",
+  "bonuses": [
+    {
+      "q": "Which Hong Kong airline has a green brushwing logo?",
+      "a": "Cathay Pacific"
+    },
+    {
+      "q": "Which Dutch airline is the world's oldest still operating under its original name?",
+      "a": "KLM"
+    },
+    {
+      "q": "Which Malaysian low-cost airline group, founded by Tony Fernandes, has a red livery?",
+      "a": "AirAsia"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.3925631+08:00"
+}

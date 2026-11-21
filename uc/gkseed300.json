@@ -1,0 +1,24 @@
+{
+  "id": "gkseed300",
+  "kind": "standard",
+  "starter": {
+    "q": "What is three-quarters expressed as a percentage?",
+    "a": "75%"
+  },
+  "topic": "Fractions and percentages",
+  "bonuses": [
+    {
+      "q": "What is 0.125 as a fraction in its simplest form?",
+      "a": "One-eighth"
+    },
+    {
+      "q": "What is 20% of 250?",
+      "a": "50"
+    },
+    {
+      "q": "What is the reciprocal of 4?",
+      "a": "One-quarter (0.25)"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.6114375+08:00"
+}

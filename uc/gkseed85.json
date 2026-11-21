@@ -1,0 +1,24 @@
+{
+  "id": "gkseed85",
+  "kind": "standard",
+  "starter": {
+    "q": "Which language, spoken in Brazil, Angola and Mozambique, is the official language of nine countries?",
+    "a": "Portuguese"
+  },
+  "topic": "Languages",
+  "bonuses": [
+    {
+      "q": "Which language is spoken by the most people as a first language?",
+      "a": "Mandarin Chinese"
+    },
+    {
+      "q": "Which language, written from right to left, is the official language of Saudi Arabia and Egypt?",
+      "a": "Arabic"
+    },
+    {
+      "q": "Which language is the national language of Malaysia, closely related to Indonesian?",
+      "a": "Malay"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8068895+08:00"
+}

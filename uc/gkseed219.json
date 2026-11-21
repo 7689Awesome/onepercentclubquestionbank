@@ -1,0 +1,24 @@
+{
+  "id": "gkseed219",
+  "kind": "standard",
+  "starter": {
+    "q": "Which lake, shared by Uganda, Kenya and Tanzania and named after a British queen, is the largest in Africa?",
+    "a": "Lake Victoria"
+  },
+  "topic": "Lakes",
+  "bonuses": [
+    {
+      "q": "Which Kenyan Rift Valley lake is famous for its huge flocks of pink flamingos?",
+      "a": "Lake Nakuru"
+    },
+    {
+      "q": "Which Scottish lake is said to be home to a famous monster?",
+      "a": "Loch Ness"
+    },
+    {
+      "q": "Which Philippine lake, in Batangas, contains a volcano with its own crater lake?",
+      "a": "Taal Lake"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.3405899+08:00"
+}

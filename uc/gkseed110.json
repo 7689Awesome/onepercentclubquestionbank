@@ -1,0 +1,24 @@
+{
+  "id": "gkseed110",
+  "kind": "standard",
+  "starter": {
+    "q": "Which word describes the change of state from a liquid to a gas?",
+    "a": "Evaporation"
+  },
+  "topic": "States of matter",
+  "bonuses": [
+    {
+      "q": "What word describes the change of a gas into a liquid?",
+      "a": "Condensation"
+    },
+    {
+      "q": "What word describes the change of a solid directly into a gas?",
+      "a": "Sublimation"
+    },
+    {
+      "q": "What name is given to the fourth state of matter, found in stars and lightning?",
+      "a": "Plasma"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8609946+08:00"
+}

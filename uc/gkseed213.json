@@ -1,0 +1,24 @@
+{
+  "id": "gkseed213",
+  "kind": "standard",
+  "starter": {
+    "q": "Which island, the world's largest that is not a continent, is an autonomous territory of Denmark?",
+    "a": "Greenland"
+  },
+  "topic": "Islands of the world",
+  "bonuses": [
+    {
+      "q": "Which is the largest island in the Mediterranean Sea?",
+      "a": "Sicily"
+    },
+    {
+      "q": "Which island nation in the Indian Ocean was once home to the dodo?",
+      "a": "Mauritius"
+    },
+    {
+      "q": "Which is the largest of the Greek islands?",
+      "a": "Crete"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.2768944+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed307",
+  "kind": "standard",
+  "starter": {
+    "q": "Which belt of asteroids lies between Mars and Jupiter?",
+    "a": "The asteroid belt (main belt)"
+  },
+  "topic": "Comets and asteroids",
+  "bonuses": [
+    {
+      "q": "What is the largest object in the asteroid belt, now classed as a dwarf planet?",
+      "a": "Ceres"
+    },
+    {
+      "q": "What name is given to a meteoroid that survives to hit the ground?",
+      "a": "A meteorite"
+    },
+    {
+      "q": "What hit the Yucatán about 66 million years ago, helping wipe out the dinosaurs?",
+      "a": "An asteroid (the Chicxulub impactor)"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.7086129+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed315",
+  "kind": "standard",
+  "starter": {
+    "q": "Which disease, caused by a virus, was declared eradicated in 1980?",
+    "a": "Smallpox"
+  },
+  "topic": "Viruses and bacteria",
+  "bonuses": [
+    {
+      "q": "Which bacteria are used to make yoghurt?",
+      "a": "Lactobacillus (lactic acid bacteria)"
+    },
+    {
+      "q": "What name is given to medicines that kill bacteria but have no effect on viruses?",
+      "a": "Antibiotics"
+    },
+    {
+      "q": "Which virus family includes the common cold and COVID-19?",
+      "a": "Coronaviruses"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.8124768+08:00"
+}

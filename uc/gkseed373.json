@@ -1,0 +1,24 @@
+{
+  "id": "gkseed373",
+  "kind": "standard",
+  "starter": {
+    "q": "Which British YouTube group of seven includes KSI?",
+    "a": "The Sidemen"
+  },
+  "topic": "Influencers and YouTubers",
+  "bonuses": [
+    {
+      "q": "Which American YouTuber is known for 'Squid Game in Real Life'?",
+      "a": "MrBeast"
+    },
+    {
+      "q": "Which Filipino food vlogger is known as 'Ninong Ry'?",
+      "a": "Ryan Reyes"
+    },
+    {
+      "q": "Which American brothers, Logan and Jake, went from YouTube fame to boxing?",
+      "a": "The Paul brothers"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.70742+08:00"
+}

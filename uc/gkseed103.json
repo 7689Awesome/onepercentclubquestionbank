@@ -1,0 +1,24 @@
+{
+  "id": "gkseed103",
+  "kind": "standard",
+  "starter": {
+    "q": "Which fictional wizard school is located in the Scottish Highlands in the Harry Potter books?",
+    "a": "Hogwarts"
+  },
+  "topic": "Fictional schools",
+  "bonuses": [
+    {
+      "q": "Which school does Wednesday Addams attend in the Netflix series?",
+      "a": "Nevermore Academy"
+    },
+    {
+      "q": "In My Hero Academia, which school trains future heroes?",
+      "a": "U.A. High School"
+    },
+    {
+      "q": "Which school does Professor X run in the X-Men comics?",
+      "a": "Xavier's School for Gifted Youngsters"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8430654+08:00"
+}

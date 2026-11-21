@@ -1,0 +1,24 @@
+{
+  "id": "gkseed184",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Japanese high-speed railway, opened in 1964 between Tokyo and Osaka in time for the Olympics, is popularly called the bullet train?",
+    "a": "The Shinkansen"
+  },
+  "topic": "Railways",
+  "bonuses": [
+    {
+      "q": "Which French high-speed train is known by a three-letter abbreviation meaning 'train of great speed'?",
+      "a": "The TGV"
+    },
+    {
+      "q": "Which railway, nearly 9,300 kilometres long, runs from Moscow to Vladivostok?",
+      "a": "The Trans-Siberian Railway"
+    },
+    {
+      "q": "Which tunnel, opened in 1994, carries trains under the sea between England and France?",
+      "a": "The Channel Tunnel"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.8113775+08:00"
+}

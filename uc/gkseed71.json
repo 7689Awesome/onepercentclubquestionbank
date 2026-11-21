@@ -1,0 +1,24 @@
+{
+  "id": "gkseed71",
+  "kind": "standard",
+  "starter": {
+    "q": "Which city state, an island at the tip of the Malay Peninsula, gained independence from Malaysia in 1965?",
+    "a": "Singapore"
+  },
+  "topic": "Singapore",
+  "bonuses": [
+    {
+      "q": "Which Singapore landmark is a statue with the head of a lion and the body of a fish?",
+      "a": "The Merlion"
+    },
+    {
+      "q": "Which founder of modern Singapore landed there in 1819?",
+      "a": "Sir Stamford Raffles"
+    },
+    {
+      "q": "Which was Singapore's first prime minister, serving from 1959 to 1990?",
+      "a": "Lee Kuan Yew"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7783285+08:00"
+}

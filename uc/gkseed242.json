@@ -1,0 +1,24 @@
+{
+  "id": "gkseed242",
+  "kind": "standard",
+  "starter": {
+    "q": "Which 2016 K-drama follows a soldier and a doctor who fall in love in a fictional war-torn country?",
+    "a": "Descendants of the Sun"
+  },
+  "topic": "K-dramas",
+  "bonuses": [
+    {
+      "q": "Which 2009 K-drama, remade in the Philippines and Taiwan, follows a poor girl and four rich boys called F4?",
+      "a": "Boys Over Flowers"
+    },
+    {
+      "q": "Which 2020 K-drama follows a convict-turned-restaurant owner fighting a food conglomerate in Itaewon?",
+      "a": "Itaewon Class"
+    },
+    {
+      "q": "Which 2022 K-drama follows a young man reborn into the family of the chaebol who killed him?",
+      "a": "Reborn Rich"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.7022813+08:00"
+}
