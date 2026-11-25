@@ -1,0 +1,278 @@
+{
+  "id": "9c1280600476d0fe",
+  "name": "US S3E1",
+  "updated": "2026-10-14T00:41:37.4556911+08:00",
+  "questions": [
+    {
+      "level": 90,
+      "kind": "choice",
+      "text": "Logically, based solely on their names, which celebrity below belongs on this guest list?",
+      "image": "/media/onepct/6e73005183375c3345e8c698.png",
+      "options": [
+        "Bear Grylls",
+        "Tiger Woods",
+        "Bad Bunny"
+      ],
+      "answer": 2,
+      "why": "It's a list of celebrities whose second name is an animal.",
+      "textHtml": "Logically, based solely on their names, which celebrity below belongs on this guest list?",
+      "whyHtml": "It\u0026#39;s a list of celebrities whose second name is an animal.",
+      "optionsHtml": [
+        "Bear Grylls",
+        "Tiger Woods",
+        "Bad Bunny"
+      ]
+    },
+    {
+      "level": 80,
+      "kind": "choice",
+      "text": "Which pizza has more slices?",
+      "image": "/media/onepct/c5e4a61e5e479ea0738380ac.png",
+      "options": [
+        "A",
+        "B"
+      ],
+      "answer": 1,
+      "why": "A has 8 slices, B has 11.",
+      "textHtml": "Which pizza has more slices?",
+      "whyHtml": "A has 8 slices, B has 11.",
+      "optionsHtml": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "level": 70,
+      "kind": "choice",
+      "text": "These triplets like to wear similar clothing, but with subtle differences, so people can tell them apart. Which triplet is wearing this exact outfit?",
+      "image": "/media/onepct/2f260f1a9c48255d17f326c6.png",
+      "options": [
+        "Picture A",
+        "Picture B",
+        "Picture C"
+      ],
+      "answer": 1,
+      "answerImage": "/media/onepct/9f74bbbda888480656d050b1.png",
+      "textHtml": "These triplets like to wear similar clothing, but with subtle differences, so people can tell them apart. Which triplet is wearing this exact outfit?",
+      "optionImages": [
+        "/media/onepct/106370d61d4a9f6111044362.png",
+        "/media/onepct/60fb35f06f56e916d5b02526.png",
+        "/media/onepct/c26cd534295a9d236c5d94c0.png"
+      ]
+    },
+    {
+      "level": 60,
+      "kind": "text",
+      "text": "What are the two words on this sign that are hidden by trees?",
+      "image": "/media/onepct/17e0750849d1389817704139.png",
+      "answer": 0,
+      "accept": [
+        "public storage"
+      ],
+      "answerText": "public storage",
+      "answerImage": "/media/onepct/629252fbdf8ce9cbf3964a27.png",
+      "textHtml": "What are the two words on this sign that are hidden by trees?",
+      "answerHtml": "public storage",
+      "check": "auto"
+    },
+    {
+      "level": 50,
+      "kind": "choice",
+      "text": "Gail's alarm company requires her to use a ten character password, and no characters can be duplicated. Which of these is an acceptable password?",
+      "options": [
+        "SECURE1234",
+        "DISARM56$\u0026",
+        "*HOUSE^*!",
+        "SAFETY89#"
+      ],
+      "answer": 1,
+      "why": "Choice A repeats the letter E. Choice D is only 9 characters. Choice C is only 9 characters are repeats the asterisk.",
+      "textHtml": "Gail\u0026#39;s alarm company requires her to use a ten character password, and no characters can be duplicated. Which of these is an acceptable password?",
+      "whyHtml": "Choice A repeats the letter E. Choice D is only 9 characters. Choice C is only 9 characters are repeats the asterisk.",
+      "optionsHtml": [
+        "SECURE1234",
+        "DISARM56$\u0026amp;",
+        "*HOUSE^*!",
+        "SAFETY89#"
+      ]
+    },
+    {
+      "level": 45,
+      "kind": "choice",
+      "text": "Ana, Gina, and James are each standing on a different step in this picture. If Ana is two steps higher than Gina and Gina is one step below James, which person in this picture is tallest?",
+      "image": "/media/onepct/c8d8191767a33e759c503686.png",
+      "options": [
+        "Ana",
+        "Gina",
+        "James"
+      ],
+      "answer": 1,
+      "answerImage": "/media/onepct/bdc1c4c7db9a30a5b3a87ca8.png",
+      "why": "Gina is standing on the lowest step so she must be the tallest.",
+      "textHtml": "Ana, Gina, and James are each standing on a different step in this picture. If Ana is two steps higher than Gina and Gina is one step below James, which person in this picture is tallest?",
+      "whyHtml": "Gina is standing on the lowest step so she must be the tallest.",
+      "optionsHtml": [
+        "Ana",
+        "Gina",
+        "James"
+      ]
+    },
+    {
+      "level": 40,
+      "kind": "text",
+      "text": "How many different colors make up the 9 colored squares seen here?",
+      "image": "/media/onepct/31fdbd2032f74a4d279d7f01.png",
+      "answer": 0,
+      "accept": [
+        "6",
+        "six"
+      ],
+      "answerText": "6",
+      "why": "The colors are red, blue, green, yellow, orange, and purple.",
+      "textHtml": "How many different colors make up the 9 colored squares seen here?",
+      "whyHtml": "The colors are red, blue, green, yellow, orange, and purple.",
+      "answerHtml": "6",
+      "check": "auto"
+    },
+    {
+      "level": 35,
+      "kind": "text",
+      "text": "In this picture, the later a letter occurs in the alphabet, the larger in size it should be. Which letter is the wrong size?",
+      "image": "/media/onepct/29b31872a3d18a9d72b99d0b.png",
+      "answer": 0,
+      "accept": [
+        "P"
+      ],
+      "answerText": "P",
+      "answerImage": "/media/onepct/39bd4ded90e10ed59fcb4622.png",
+      "why": "P comes after N, so it should be larger than N and smaller than R.",
+      "textHtml": "In this picture, the later a letter occurs in the alphabet, the larger in size it should be. Which letter is the wrong size?",
+      "whyHtml": "P comes after N, so it should be larger than N and smaller than R.",
+      "answerHtml": "P",
+      "check": "auto"
+    },
+    {
+      "level": 30,
+      "kind": "text",
+      "text": "There are three 3's and three 4's on this wheel. If you spin it twice, what percent chance (DO NOT include the % symbol) do you have of getting a total of 7?",
+      "image": "/media/onepct/4ccd960e418b5059fbf9be09.png",
+      "answer": 0,
+      "accept": [
+        "50",
+        "fifty"
+      ],
+      "answerText": "50",
+      "why": "There are four possible outcomes: two 3's, two 4's, 3 and 4, or 4 and 3. Two of those add up to 7, which means you have a 50% chance of getting 7.",
+      "textHtml": "There are three 3\u0026#39;s and three 4\u0026#39;s on this wheel. If you spin it twice, what percent chance (DO NOT include the % symbol) do you have of getting a total of 7?",
+      "whyHtml": "There are four possible outcomes: two 3\u0026#39;s, two 4\u0026#39;s, 3 and 4, or 4 and 3. Two of those add up to 7, which means you have a 50% chance of getting 7.",
+      "answerHtml": "50",
+      "check": "auto"
+    },
+    {
+      "level": 25,
+      "kind": "choice",
+      "text": "Logically, which set of words should fill in the blanks below?",
+      "image": "/media/onepct/b5b5845ae47b6546ac580bd8.png",
+      "options": [
+        "THIGH/GLOW",
+        "BABY/TOUPEE",
+        "ZOO/LIMB",
+        "SCHOOL/CANDLE"
+      ],
+      "answer": 0,
+      "answerImage": "/media/onepct/747215c3a998231835995936.png",
+      "why": "Each word pair on the list hides a pair of opposites. Even Shannon Stroff's name follows the pattern.",
+      "textHtml": "Logically, which set of words should fill in the blanks below?",
+      "whyHtml": "Each word pair on the list hides a pair of opposites. Even Shannon Stroff\u0026#39;s name follows the pattern.",
+      "optionsHtml": [
+        "THIGH/GLOW",
+        "BABY/TOUPEE",
+        "ZOO/LIMB",
+        "SCHOOL/CANDLE"
+      ]
+    },
+    {
+      "level": 20,
+      "kind": "text",
+      "text": "Three Gleeps equal one Glop. Two Glops equal one Gloop. How many Gleeps will it take to balance this scale?",
+      "image": "/media/onepct/d22303ad9f1c83424d6477e6.png",
+      "answer": 0,
+      "accept": [
+        "9",
+        "nine"
+      ],
+      "answerText": "9",
+      "answerImage": "/media/onepct/51e3ed64e6b8149d9e2f7b1f.png",
+      "why": "If 1 Glop is 3 Gleeps, then 1 Gloop is 6 Gleeps, so you need 9 Gleeps to balance the scale.",
+      "textHtml": "Three Gleeps equal one Glop. Two Glops equal one Gloop. How many Gleeps will it take to balance this scale?",
+      "whyHtml": "If 1 Glop is 3 Gleeps, then 1 Gloop is 6 Gleeps, so you need 9 Gleeps to balance the scale.",
+      "answerHtml": "9",
+      "check": "auto"
+    },
+    {
+      "level": 15,
+      "kind": "text",
+      "text": "What animal do you get if you draw lines between the dots in order?",
+      "image": "/media/onepct/52beca0a6f243ad35ab5994a.png",
+      "answer": 0,
+      "accept": [
+        "elephant"
+      ],
+      "answerText": "elephant",
+      "answerImage": "/media/onepct/f498c85ceb4c6814b5049183.png",
+      "textHtml": "What animal do you get if you draw lines between the dots in order?",
+      "answerHtml": "elephant",
+      "check": "auto"
+    },
+    {
+      "level": 10,
+      "kind": "text",
+      "text": "What word, that describes a sound, do you get from putting together the silent letters from each of the following words?",
+      "image": "/media/onepct/86c7c89c8aca5152d32b018c.png",
+      "answer": 0,
+      "accept": [
+        "clunk"
+      ],
+      "answerText": "clunk",
+      "answerImage": "/media/onepct/fa53498dc4ce2a371a3bce60.png",
+      "why": "Here are the silent letters, and together they spell \"CLUNK\".",
+      "textHtml": "What word, that describes a sound, do you get from putting together the silent letters from each of the following words?",
+      "whyHtml": "Here are the silent letters, and together they spell \u0026quot;CLUNK\u0026quot;.",
+      "answerHtml": "clunk",
+      "check": "auto"
+    },
+    {
+      "level": 5,
+      "kind": "text",
+      "text": "When counting down from 100, what's the first number you'll say, that's not part of another number, whose name has exactly one syllable?",
+      "answer": 0,
+      "accept": [
+        "12",
+        "twelve"
+      ],
+      "answerText": "12",
+      "why": "Every other number from one hundred down to thirteen contains at least two syllables.",
+      "textHtml": "When counting down from 100, what\u0026#39;s the first number you\u0026#39;ll say, that\u0026#39;s not part of another number, whose name has exactly one syllable?",
+      "whyHtml": "Every other number from one hundred down to thirteen contains at least two syllables.",
+      "answerHtml": "12",
+      "check": "auto"
+    },
+    {
+      "level": 1,
+      "kind": "text",
+      "text": "Surprisingly, there is only one word in the English language that can be made when you fill in these blanks so that the finished word contains no repeated letters. What is that word?",
+      "image": "/media/onepct/da9e5f78ee653fa4c70b5658.png",
+      "answer": 0,
+      "accept": [
+        "unpredictably"
+      ],
+      "answerText": "unpredictably",
+      "answerImage": "/media/onepct/729ee144856929efc85ec26d.png",
+      "why": "Unpredictable is wrong because it repeats the letter E.",
+      "textHtml": "Surprisingly, there is only one word in the English language that can be made when you fill in these blanks so that the finished word contains no repeated letters. What is that word?",
+      "whyHtml": "Unpredictable is wrong because it repeats the letter E.",
+      "answerHtml": "unpredictably",
+      "check": "manual"
+    }
+  ]
+}
