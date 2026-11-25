@@ -1,0 +1,24 @@
+{
+  "id": "gkseed352",
+  "kind": "standard",
+  "starter": {
+    "q": "Which image of the child Jesus is honoured at Cebu's Sinulog festival?",
+    "a": "The Santo Niño"
+  },
+  "topic": "Saints and festivals of the Philippines",
+  "bonuses": [
+    {
+      "q": "Which Black Nazarene procession takes place in Manila every January?",
+      "a": "The Traslación (Feast of the Black Nazarene)"
+    },
+    {
+      "q": "Which Lucban, Quezon harvest festival decorates houses with colourful rice wafers called kiping?",
+      "a": "Pahiyas"
+    },
+    {
+      "q": "Which Davao festival in August celebrates the harvest?",
+      "a": "Kadayawan"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.3864193+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed223",
+  "kind": "standard",
+  "starter": {
+    "q": "Which kingdom of life, separate from plants and animals, includes yeasts, moulds and mushrooms?",
+    "a": "Fungi"
+  },
+  "topic": "Fungi",
+  "bonuses": [
+    {
+      "q": "Which mould did Alexander Fleming notice killing bacteria in 1928?",
+      "a": "Penicillium"
+    },
+    {
+      "q": "What name is given to the thread-like network that forms the main body of a fungus?",
+      "a": "Mycelium"
+    },
+    {
+      "q": "Which expensive edible fungus is hunted with pigs or dogs?",
+      "a": "The truffle"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.403199+08:00"
+}

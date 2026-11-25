@@ -1,0 +1,24 @@
+{
+  "id": "gkseed234",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Finnish company was the world's biggest mobile phone maker before smartphones took over?",
+    "a": "Nokia"
+  },
+  "topic": "Smartphones",
+  "bonuses": [
+    {
+      "q": "Which Canadian company made phones with physical keyboards, loved by business users?",
+      "a": "BlackBerry"
+    },
+    {
+      "q": "Which Chinese company launched the Mi phone in 2011?",
+      "a": "Xiaomi"
+    },
+    {
+      "q": "Which operating system powers most of the world's smartphones?",
+      "a": "Android"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.5676942+08:00"
+}

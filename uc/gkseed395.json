@@ -1,0 +1,24 @@
+{
+  "id": "gkseed395",
+  "kind": "standard",
+  "starter": {
+    "q": "In which year was volleyball invented, by William G. Morgan in Massachusetts?",
+    "a": "1895"
+  },
+  "topic": "Volleyball",
+  "bonuses": [
+    {
+      "q": "What name is given to the defensive specialist who wears a different-coloured shirt?",
+      "a": "The libero"
+    },
+    {
+      "q": "How many points are needed to win a standard set of indoor volleyball?",
+      "a": "25"
+    },
+    {
+      "q": "Which Filipina volleyball star is nicknamed 'Phenom'?",
+      "a": "Alyssa Valdez"
+    }
+  ],
+  "updated": "2026-11-21T20:01:02.2077389+08:00"
+}

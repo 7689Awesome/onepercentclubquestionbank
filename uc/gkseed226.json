@@ -1,0 +1,24 @@
+{
+  "id": "gkseed226",
+  "kind": "standard",
+  "starter": {
+    "q": "Which 2015 international agreement aims to limit global warming to well below 2°C?",
+    "a": "The Paris Agreement"
+  },
+  "topic": "Climate change",
+  "bonuses": [
+    {
+      "q": "Which gas, released by cows and landfill, is a more powerful greenhouse gas than carbon dioxide?",
+      "a": "Methane"
+    },
+    {
+      "q": "Which Swedish climate activist began school strikes for climate in 2018?",
+      "a": "Greta Thunberg"
+    },
+    {
+      "q": "What does 'COP' stand for in the name of UN climate conferences?",
+      "a": "Conference of the Parties"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.4438704+08:00"
+}

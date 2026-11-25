@@ -1,0 +1,24 @@
+{
+  "id": "gkseed396",
+  "kind": "standard",
+  "starter": {
+    "q": "Which swimming stroke is the fastest, usually used in freestyle races?",
+    "a": "Front crawl"
+  },
+  "topic": "Swimming",
+  "bonuses": [
+    {
+      "q": "Which stroke is swum on the back?",
+      "a": "Backstroke"
+    },
+    {
+      "q": "Which Australian swimmer was nicknamed 'the Thorpedo'?",
+      "a": "Ian Thorpe"
+    },
+    {
+      "q": "Which American swimmer won a record eight golds at the 2008 Beijing Olympics?",
+      "a": "Michael Phelps"
+    }
+  ],
+  "updated": "2026-11-21T20:01:02.2125154+08:00"
+}

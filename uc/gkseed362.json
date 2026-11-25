@@ -1,0 +1,24 @@
+{
+  "id": "gkseed362",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to a general rise in prices over time?",
+    "a": "Inflation"
+  },
+  "topic": "Economics in daily life",
+  "bonuses": [
+    {
+      "q": "What does the 'VAT' charged on goods and services stand for?",
+      "a": "Value-added tax"
+    },
+    {
+      "q": "What does 'GDP' stand for?",
+      "a": "Gross domestic product"
+    },
+    {
+      "q": "What name is given to money sent home by workers abroad, a big part of the Philippine economy?",
+      "a": "Remittances"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.5565352+08:00"
+}

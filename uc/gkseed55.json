@@ -1,0 +1,24 @@
+{
+  "id": "gkseed55",
+  "kind": "standard",
+  "starter": {
+    "q": "Which planet in our solar system has a day longer than its year, taking about 243 Earth days to rotate once?",
+    "a": "Venus"
+  },
+  "topic": "The inner planets",
+  "bonuses": [
+    {
+      "q": "Which is the smallest planet in the solar system?",
+      "a": "Mercury"
+    },
+    {
+      "q": "Which planet is home to Olympus Mons, the tallest volcano in the solar system?",
+      "a": "Mars"
+    },
+    {
+      "q": "Which is the only planet not named after a god or goddess?",
+      "a": "Earth"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7443105+08:00"
+}

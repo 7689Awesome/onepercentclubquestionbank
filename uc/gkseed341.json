@@ -1,0 +1,24 @@
+{
+  "id": "gkseed341",
+  "kind": "standard",
+  "starter": {
+    "q": "What does 'POV' mean at the start of a TikTok caption?",
+    "a": "Point of view"
+  },
+  "topic": "Social media slang",
+  "bonuses": [
+    {
+      "q": "What does it mean if a post 'went viral'?",
+      "a": "It spread rapidly online"
+    },
+    {
+      "q": "What name is given to a user who posts deliberately provocative comments online?",
+      "a": "A troll"
+    },
+    {
+      "q": "What does 'DM' stand for?",
+      "a": "Direct message"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.2587305+08:00"
+}

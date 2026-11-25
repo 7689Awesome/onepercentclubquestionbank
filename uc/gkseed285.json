@@ -1,0 +1,24 @@
+{
+  "id": "gkseed285",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Bavarian castle inspired Disney's Sleeping Beauty Castle?",
+    "a": "Neuschwanstein"
+  },
+  "topic": "Castles and palaces",
+  "bonuses": [
+    {
+      "q": "Which castle is the oldest royal residence still in use, west of London?",
+      "a": "Windsor Castle"
+    },
+    {
+      "q": "Which palace in Bangkok was the official residence of Thai kings?",
+      "a": "The Grand Palace"
+    },
+    {
+      "q": "Which Spanish-era fortress in Manila's Intramuros held José Rizal before his execution?",
+      "a": "Fort Santiago"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.3484677+08:00"
+}

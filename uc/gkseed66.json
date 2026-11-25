@@ -1,0 +1,24 @@
+{
+  "id": "gkseed66",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to the imaginary line around the middle of the Earth at zero degrees latitude?",
+    "a": "The Equator"
+  },
+  "topic": "Lines on the map",
+  "bonuses": [
+    {
+      "q": "Which line of latitude, at about 23.4 degrees north, is named after a star sign?",
+      "a": "The Tropic of Cancer"
+    },
+    {
+      "q": "What name is given to the line roughly opposite the Prime Meridian where the date changes?",
+      "a": "The International Date Line"
+    },
+    {
+      "q": "Which circle of latitude marks the northern limit of places with a polar night?",
+      "a": "The Arctic Circle"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7677891+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed173",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Indonesian island, the most visited by tourists, is known as the Island of the Gods and is mostly Hindu?",
+    "a": "Bali"
+  },
+  "topic": "Indonesia",
+  "bonuses": [
+    {
+      "q": "Which Indonesian island is the most populous island in the world and home to Jakarta?",
+      "a": "Java"
+    },
+    {
+      "q": "Which giant lizard, the largest in the world, lives on Komodo and nearby islands?",
+      "a": "The Komodo dragon"
+    },
+    {
+      "q": "Which ninth-century Buddhist temple in Central Java is the largest Buddhist temple in the world?",
+      "a": "Borobudur"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.6919831+08:00"
+}

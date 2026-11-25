@@ -1,0 +1,24 @@
+{
+  "id": "gkseed174",
+  "kind": "standard",
+  "starter": {
+    "q": "Which bay in northern Vietnam, a UNESCO World Heritage Site, is famous for thousands of limestone islands rising from emerald water?",
+    "a": "Ha Long Bay"
+  },
+  "topic": "Vietnam",
+  "bonuses": [
+    {
+      "q": "What is the name of Vietnam's largest city, formerly called Saigon?",
+      "a": "Ho Chi Minh City"
+    },
+    {
+      "q": "Which Vietnamese long dress, worn with trousers, is regarded as the national costume?",
+      "a": "Áo dài"
+    },
+    {
+      "q": "Which cave in Vietnam is the largest known cave passage in the world?",
+      "a": "Hang Sơn Đoòng (Son Doong)"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.6945396+08:00"
+}

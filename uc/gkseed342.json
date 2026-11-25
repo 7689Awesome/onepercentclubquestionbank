@@ -1,0 +1,24 @@
+{
+  "id": "gkseed342",
+  "kind": "standard",
+  "starter": {
+    "q": "What does the Filipino slang 'charot' mean after a statement?",
+    "a": "Just kidding"
+  },
+  "topic": "Filipino slang",
+  "bonuses": [
+    {
+      "q": "What does 'petmalu' come from, read backwards?",
+      "a": "Malupit"
+    },
+    {
+      "q": "What does 'lodi' mean, as 'idol' read backwards?",
+      "a": "Idol (someone admired)"
+    },
+    {
+      "q": "What does 'beshie' mean in Filipino slang?",
+      "a": "Best friend"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.2718295+08:00"
+}

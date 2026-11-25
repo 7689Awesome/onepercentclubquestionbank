@@ -1,0 +1,24 @@
+{
+  "id": "gkseed244",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Lin-Manuel Miranda musical, written before 'Hamilton', is set in New York's Washington Heights?",
+    "a": "In the Heights"
+  },
+  "topic": "Theatre",
+  "bonuses": [
+    {
+      "q": "Which musical by Jonathan Larson follows struggling artists in New York's East Village?",
+      "a": "Rent"
+    },
+    {
+      "q": "Which musical follows two witches of Oz before Dorothy arrived?",
+      "a": "Wicked"
+    },
+    {
+      "q": "Which London street is the heart of the West End theatre district?",
+      "a": "Shaftesbury Avenue"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.7361373+08:00"
+}

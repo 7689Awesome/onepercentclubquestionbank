@@ -1,0 +1,24 @@
+{
+  "id": "gkseed118",
+  "kind": "standard",
+  "starter": {
+    "q": "Which word describes animals, such as frogs and newts, that live part of their lives in water and part on land?",
+    "a": "Amphibians"
+  },
+  "topic": "Animal groups",
+  "bonuses": [
+    {
+      "q": "What name is given to animals with backbones?",
+      "a": "Vertebrates"
+    },
+    {
+      "q": "What name is given to mammals, such as kangaroos, that carry their young in a pouch?",
+      "a": "Marsupials"
+    },
+    {
+      "q": "What name is given to egg-laying mammals, such as the platypus?",
+      "a": "Monotremes"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8758813+08:00"
+}

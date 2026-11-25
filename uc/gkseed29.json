@@ -1,0 +1,24 @@
+{
+  "id": "gkseed29",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Scottish economist wrote The Wealth of Nations, published in 1776?",
+    "a": "Adam Smith"
+  },
+  "topic": "Currencies",
+  "bonuses": [
+    {
+      "q": "What is the currency of Japan?",
+      "a": "The yen"
+    },
+    {
+      "q": "Which currency did the euro replace in Germany?",
+      "a": "The Deutsche Mark"
+    },
+    {
+      "q": "The rand is the currency of which country?",
+      "a": "South Africa"
+    }
+  ],
+  "updated": "2026-10-21T10:28:25.4481091+02:00"
+}

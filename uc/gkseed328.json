@@ -1,0 +1,24 @@
+{
+  "id": "gkseed328",
+  "kind": "standard",
+  "starter": {
+    "q": "Which game asks players to swap gems to make rows of three?",
+    "a": "Bejeweled"
+  },
+  "topic": "Puzzle games",
+  "bonuses": [
+    {
+      "q": "Which Valve game gives players a gun that creates linked holes in walls?",
+      "a": "Portal"
+    },
+    {
+      "q": "Which Japanese logic puzzle uses number clues on a grid to reveal a hidden picture?",
+      "a": "Nonogram (Picross)"
+    },
+    {
+      "q": "Which number-sliding game's goal is to reach the tile 2048?",
+      "a": "2048"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.0564454+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed60",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Marvel superhero, first appearing in 1962, was bitten by a radioactive spider?",
+    "a": "Spider-Man"
+  },
+  "topic": "Marvel heroes' real names",
+  "bonuses": [
+    {
+      "q": "What is the real name of the Hulk?",
+      "a": "Bruce Banner"
+    },
+    {
+      "q": "What is the real name of Captain America?",
+      "a": "Steve Rogers"
+    },
+    {
+      "q": "What is the real name of Black Panther in the first film?",
+      "a": "T'Challa"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7556566+08:00"
+}

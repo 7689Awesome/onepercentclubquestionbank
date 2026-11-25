@@ -1,0 +1,24 @@
+{
+  "id": "gkseed231",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to the invisible region around a magnet where its force acts?",
+    "a": "A magnetic field"
+  },
+  "topic": "Magnets",
+  "bonuses": [
+    {
+      "q": "Which metal is the most common magnetic material?",
+      "a": "Iron"
+    },
+    {
+      "q": "In which direction does the north pole of a compass needle point?",
+      "a": "North (to the Earth's magnetic north)"
+    },
+    {
+      "q": "What do we call the colourful lights in polar skies caused by charged particles hitting the atmosphere?",
+      "a": "Auroras"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.5405423+08:00"
+}

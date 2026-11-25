@@ -1,0 +1,24 @@
+{
+  "id": "gkseed306",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to an orbit in which a satellite stays above the same spot on Earth?",
+    "a": "Geostationary orbit"
+  },
+  "topic": "Artificial satellites",
+  "bonuses": [
+    {
+      "q": "Which US-built satellite network lets phones find their location?",
+      "a": "GPS"
+    },
+    {
+      "q": "Which SpaceX satellite network provides internet from low orbit?",
+      "a": "Starlink"
+    },
+    {
+      "q": "Which large habitable satellite has been continuously occupied since 2000?",
+      "a": "The International Space Station"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.7039154+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed168",
+  "kind": "standard",
+  "starter": {
+    "q": "Which DC Comics superhero, created in 1939, operates in Gotham City after witnessing his parents' murder as a boy?",
+    "a": "Batman"
+  },
+  "topic": "DC Comics",
+  "bonuses": [
+    {
+      "q": "What is the name of the planet where Superman was born?",
+      "a": "Krypton"
+    },
+    {
+      "q": "Which Amazon princess, from the island of Themyscira, uses the Lasso of Truth?",
+      "a": "Wonder Woman"
+    },
+    {
+      "q": "Which green, glowing mineral from Superman's home planet weakens him?",
+      "a": "Kryptonite"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.6116657+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed337",
+  "kind": "standard",
+  "starter": {
+    "q": "Which sparkling wine can legally only come from one region of northern France?",
+    "a": "Champagne"
+  },
+  "topic": "Wine and beer",
+  "bonuses": [
+    {
+      "q": "Which grape variety is the most widely planted for red wine in the world?",
+      "a": "Cabernet Sauvignon"
+    },
+    {
+      "q": "Which German festival held in Munich is famous for beer?",
+      "a": "Oktoberfest"
+    },
+    {
+      "q": "What name is given to the study and production of wine?",
+      "a": "Oenology"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.1994237+08:00"
+}

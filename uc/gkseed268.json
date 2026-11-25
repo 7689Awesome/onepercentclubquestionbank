@@ -1,0 +1,24 @@
+{
+  "id": "gkseed268",
+  "kind": "standard",
+  "starter": {
+    "q": "Which 1066 battle saw William of Normandy defeat King Harold?",
+    "a": "The Battle of Hastings"
+  },
+  "topic": "Medieval Europe",
+  "bonuses": [
+    {
+      "q": "Which plague killed around a third of Europe's population in the mid-1300s?",
+      "a": "The Black Death"
+    },
+    {
+      "q": "Which series of religious wars were fought over the Holy Land between 1096 and 1291?",
+      "a": "The Crusades"
+    },
+    {
+      "q": "Which French teenager led troops in the Hundred Years' War and was burned at the stake in 1431?",
+      "a": "Joan of Arc"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.1263227+08:00"
+}

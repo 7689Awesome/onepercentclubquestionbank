@@ -1,0 +1,24 @@
+{
+  "id": "gkseed230",
+  "kind": "standard",
+  "starter": {
+    "q": "What is the term for the number of sound vibrations per second, which determines pitch?",
+    "a": "Frequency"
+  },
+  "topic": "Sound",
+  "bonuses": [
+    {
+      "q": "In which unit is sound loudness usually measured?",
+      "a": "The decibel"
+    },
+    {
+      "q": "What is the name for the sudden boom when an aircraft breaks the speed of sound?",
+      "a": "A sonic boom"
+    },
+    {
+      "q": "Which animals use echolocation to find food in the dark?",
+      "a": "Bats (also dolphins)"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.5381483+08:00"
+}

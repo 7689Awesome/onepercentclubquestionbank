@@ -1,0 +1,24 @@
+{
+  "id": "gkseed229",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to the splitting of white light into colours by a prism?",
+    "a": "Dispersion"
+  },
+  "topic": "Light",
+  "bonuses": [
+    {
+      "q": "Which scientist first split sunlight into a spectrum with a prism?",
+      "a": "Isaac Newton"
+    },
+    {
+      "q": "What name is given to the bending of light as it passes from one material to another?",
+      "a": "Refraction"
+    },
+    {
+      "q": "What type of radiation, beyond violet, causes sunburn?",
+      "a": "Ultraviolet"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.5274157+08:00"
+}

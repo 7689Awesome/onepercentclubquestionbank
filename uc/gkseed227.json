@@ -1,0 +1,24 @@
+{
+  "id": "gkseed227",
+  "kind": "standard",
+  "starter": {
+    "q": "Which renewable energy source uses heat from inside the Earth, used widely in Iceland and the Philippines?",
+    "a": "Geothermal energy"
+  },
+  "topic": "Renewable energy",
+  "bonuses": [
+    {
+      "q": "Which type of renewable power uses dams on rivers?",
+      "a": "Hydroelectric power"
+    },
+    {
+      "q": "What do we call energy from the movement of the sea, caused by the Moon?",
+      "a": "Tidal energy"
+    },
+    {
+      "q": "Which type of cell converts sunlight directly into electricity?",
+      "a": "A photovoltaic (solar) cell"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.4685898+08:00"
+}

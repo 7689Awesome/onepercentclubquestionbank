@@ -1,0 +1,24 @@
+{
+  "id": "gkseed354",
+  "kind": "standard",
+  "starter": {
+    "q": "Which supersonic airliner flew between London, Paris and New York until 2003?",
+    "a": "Concorde"
+  },
+  "topic": "Aircraft",
+  "bonuses": [
+    {
+      "q": "Which Boeing plane is nicknamed the 'Jumbo Jet'?",
+      "a": "The Boeing 747"
+    },
+    {
+      "q": "Which company makes the A320 and A350?",
+      "a": "Airbus"
+    },
+    {
+      "q": "Which American brothers' 1903 aircraft was called the 'Flyer'?",
+      "a": "The Wright brothers"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.3941409+08:00"
+}

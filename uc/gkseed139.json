@@ -1,0 +1,24 @@
+{
+  "id": "gkseed139",
+  "kind": "standard",
+  "starter": {
+    "q": "Which ancient Chinese wall, built over many centuries, stretches thousands of kilometres across northern China?",
+    "a": "The Great Wall of China"
+  },
+  "topic": "China",
+  "bonuses": [
+    {
+      "q": "Which palace complex in Beijing was the home of China's emperors?",
+      "a": "The Forbidden City"
+    },
+    {
+      "q": "What is the name of the army of clay soldiers buried with China's first emperor?",
+      "a": "The Terracotta Army"
+    },
+    {
+      "q": "Which black-and-white bear lives in the mountains of central China?",
+      "a": "The giant panda"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.9206943+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed383",
+  "kind": "standard",
+  "starter": {
+    "q": "Which 2007 film features 300 Spartan warriors?",
+    "a": "300"
+  },
+  "topic": "Numbers in titles",
+  "bonuses": [
+    {
+      "q": "Which George Orwell novel has a year as its title?",
+      "a": "Nineteen Eighty-Four"
+    },
+    {
+      "q": "Which Jules Verne novel features a journey around the world in a set number of days?",
+      "a": "Around the World in Eighty Days"
+    },
+    {
+      "q": "Which Taylor Swift album is named after her birth year?",
+      "a": "1989"
+    }
+  ],
+  "updated": "2026-11-21T20:01:02.0241488+08:00"
+}

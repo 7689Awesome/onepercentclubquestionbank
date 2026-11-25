@@ -1,0 +1,24 @@
+{
+  "id": "gkseed170",
+  "kind": "standard",
+  "starter": {
+    "q": "Which 2019 South Korean film, directed by Bong Joon-ho, became the first non-English-language film to win the Academy Award for Best Picture?",
+    "a": "Parasite"
+  },
+  "topic": "The Oscars",
+  "bonuses": [
+    {
+      "q": "What is the name of the golden statuette awarded at the Academy Awards?",
+      "a": "Oscar"
+    },
+    {
+      "q": "Which 2022 film starring Michelle Yeoh won seven Academy Awards, including Best Picture?",
+      "a": "Everything Everywhere All at Once"
+    },
+    {
+      "q": "Which Christopher Nolan film about the father of the atomic bomb won Best Picture at the 2024 ceremony?",
+      "a": "Oppenheimer"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.6418307+08:00"
+}

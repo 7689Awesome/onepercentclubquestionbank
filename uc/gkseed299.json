@@ -1,0 +1,24 @@
+{
+  "id": "gkseed299",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Russian city was called Leningrad in the Soviet era?",
+    "a": "St Petersburg"
+  },
+  "topic": "Russia",
+  "bonuses": [
+    {
+      "q": "Which is the longest railway line in the world, crossing Russia?",
+      "a": "The Trans-Siberian Railway"
+    },
+    {
+      "q": "Which Russian ruler built St Petersburg?",
+      "a": "Peter the Great"
+    },
+    {
+      "q": "Which cathedral with colourful onion domes is on Red Square?",
+      "a": "St Basil's Cathedral"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.6065665+08:00"
+}

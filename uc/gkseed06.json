@@ -1,0 +1,24 @@
+{
+  "id": "gkseed06",
+  "kind": "standard",
+  "starter": {
+    "q": "Which international organisation, founded in 1945, has its headquarters beside the East River in Manhattan?",
+    "a": "The United Nations"
+  },
+  "topic": "Capital cities and their rivers",
+  "bonuses": [
+    {
+      "q": "The historic towns of Buda and Pest, on opposite banks of which river, were united in 1873 to form Hungary's capital?",
+      "a": "The Danube"
+    },
+    {
+      "q": "Lisbon stands on the estuary of which river, the longest on the Iberian Peninsula?",
+      "a": "The Tagus (Tejo)"
+    },
+    {
+      "q": "Baghdad stands on the banks of which river, the more easterly of the two great rivers of Mesopotamia?",
+      "a": "The Tigris"
+    }
+  ],
+  "updated": "2026-10-21T10:28:25.3894982+02:00"
+}

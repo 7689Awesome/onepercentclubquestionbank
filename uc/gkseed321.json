@@ -1,0 +1,24 @@
+{
+  "id": "gkseed321",
+  "kind": "standard",
+  "starter": {
+    "q": "Which sport combines cross-country skiing and rifle shooting?",
+    "a": "Biathlon"
+  },
+  "topic": "Olympic sports",
+  "bonuses": [
+    {
+      "q": "Which sport combines swimming, cycling and running?",
+      "a": "Triathlon"
+    },
+    {
+      "q": "Which sport, added to the Olympics in 2021, uses a board on a concrete park?",
+      "a": "Skateboarding"
+    },
+    {
+      "q": "Which sport was added in 2024 featuring 'B-boys' and 'B-girls'?",
+      "a": "Breaking"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.9288225+08:00"
+}

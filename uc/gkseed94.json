@@ -1,0 +1,24 @@
+{
+  "id": "gkseed94",
+  "kind": "standard",
+  "starter": {
+    "q": "Which African country, home to the Serengeti and Mount Kilimanjaro, has its capital at Dodoma?",
+    "a": "Tanzania"
+  },
+  "topic": "Africa",
+  "bonuses": [
+    {
+      "q": "Which is the most populous country in Africa?",
+      "a": "Nigeria"
+    },
+    {
+      "q": "Which country, home to Victoria Falls with Zimbabwe, has its capital at Lusaka?",
+      "a": "Zambia"
+    },
+    {
+      "q": "Which island nation off the east coast of Africa is famous for lemurs?",
+      "a": "Madagascar"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8257033+08:00"
+}

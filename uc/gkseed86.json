@@ -1,0 +1,24 @@
+{
+  "id": "gkseed86",
+  "kind": "standard",
+  "starter": {
+    "q": "Which TV sitcom, first shown in 1994, follows six friends living in New York, including Rachel, Monica and Chandler?",
+    "a": "Friends"
+  },
+  "topic": "Sitcoms",
+  "bonuses": [
+    {
+      "q": "In which sitcom does Sheldon Cooper live with Leonard Hofstadter?",
+      "a": "The Big Bang Theory"
+    },
+    {
+      "q": "Which sitcom set in a police station in Brooklyn stars Andy Samberg?",
+      "a": "Brooklyn Nine-Nine"
+    },
+    {
+      "q": "Which sitcom follows Ted Mosby telling his children how he met their mother?",
+      "a": "How I Met Your Mother"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8089632+08:00"
+}

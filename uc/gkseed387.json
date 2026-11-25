@@ -1,0 +1,24 @@
+{
+  "id": "gkseed387",
+  "kind": "standard",
+  "starter": {
+    "q": "Which gesture means 'okay' in many countries by joining thumb and forefinger?",
+    "a": "The OK sign"
+  },
+  "topic": "Hand gestures",
+  "bonuses": [
+    {
+      "q": "Which two-fingered gesture is popular in Asian selfies?",
+      "a": "The V sign (peace sign)"
+    },
+    {
+      "q": "Which Filipino gesture shows respect by pressing an elder's hand to the forehead?",
+      "a": "Mano"
+    },
+    {
+      "q": "Which gesture means 'I love you' in American Sign Language?",
+      "a": "The ILY sign (thumb, index and little finger extended)"
+    }
+  ],
+  "updated": "2026-11-21T20:01:02.1090286+08:00"
+}

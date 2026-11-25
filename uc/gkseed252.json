@@ -1,0 +1,24 @@
+{
+  "id": "gkseed252",
+  "kind": "standard",
+  "starter": {
+    "q": "Which company made the TR-808 drum machine?",
+    "a": "Roland"
+  },
+  "topic": "Music technology",
+  "bonuses": [
+    {
+      "q": "What does 'MIDI' stand for?",
+      "a": "Musical Instrument Digital Interface"
+    },
+    {
+      "q": "What name is given to the software effect that corrects pitch, famously overused by T-Pain?",
+      "a": "Auto-Tune"
+    },
+    {
+      "q": "What name was given to the portable cassette player released by Sony in 1979?",
+      "a": "The Walkman"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.8337159+08:00"
+}

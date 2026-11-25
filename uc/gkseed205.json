@@ -1,0 +1,24 @@
+{
+  "id": "gkseed205",
+  "kind": "standard",
+  "starter": {
+    "q": "Which big cat, the fastest land animal, cannot fully retract its claws and can reach around 100 km/h in short bursts?",
+    "a": "The cheetah"
+  },
+  "topic": "Big cats",
+  "bonuses": [
+    {
+      "q": "Which is the largest of the big cats?",
+      "a": "The tiger"
+    },
+    {
+      "q": "Which subspecies of lion survives in the wild only in and around India's Gir Forest?",
+      "a": "The Asiatic lion"
+    },
+    {
+      "q": "What name is given to a black leopard or jaguar?",
+      "a": "A panther"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.1325805+08:00"
+}

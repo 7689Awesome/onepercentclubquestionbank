@@ -1,0 +1,24 @@
+{
+  "id": "gkseed365",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Singapore hotel is famous for its rooftop infinity pool on three towers?",
+    "a": "Marina Bay Sands"
+  },
+  "topic": "Hotels and travel",
+  "bonuses": [
+    {
+      "q": "Which Dubai hotel is shaped like a sail?",
+      "a": "Burj Al Arab"
+    },
+    {
+      "q": "What name is given to a document allowing entry into a foreign country, stamped in a passport?",
+      "a": "A visa"
+    },
+    {
+      "q": "Which travel company began in 1841 with a railway excursion in England?",
+      "a": "Thomas Cook"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.5696887+08:00"
+}

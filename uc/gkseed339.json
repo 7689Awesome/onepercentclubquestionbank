@@ -1,0 +1,24 @@
+{
+  "id": "gkseed339",
+  "kind": "standard",
+  "starter": {
+    "q": "Which nutrients are the body's main source of energy, found in rice and bread?",
+    "a": "Carbohydrates"
+  },
+  "topic": "Nutrition",
+  "bonuses": [
+    {
+      "q": "Which nutrients build and repair muscles?",
+      "a": "Proteins"
+    },
+    {
+      "q": "What unit is used to measure the energy in food?",
+      "a": "The calorie (kilocalorie)"
+    },
+    {
+      "q": "Which mineral is added to salt to prevent goitre?",
+      "a": "Iodine"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.2367424+08:00"
+}

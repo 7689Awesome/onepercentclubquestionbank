@@ -1,0 +1,333 @@
+{
+  "id": "ocseed003",
+  "name": "Around the World",
+  "connections": [
+    {
+      "clues": [
+        {
+          "text": "Kakapo"
+        },
+        {
+          "text": "Rhea"
+        },
+        {
+          "text": "Emu"
+        },
+        {
+          "text": "Penguin"
+        }
+      ],
+      "answer": "Flightless birds"
+    },
+    {
+      "clues": [
+        {
+          "text": "Manneken Pis"
+        },
+        {
+          "text": "The Little Mermaid"
+        },
+        {
+          "text": "Merlion"
+        },
+        {
+          "text": "Statue of Liberty"
+        }
+      ],
+      "answer": "Famous city statues"
+    },
+    {
+      "clues": [
+        {
+          "text": "Dong"
+        },
+        {
+          "text": "Rupiah"
+        },
+        {
+          "text": "Baht"
+        },
+        {
+          "text": "Ringgit"
+        }
+      ],
+      "answer": "Southeast Asian currencies"
+    },
+    {
+      "clues": [
+        {
+          "text": "Bologna"
+        },
+        {
+          "text": "Frankfurt"
+        },
+        {
+          "text": "Berlin"
+        },
+        {
+          "text": "Hamburg"
+        }
+      ],
+      "answer": "Cities that gave their names to foods"
+    },
+    {
+      "clues": [
+        {
+          "text": "Bangkok"
+        },
+        {
+          "text": "Bruges"
+        },
+        {
+          "text": "Amsterdam"
+        },
+        {
+          "text": "Venice"
+        }
+      ],
+      "answer": "Cities famous for canals"
+    },
+    {
+      "clues": [
+        {
+          "text": "Chao Phraya"
+        },
+        {
+          "text": "Han"
+        },
+        {
+          "text": "Seine"
+        },
+        {
+          "text": "Thames"
+        }
+      ],
+      "answer": "Rivers through capital cities (Bangkok, Seoul, Paris, London)"
+    }
+  ],
+  "sequences": [
+    {
+      "clues": [
+        {
+          "text": "Hydrogen"
+        },
+        {
+          "text": "Helium"
+        },
+        {
+          "text": "Lithium"
+        },
+        {
+          "text": "Beryllium"
+        }
+      ],
+      "answer": "The elements by atomic number"
+    },
+    {
+      "clues": [
+        {
+          "text": "Tokyo"
+        },
+        {
+          "text": "Paris"
+        },
+        {
+          "text": "Los Angeles"
+        },
+        {
+          "text": "Brisbane"
+        }
+      ],
+      "answer": "Summer Olympic hosts: 2020, 2024, 2028, 2032"
+    },
+    {
+      "clues": [
+        {
+          "text": "Rat"
+        },
+        {
+          "text": "Ox"
+        },
+        {
+          "text": "Tiger"
+        },
+        {
+          "text": "Rabbit"
+        }
+      ],
+      "answer": "The Chinese zodiac"
+    },
+    {
+      "clues": [
+        {
+          "text": "Kilo"
+        },
+        {
+          "text": "Mega"
+        },
+        {
+          "text": "Giga"
+        },
+        {
+          "text": "Tera"
+        }
+      ],
+      "answer": "Metric prefixes, each a thousand times bigger"
+    },
+    {
+      "clues": [
+        {
+          "text": "Uno"
+        },
+        {
+          "text": "Dos"
+        },
+        {
+          "text": "Tres"
+        },
+        {
+          "text": "Cuatro"
+        }
+      ],
+      "answer": "Counting in Spanish"
+    },
+    {
+      "clues": [
+        {
+          "text": "Spring"
+        },
+        {
+          "text": "Summer"
+        },
+        {
+          "text": "Autumn"
+        },
+        {
+          "text": "Winter"
+        }
+      ],
+      "answer": "The seasons"
+    }
+  ],
+  "walls": [
+    {
+      "groups": [
+        {
+          "clues": [
+            "Everest",
+            "Fuji",
+            "Kilimanjaro",
+            "Matterhorn"
+          ],
+          "answer": "Mountains"
+        },
+        {
+          "clues": [
+            "Osaka",
+            "Kyoto",
+            "Nagoya",
+            "Sapporo"
+          ],
+          "answer": "Japanese cities"
+        },
+        {
+          "clues": [
+            "Tiger",
+            "Heineken",
+            "Corona",
+            "Asahi"
+          ],
+          "answer": "Beers"
+        },
+        {
+          "clues": [
+            "Tango",
+            "Salsa",
+            "Samba",
+            "Waltz"
+          ],
+          "answer": "Dances"
+        }
+      ]
+    },
+    {
+      "groups": [
+        {
+          "clues": [
+            "Delta",
+            "Sigma",
+            "Omega",
+            "Gamma"
+          ],
+          "answer": "Greek letters"
+        },
+        {
+          "clues": [
+            "Rolex",
+            "Casio",
+            "Swatch",
+            "Seiko"
+          ],
+          "answer": "Watch brands"
+        },
+        {
+          "clues": [
+            "Nile",
+            "Ganges",
+            "Volga",
+            "Yangtze"
+          ],
+          "answer": "Rivers"
+        },
+        {
+          "clues": [
+            "Emirates",
+            "Qantas",
+            "Lufthansa",
+            "Garuda"
+          ],
+          "answer": "Airlines"
+        }
+      ]
+    }
+  ],
+  "vowels": [
+    {
+      "category": "African countries",
+      "answers": [
+        "Madagascar",
+        "Nigeria",
+        "Ethiopia",
+        "South Africa"
+      ]
+    },
+    {
+      "category": "Landmarks",
+      "answers": [
+        "Eiffel Tower",
+        "Taj Mahal",
+        "Great Wall of China",
+        "Colosseum"
+      ]
+    },
+    {
+      "category": "Languages",
+      "answers": [
+        "Mandarin",
+        "Portuguese",
+        "Swahili",
+        "Tagalog"
+      ]
+    },
+    {
+      "category": "Dishes",
+      "answers": [
+        "Pad thai",
+        "Paella",
+        "Chicken rice",
+        "Sushi"
+      ]
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.3069558+08:00"
+}

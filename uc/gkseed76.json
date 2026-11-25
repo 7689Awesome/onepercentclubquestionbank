@@ -1,0 +1,24 @@
+{
+  "id": "gkseed76",
+  "kind": "standard",
+  "starter": {
+    "q": "Which K-pop group, formed by Big Hit Entertainment in 2013, became the first Korean act to address the United Nations General Assembly?",
+    "a": "BTS"
+  },
+  "topic": "K-pop",
+  "bonuses": [
+    {
+      "q": "Which Blackpink member was born in Thailand?",
+      "a": "Lisa"
+    },
+    {
+      "q": "Which 2012 song by PSY was the first YouTube video to reach a billion views?",
+      "a": "Gangnam Style"
+    },
+    {
+      "q": "What Korean word describes the youngest member of a K-pop group?",
+      "a": "Maknae"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7864706+08:00"
+}

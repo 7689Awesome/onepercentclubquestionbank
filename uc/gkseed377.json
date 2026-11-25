@@ -1,0 +1,24 @@
+{
+  "id": "gkseed377",
+  "kind": "standard",
+  "starter": {
+    "q": "Who was the first person to reach the summit of Everest without supplementary oxygen, with Peter Habeler?",
+    "a": "Reinhold Messner"
+  },
+  "topic": "Firsts",
+  "bonuses": [
+    {
+      "q": "Who was the first woman to fly solo across the Atlantic?",
+      "a": "Amelia Earhart"
+    },
+    {
+      "q": "Who was the first person to run a mile in under four minutes?",
+      "a": "Roger Bannister"
+    },
+    {
+      "q": "Which country was the first to send a woman to space?",
+      "a": "The Soviet Union"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.843138+08:00"
+}

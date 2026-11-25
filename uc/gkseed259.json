@@ -1,0 +1,24 @@
+{
+  "id": "gkseed259",
+  "kind": "standard",
+  "starter": {
+    "q": "Which fantasy series by C. S. Lewis begins with children entering a wardrobe?",
+    "a": "The Chronicles of Narnia"
+  },
+  "topic": "Fantasy novels",
+  "bonuses": [
+    {
+      "q": "Which series by Philip Pullman follows Lyra Belacqua and her dæmon?",
+      "a": "His Dark Materials"
+    },
+    {
+      "q": "Which series by Brandon Sanderson is set in a world called Scadrial?",
+      "a": "Mistborn"
+    },
+    {
+      "q": "Which Japanese light novel series follows Kirito trapped in a virtual reality game?",
+      "a": "Sword Art Online"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.9558353+08:00"
+}

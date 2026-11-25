@@ -1,0 +1,24 @@
+{
+  "id": "gkseed279",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Indian leader was assassinated in 1948 by Nathuram Godse?",
+    "a": "Mahatma Gandhi"
+  },
+  "topic": "Assassinations",
+  "bonuses": [
+    {
+      "q": "Which Austrian archduke's assassination in 1914 sparked World War One?",
+      "a": "Franz Ferdinand"
+    },
+    {
+      "q": "Which US president was shot at Ford's Theatre in 1865?",
+      "a": "Abraham Lincoln"
+    },
+    {
+      "q": "Which Swedish prime minister was shot dead in Stockholm in 1986?",
+      "a": "Olof Palme"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.26516+08:00"
+}

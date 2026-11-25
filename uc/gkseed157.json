@@ -1,0 +1,24 @@
+{
+  "id": "gkseed157",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Apollo mission, launched in 1970, suffered an oxygen tank explosion on the way to the Moon, but returned its three astronauts safely to Earth?",
+    "a": "Apollo 13"
+  },
+  "topic": "The Apollo programme",
+  "bonuses": [
+    {
+      "q": "Which astronaut, the second man to walk on the Moon, followed Neil Armstrong down the ladder of the lunar module Eagle?",
+      "a": "Buzz Aldrin"
+    },
+    {
+      "q": "Which astronaut stayed in orbit in the command module Columbia during the Apollo 11 landing?",
+      "a": "Michael Collins"
+    },
+    {
+      "q": "Which Apollo mission, in 1972, was the last to land astronauts on the Moon?",
+      "a": "Apollo 17"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.479418+08:00"
+}

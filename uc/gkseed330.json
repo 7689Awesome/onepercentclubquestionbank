@@ -1,0 +1,24 @@
+{
+  "id": "gkseed330",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Japanese dish consists of vinegared rice with fish or vegetables, rolled in seaweed?",
+    "a": "Maki (sushi rolls)"
+  },
+  "topic": "Japanese food",
+  "bonuses": [
+    {
+      "q": "What name is given to the thin sheets of dried seaweed used for sushi?",
+      "a": "Nori"
+    },
+    {
+      "q": "Which Japanese soup is made from fermented soybean paste?",
+      "a": "Miso soup"
+    },
+    {
+      "q": "Which Japanese sweet is a pancake sandwich filled with red bean paste, loved by Doraemon?",
+      "a": "Dorayaki"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.1000054+08:00"
+}

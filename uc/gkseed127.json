@@ -1,0 +1,24 @@
+{
+  "id": "gkseed127",
+  "kind": "standard",
+  "starter": {
+    "q": "Which country, famous for its fjords, has its capital at Oslo?",
+    "a": "Norway"
+  },
+  "topic": "Scandinavia",
+  "bonuses": [
+    {
+      "q": "Which Scandinavian country is the home of Lego?",
+      "a": "Denmark"
+    },
+    {
+      "q": "Which country is home to IKEA, founded in 1943?",
+      "a": "Sweden"
+    },
+    {
+      "q": "Which Nordic country, not strictly Scandinavian, is known as the land of a thousand lakes?",
+      "a": "Finland"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8931721+08:00"
+}

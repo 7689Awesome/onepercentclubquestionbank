@@ -1,0 +1,24 @@
+{
+  "id": "gkseed147",
+  "kind": "standard",
+  "starter": {
+    "q": "Which famous diary, written while its author hid from the Nazis in Amsterdam, was published in 1947?",
+    "a": "The Diary of Anne Frank"
+  },
+  "topic": "World War Two",
+  "bonuses": [
+    {
+      "q": "In which year did World War Two end?",
+      "a": "1945"
+    },
+    {
+      "q": "What name is given to the Allied landings in Normandy in June 1944?",
+      "a": "D-Day"
+    },
+    {
+      "q": "Which British prime minister led the country through most of the war?",
+      "a": "Winston Churchill"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.9359438+08:00"
+}

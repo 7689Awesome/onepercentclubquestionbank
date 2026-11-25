@@ -1,0 +1,24 @@
+{
+  "id": "gkseed62",
+  "kind": "standard",
+  "starter": {
+    "q": "Which English football club, known as the Foxes, won the Premier League in 2016 at odds of 5,000 to 1?",
+    "a": "Leicester City"
+  },
+  "topic": "Football clubs' nicknames",
+  "bonuses": [
+    {
+      "q": "Which Italian club is known as the Old Lady, or La Vecchia Signora?",
+      "a": "Juventus"
+    },
+    {
+      "q": "Which London club is nicknamed the Blues and plays at Stamford Bridge?",
+      "a": "Chelsea"
+    },
+    {
+      "q": "Which German club, based in Munich, is nicknamed Die Roten?",
+      "a": "Bayern Munich"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7581929+08:00"
+}

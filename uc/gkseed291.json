@@ -1,0 +1,24 @@
+{
+  "id": "gkseed291",
+  "kind": "standard",
+  "starter": {
+    "q": "Which village in the Demilitarized Zone has hosted talks between North and South Korea?",
+    "a": "Panmunjom"
+  },
+  "topic": "South Korea",
+  "bonuses": [
+    {
+      "q": "Which South Korean city is the country's main port and second-largest city?",
+      "a": "Busan"
+    },
+    {
+      "q": "Which South Korean island is a volcanic holiday destination?",
+      "a": "Jeju"
+    },
+    {
+      "q": "Which traditional Korean dress is worn on special occasions?",
+      "a": "Hanbok"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.4487476+08:00"
+}
