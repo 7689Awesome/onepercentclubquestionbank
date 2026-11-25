@@ -1,0 +1,24 @@
+{
+  "id": "gkseed345",
+  "kind": "standard",
+  "starter": {
+    "q": "What figure of speech compares two things using 'like' or 'as'?",
+    "a": "A simile"
+  },
+  "topic": "Figures of speech",
+  "bonuses": [
+    {
+      "q": "What figure of speech is deliberate exaggeration, like 'I've told you a million times'?",
+      "a": "Hyperbole"
+    },
+    {
+      "q": "What figure of speech gives human qualities to things, as in 'the wind whispered'?",
+      "a": "Personification"
+    },
+    {
+      "q": "What figure of speech repeats the same initial consonant, like 'Peter Piper picked'?",
+      "a": "Alliteration"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.3021258+08:00"
+}

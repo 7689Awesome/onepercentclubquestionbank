@@ -1,0 +1,24 @@
+{
+  "id": "gkseed246",
+  "kind": "standard",
+  "starter": {
+    "q": "Which American city is regarded as the birthplace of jazz?",
+    "a": "New Orleans"
+  },
+  "topic": "Jazz",
+  "bonuses": [
+    {
+      "q": "Which jazz trumpeter sang 'What a Wonderful World'?",
+      "a": "Louis Armstrong"
+    },
+    {
+      "q": "Which jazz singer was nicknamed 'Lady Day'?",
+      "a": "Billie Holiday"
+    },
+    {
+      "q": "Which saxophonist was nicknamed 'Bird'?",
+      "a": "Charlie Parker"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.7647461+08:00"
+}

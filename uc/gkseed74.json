@@ -1,0 +1,24 @@
+{
+  "id": "gkseed74",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to the scientific study of fungi?",
+    "a": "Mycology"
+  },
+  "topic": "Branches of biology",
+  "bonuses": [
+    {
+      "q": "What is the scientific study of plants called?",
+      "a": "Botany"
+    },
+    {
+      "q": "What is the scientific study of birds called?",
+      "a": "Ornithology"
+    },
+    {
+      "q": "What is the scientific study of insects called?",
+      "a": "Entomology"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7818691+08:00"
+}

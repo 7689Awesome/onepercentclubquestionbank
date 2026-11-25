@@ -1,0 +1,24 @@
+{
+  "id": "gkseed116",
+  "kind": "standard",
+  "starter": {
+    "q": "Which board game, first sold in 1935, has players buying properties and building houses and hotels?",
+    "a": "Monopoly"
+  },
+  "topic": "Board games",
+  "bonuses": [
+    {
+      "q": "In which board game do players try to find out who killed Dr Black?",
+      "a": "Cluedo (Clue)"
+    },
+    {
+      "q": "Which game involves trading resources like brick and wool on an island?",
+      "a": "Catan"
+    },
+    {
+      "q": "Which game, played on a 15 by 15 grid, uses letter tiles to make words?",
+      "a": "Scrabble"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8704276+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed338",
+  "kind": "standard",
+  "starter": {
+    "q": "Which country is the world's largest producer of tea?",
+    "a": "China"
+  },
+  "topic": "Tea",
+  "bonuses": [
+    {
+      "q": "What name is given to the Japanese tea ceremony?",
+      "a": "Chanoyu (sadō)"
+    },
+    {
+      "q": "Which British tea blend is flavoured with bergamot?",
+      "a": "Earl Grey"
+    },
+    {
+      "q": "Which Chinese tea, partly oxidised, sits between green and black tea?",
+      "a": "Oolong"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.2170498+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed312",
+  "kind": "standard",
+  "starter": {
+    "q": "What is the chemical name for baking soda?",
+    "a": "Sodium bicarbonate"
+  },
+  "topic": "Chemistry in the kitchen",
+  "bonuses": [
+    {
+      "q": "Which acid gives vinegar its sour taste?",
+      "a": "Acetic acid"
+    },
+    {
+      "q": "Which browning reaction between sugars and proteins gives seared meat its flavour?",
+      "a": "The Maillard reaction"
+    },
+    {
+      "q": "Which gas makes bread dough rise?",
+      "a": "Carbon dioxide"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.7716551+08:00"
+}

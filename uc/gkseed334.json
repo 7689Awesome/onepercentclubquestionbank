@@ -1,0 +1,24 @@
+{
+  "id": "gkseed334",
+  "kind": "standard",
+  "starter": {
+    "q": "Which French bread is long and thin with a crispy crust?",
+    "a": "The baguette"
+  },
+  "topic": "Bread",
+  "bonuses": [
+    {
+      "q": "Which Italian flatbread is often topped with olive oil and rosemary?",
+      "a": "Focaccia"
+    },
+    {
+      "q": "Which Jewish bread is braided and eaten on the Sabbath?",
+      "a": "Challah"
+    },
+    {
+      "q": "Which dense ring-shaped bread is boiled before baking?",
+      "a": "The bagel"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.1647966+08:00"
+}

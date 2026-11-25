@@ -1,0 +1,24 @@
+{
+  "id": "gkseed364",
+  "kind": "standard",
+  "starter": {
+    "q": "Which company's logo is a yellow 'M' called the Golden Arches?",
+    "a": "McDonald's"
+  },
+  "topic": "Logos and mascots",
+  "bonuses": [
+    {
+      "q": "Which tyre company's mascot is made of white tyres?",
+      "a": "Michelin"
+    },
+    {
+      "q": "Which breakfast cereal's mascot is Tony the Tiger?",
+      "a": "Frosties (Frosted Flakes)"
+    },
+    {
+      "q": "Which car company's logo has a blue-and-white roundel from Bavaria?",
+      "a": "BMW"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.5654017+08:00"
+}

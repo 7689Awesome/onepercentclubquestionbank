@@ -1,0 +1,24 @@
+{
+  "id": "gkseed151",
+  "kind": "standard",
+  "starter": {
+    "q": "In chess, which special move, introduced in the fifteenth century, lets a pawn that has just advanced two squares be captured as if it had moved only one?",
+    "a": "En passant"
+  },
+  "topic": "Chess",
+  "bonuses": [
+    {
+      "q": "Which piece is the only one in chess that can jump over other pieces?",
+      "a": "The knight"
+    },
+    {
+      "q": "Which Norwegian grandmaster held the world championship from 2013 until he declined to defend it in 2023?",
+      "a": "Magnus Carlsen"
+    },
+    {
+      "q": "In algebraic notation, what do the symbols 'O-O-O' record?",
+      "a": "Castling queenside (long castling)"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.4165157+08:00"
+}

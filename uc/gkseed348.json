@@ -1,0 +1,24 @@
+{
+  "id": "gkseed348",
+  "kind": "standard",
+  "starter": {
+    "q": "Which number is considered unlucky in China, Japan and Korea because it sounds like 'death'?",
+    "a": "Four"
+  },
+  "topic": "Superstitions",
+  "bonuses": [
+    {
+      "q": "What is the fear of the number 13 called?",
+      "a": "Triskaidekaphobia"
+    },
+    {
+      "q": "Which animal crossing your path is considered unlucky in many Western traditions?",
+      "a": "A black cat"
+    },
+    {
+      "q": "In the Philippines, which phrase do people say when passing anthills or trees, to ask spirits' permission?",
+      "a": "Tabi tabi po"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.3481859+08:00"
+}

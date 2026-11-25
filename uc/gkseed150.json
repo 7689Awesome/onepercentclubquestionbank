@@ -1,0 +1,24 @@
+{
+  "id": "gkseed150",
+  "kind": "standard",
+  "starter": {
+    "q": "Which card game, sold by Mattel, has players shout its name when they have one card left?",
+    "a": "Uno"
+  },
+  "topic": "Card games",
+  "bonuses": [
+    {
+      "q": "Which casino card game is also called twenty-one?",
+      "a": "Blackjack"
+    },
+    {
+      "q": "Which poker hand is the best possible, from ten to ace of one suit?",
+      "a": "A royal flush"
+    },
+    {
+      "q": "Which one-player card game, included with early versions of Windows, is also called patience?",
+      "a": "Solitaire"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.9472444+08:00"
+}

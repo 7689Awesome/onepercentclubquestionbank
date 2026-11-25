@@ -1,0 +1,24 @@
+{
+  "id": "gkseed375",
+  "kind": "standard",
+  "starter": {
+    "q": "Which American singer is called 'the Boss'?",
+    "a": "Bruce Springsteen"
+  },
+  "topic": "Nicknames of people",
+  "bonuses": [
+    {
+      "q": "Which British prime minister was called 'the Iron Lady'?",
+      "a": "Margaret Thatcher"
+    },
+    {
+      "q": "Which Filipino boxer is nicknamed 'Pacman'?",
+      "a": "Manny Pacquiao"
+    },
+    {
+      "q": "Which American singer was known as 'the Queen of Soul'?",
+      "a": "Aretha Franklin"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.8051552+08:00"
+}

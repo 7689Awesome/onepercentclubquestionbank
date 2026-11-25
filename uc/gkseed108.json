@@ -1,0 +1,24 @@
+{
+  "id": "gkseed108",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Japanese anime, about a boy who eats a Devil Fruit and gains a body made of rubber, is based on Eiichiro Oda's manga?",
+    "a": "One Piece"
+  },
+  "topic": "Anime",
+  "bonuses": [
+    {
+      "q": "Which anime follows Tanjiro Kamado, whose sister has been turned into a demon?",
+      "a": "Demon Slayer"
+    },
+    {
+      "q": "Which anime follows the ninja Naruto Uzumaki?",
+      "a": "Naruto"
+    },
+    {
+      "q": "Which anime features humanity living behind huge walls to escape giant humanoids?",
+      "a": "Attack on Titan"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8567776+08:00"
+}

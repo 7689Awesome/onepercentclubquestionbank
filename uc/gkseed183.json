@@ -1,0 +1,24 @@
+{
+  "id": "gkseed183",
+  "kind": "standard",
+  "starter": {
+    "q": "Which German car manufacturer, whose name means 'people's car', produced the Beetle?",
+    "a": "Volkswagen"
+  },
+  "topic": "Carmakers",
+  "bonuses": [
+    {
+      "q": "Which Italian sports-car maker uses a prancing horse as its emblem?",
+      "a": "Ferrari"
+    },
+    {
+      "q": "Which Japanese carmaker, the world's largest by sales for several years, makes the Prius hybrid?",
+      "a": "Toyota"
+    },
+    {
+      "q": "Which Swedish carmaker, now owned by China's Geely, is known for its focus on safety?",
+      "a": "Volvo"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.7903461+08:00"
+}

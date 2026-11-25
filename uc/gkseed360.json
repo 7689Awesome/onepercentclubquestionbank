@@ -1,0 +1,24 @@
+{
+  "id": "gkseed360",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to a person who studies insects?",
+    "a": "An entomologist"
+  },
+  "topic": "Jobs and titles",
+  "bonuses": [
+    {
+      "q": "What name is given to a doctor who treats teeth?",
+      "a": "A dentist"
+    },
+    {
+      "q": "What name is given to a professional who prepares food in a restaurant kitchen, leading the team?",
+      "a": "A head chef (chef de cuisine)"
+    },
+    {
+      "q": "What name is given to a person who sells flowers?",
+      "a": "A florist"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.5444595+08:00"
+}

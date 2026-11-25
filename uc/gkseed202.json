@@ -1,0 +1,24 @@
+{
+  "id": "gkseed202",
+  "kind": "standard",
+  "starter": {
+    "q": "Which insect, kept in hives for over 9,000 years, communicates the direction of food to its colony using a 'waggle dance'?",
+    "a": "The honeybee"
+  },
+  "topic": "Bees",
+  "bonuses": [
+    {
+      "q": "What name is given to the only fertile female in a honeybee colony?",
+      "a": "The queen"
+    },
+    {
+      "q": "What name is given to male honeybees, whose main role is to mate with a queen?",
+      "a": "Drones"
+    },
+    {
+      "q": "What waxy hexagonal structure do bees build to store honey and raise young?",
+      "a": "Honeycomb"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.0785853+08:00"
+}

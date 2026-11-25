@@ -1,0 +1,24 @@
+{
+  "id": "gkseed51",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Japanese company, founded in 1889 as a maker of hanafuda playing cards, went on to release the Game Boy and the Switch?",
+    "a": "Nintendo"
+  },
+  "topic": "Video game consoles",
+  "bonuses": [
+    {
+      "q": "Released in 1994, which console was Sony's first home games machine?",
+      "a": "The PlayStation (PS1)"
+    },
+    {
+      "q": "Which Sega console, released in Europe in 1990, was known in North America as the Genesis?",
+      "a": "The Mega Drive"
+    },
+    {
+      "q": "Launched in 2006 with Wii Sports, which Nintendo console used motion-sensing remote controllers?",
+      "a": "The Wii"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7370063+08:00"
+}

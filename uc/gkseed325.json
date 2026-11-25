@@ -1,0 +1,24 @@
+{
+  "id": "gkseed325",
+  "kind": "standard",
+  "starter": {
+    "q": "Which company makes the Steam Deck handheld?",
+    "a": "Valve"
+  },
+  "topic": "Gaming hardware",
+  "bonuses": [
+    {
+      "q": "Which Nintendo console of 2017 can be used both docked and handheld?",
+      "a": "Nintendo Switch"
+    },
+    {
+      "q": "Which virtual reality headset brand was bought by Facebook in 2014?",
+      "a": "Oculus"
+    },
+    {
+      "q": "Which Apple headset launched in 2024?",
+      "a": "Apple Vision Pro"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.0171653+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed149",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Apple smartphone, first released in 2007, was unveiled by Steve Jobs?",
+    "a": "The iPhone"
+  },
+  "topic": "Apple products",
+  "bonuses": [
+    {
+      "q": "Which Apple music player was launched in 2001 with the slogan '1,000 songs in your pocket'?",
+      "a": "The iPod"
+    },
+    {
+      "q": "Which Apple tablet was launched in 2010?",
+      "a": "The iPad"
+    },
+    {
+      "q": "Which wireless earbuds did Apple launch in 2016?",
+      "a": "AirPods"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.9457265+08:00"
+}

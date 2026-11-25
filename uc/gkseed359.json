@@ -1,0 +1,24 @@
+{
+  "id": "gkseed359",
+  "kind": "standard",
+  "starter": {
+    "q": "Which American architect designed Fallingwater?",
+    "a": "Frank Lloyd Wright"
+  },
+  "topic": "Architects",
+  "bonuses": [
+    {
+      "q": "Which Iraqi-British architect was the first woman to win the Pritzker Prize?",
+      "a": "Zaha Hadid"
+    },
+    {
+      "q": "Which Spanish architect's works fill Barcelona, including Park Güell?",
+      "a": "Antoni Gaudí"
+    },
+    {
+      "q": "Which Swiss-French architect designed the Villa Savoye?",
+      "a": "Le Corbusier"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.5356528+08:00"
+}

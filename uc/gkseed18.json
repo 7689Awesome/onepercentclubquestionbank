@@ -1,0 +1,24 @@
+{
+  "id": "gkseed18",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Roman emperor, the last of the Julio-Claudian dynasty, was accused of fiddling while Rome burned in AD 64?",
+    "a": "Nero"
+  },
+  "topic": "Ancient Rome",
+  "bonuses": [
+    {
+      "q": "Which river did Julius Caesar cross with his army in 49 BC, starting a civil war?",
+      "a": "The Rubicon"
+    },
+    {
+      "q": "Which volcano erupted in AD 79, burying Pompeii and Herculaneum?",
+      "a": "Vesuvius"
+    },
+    {
+      "q": "Which emperor ordered a wall built across northern Britain, begun in AD 122?",
+      "a": "Hadrian"
+    }
+  ],
+  "updated": "2026-10-21T10:28:25.4201697+02:00"
+}

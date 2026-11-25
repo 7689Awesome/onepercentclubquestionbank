@@ -1,0 +1,24 @@
+{
+  "id": "gkseed186",
+  "kind": "standard",
+  "starter": {
+    "q": "Which pigment, made from ground lapis lazuli and prized by Renaissance painters, was once more expensive than gold?",
+    "a": "Ultramarine"
+  },
+  "topic": "Colours",
+  "bonuses": [
+    {
+      "q": "Which three colours are the primary colours of light in the RGB system?",
+      "a": "Red, green and blue"
+    },
+    {
+      "q": "What name is given to the colour wheel's pairs, such as red and green, which sit opposite each other?",
+      "a": "Complementary colours"
+    },
+    {
+      "q": "Which purple dye from sea snails was so expensive that in Rome it was reserved for emperors?",
+      "a": "Tyrian purple"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.8193301+08:00"
+}

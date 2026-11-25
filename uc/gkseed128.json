@@ -1,0 +1,24 @@
+{
+  "id": "gkseed128",
+  "kind": "standard",
+  "starter": {
+    "q": "Which drink, made from the leaves of Camellia sinensis, is the most consumed drink in the world after water?",
+    "a": "Tea"
+  },
+  "topic": "Drinks around the world",
+  "bonuses": [
+    {
+      "q": "Which Japanese powdered green tea is used in tea ceremonies?",
+      "a": "Matcha"
+    },
+    {
+      "q": "Which Mexican spirit is made from the blue agave plant?",
+      "a": "Tequila"
+    },
+    {
+      "q": "Which fermented rice drink is the national drink of Japan?",
+      "a": "Sake"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8977286+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed158",
+  "kind": "standard",
+  "starter": {
+    "q": "Which English physician, in 1796, used material from cowpox blisters to protect a boy against smallpox, laying the foundations of vaccination?",
+    "a": "Edward Jenner"
+  },
+  "topic": "Pioneers of medicine",
+  "bonuses": [
+    {
+      "q": "Which Scottish scientist discovered penicillin in 1928 after noticing mould killing bacteria on a culture plate?",
+      "a": "Alexander Fleming"
+    },
+    {
+      "q": "Known as 'the Lady with the Lamp', which nurse reformed military hospitals during the Crimean War?",
+      "a": "Florence Nightingale"
+    },
+    {
+      "q": "Which French microbiologist gave his name to the process of heating milk to kill harmful microbes?",
+      "a": "Louis Pasteur"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.5061348+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed131",
+  "kind": "standard",
+  "starter": {
+    "q": "Which superhero team includes Iron Man, Thor, Hulk and Captain America?",
+    "a": "The Avengers"
+  },
+  "topic": "The Avengers films",
+  "bonuses": [
+    {
+      "q": "Which purple villain snaps his fingers to wipe out half of all life?",
+      "a": "Thanos"
+    },
+    {
+      "q": "Which Avenger wields the hammer Mjölnir and is the Norse god of thunder?",
+      "a": "Thor"
+    },
+    {
+      "q": "In which 2019 film do the Avengers travel back in time to undo the snap?",
+      "a": "Avengers: Endgame"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.9024647+08:00"
+}

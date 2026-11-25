@@ -1,0 +1,24 @@
+{
+  "id": "gkseed99",
+  "kind": "standard",
+  "starter": {
+    "q": "Which tennis player, born in Spain in 2003, won Wimbledon in 2023 and 2024?",
+    "a": "Carlos Alcaraz"
+  },
+  "topic": "Tennis",
+  "bonuses": [
+    {
+      "q": "Which Grand Slam tournament is played on clay courts in Paris?",
+      "a": "The French Open (Roland Garros)"
+    },
+    {
+      "q": "Which Swiss player won eight Wimbledon singles titles?",
+      "a": "Roger Federer"
+    },
+    {
+      "q": "Which Japanese player won the US Open in 2018 and 2020?",
+      "a": "Naomi Osaka"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8351125+08:00"
+}

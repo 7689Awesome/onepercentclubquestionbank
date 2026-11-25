@@ -1,0 +1,24 @@
+{
+  "id": "gkseed176",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Japanese period, from 1603 to 1868, saw the country ruled by shoguns from the city then called Edo?",
+    "a": "The Edo period (Tokugawa shogunate)"
+  },
+  "topic": "Japanese history",
+  "bonuses": [
+    {
+      "q": "What name was given to the code of conduct of Japan's samurai warriors?",
+      "a": "Bushidō"
+    },
+    {
+      "q": "Which American commodore sailed his 'black ships' into Tokyo Bay in 1853 to force Japan to open to trade?",
+      "a": "Matthew Perry"
+    },
+    {
+      "q": "Under which emperor did Japan begin rapid modernisation after the restoration of 1868?",
+      "a": "Emperor Meiji"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.7138393+08:00"
+}

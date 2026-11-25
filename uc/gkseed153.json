@@ -1,0 +1,24 @@
+{
+  "id": "gkseed153",
+  "kind": "standard",
+  "starter": {
+    "q": "Which constellation, named after a hunter of Greek myth, contains the bright stars Betelgeuse and Rigel and a famous 'belt' of three stars?",
+    "a": "Orion"
+  },
+  "topic": "Constellations",
+  "bonuses": [
+    {
+      "q": "The brightest star in the night sky, Sirius, lies in which constellation, whose name means 'the greater dog'?",
+      "a": "Canis Major"
+    },
+    {
+      "q": "Seven stars of which constellation make up the asterism known as the Plough or the Big Dipper?",
+      "a": "Ursa Major (the Great Bear)"
+    },
+    {
+      "q": "Polaris, the North Star, lies at the end of the handle of which constellation, the Little Bear?",
+      "a": "Ursa Minor"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.4284645+08:00"
+}

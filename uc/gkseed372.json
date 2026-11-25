@@ -1,0 +1,24 @@
+{
+  "id": "gkseed372",
+  "kind": "standard",
+  "starter": {
+    "q": "Which member of the Spice Girls was 'Scary Spice'?",
+    "a": "Mel B"
+  },
+  "topic": "The Spice Girls and girl power",
+  "bonuses": [
+    {
+      "q": "Which Spice Girl was 'Ginger Spice'?",
+      "a": "Geri Halliwell"
+    },
+    {
+      "q": "Which 1996 Spice Girls hit asks 'tell you what I want, what I really really want'?",
+      "a": "Wannabe"
+    },
+    {
+      "q": "Which singer completed Destiny's Child's best-known line-up alongside Beyoncé and Kelly Rowland?",
+      "a": "Michelle Williams"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.7044109+08:00"
+}

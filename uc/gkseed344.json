@@ -1,0 +1,24 @@
+{
+  "id": "gkseed344",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to the punctuation mark '\u0026'?",
+    "a": "The ampersand"
+  },
+  "topic": "Punctuation",
+  "bonuses": [
+    {
+      "q": "What name is given to the symbol '#'?",
+      "a": "Hash (pound sign, octothorpe)"
+    },
+    {
+      "q": "What name is given to the punctuation mark that looks like a comma above a full stop?",
+      "a": "A semicolon"
+    },
+    {
+      "q": "What name is given to the '…' mark showing words have been left out?",
+      "a": "An ellipsis"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.2943511+08:00"
+}

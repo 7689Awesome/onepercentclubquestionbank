@@ -1,0 +1,24 @@
+{
+  "id": "gkseed308",
+  "kind": "standard",
+  "starter": {
+    "q": "What type of star is the Sun?",
+    "a": "A yellow dwarf (G-type main-sequence star)"
+  },
+  "topic": "Stars",
+  "bonuses": [
+    {
+      "q": "Which red supergiant marks Orion's shoulder?",
+      "a": "Betelgeuse"
+    },
+    {
+      "q": "What name is given to the incredibly dense remnant of a collapsed star made of neutrons?",
+      "a": "A neutron star"
+    },
+    {
+      "q": "What name is given to the star that currently marks the north celestial pole?",
+      "a": "Polaris (the North Star)"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.724408+08:00"
+}

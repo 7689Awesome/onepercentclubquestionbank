@@ -1,0 +1,24 @@
+{
+  "id": "gkseed187",
+  "kind": "standard",
+  "starter": {
+    "q": "Which instrument, invented in Italy around 1700 by Bartolomeo Cristofori, takes its name from the Italian for 'soft' and 'loud'?",
+    "a": "The piano (pianoforte)"
+  },
+  "topic": "Musical instruments",
+  "bonuses": [
+    {
+      "q": "Which Australian Aboriginal wind instrument is made from a eucalyptus branch hollowed out by termites?",
+      "a": "The didgeridoo"
+    },
+    {
+      "q": "Which Indian stringed instrument was popularised in the West by Ravi Shankar?",
+      "a": "The sitar"
+    },
+    {
+      "q": "Which instrument was invented by the Belgian Adolphe Sax in the 1840s?",
+      "a": "The saxophone"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.8315614+08:00"
+}

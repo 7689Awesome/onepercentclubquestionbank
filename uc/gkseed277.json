@@ -1,0 +1,24 @@
+{
+  "id": "gkseed277",
+  "kind": "standard",
+  "starter": {
+    "q": "Who was the first president of the Commonwealth of the Philippines in 1935?",
+    "a": "Manuel L. Quezon"
+  },
+  "topic": "Philippine presidents",
+  "bonuses": [
+    {
+      "q": "Which president, killed in a 1957 plane crash, was popular as a 'man of the masses'?",
+      "a": "Ramon Magsaysay"
+    },
+    {
+      "q": "Which president served as the country's first female president from 1986?",
+      "a": "Corazon Aquino"
+    },
+    {
+      "q": "Which former actor served as president from 1998 to 2001?",
+      "a": "Joseph Estrada"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.2419308+08:00"
+}

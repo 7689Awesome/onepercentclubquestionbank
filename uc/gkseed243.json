@@ -1,0 +1,24 @@
+{
+  "id": "gkseed243",
+  "kind": "standard",
+  "starter": {
+    "q": "Which 2013 Filipino film by Erik Matti is about prisoners let out at night to carry out killings?",
+    "a": "On the Job"
+  },
+  "topic": "Filipino films",
+  "bonuses": [
+    {
+      "q": "Which 2015 Filipino historical film tells the story of a general of the Philippine Revolution?",
+      "a": "Heneral Luna"
+    },
+    {
+      "q": "Which 1982 Filipino film starring Nora Aunor is about a girl who claims to see the Virgin Mary?",
+      "a": "Himala"
+    },
+    {
+      "q": "Which Filipino director won the Golden Lion at Venice in 2016 for 'The Woman Who Left'?",
+      "a": "Lav Diaz"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.7302903+08:00"
+}

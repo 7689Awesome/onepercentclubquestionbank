@@ -1,0 +1,24 @@
+{
+  "id": "gkseed142",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Japanese company, whose mascot is Hello Kitty, also created My Melody and Kuromi?",
+    "a": "Sanrio"
+  },
+  "topic": "Japanese brands",
+  "bonuses": [
+    {
+      "q": "Which Japanese company makes the Corolla and Prius?",
+      "a": "Toyota"
+    },
+    {
+      "q": "Which Japanese fashion retailer sells HeatTech clothing?",
+      "a": "Uniqlo"
+    },
+    {
+      "q": "Which Japanese company makes the Pokémon video games along with Game Freak?",
+      "a": "Nintendo"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.9287465+08:00"
+}

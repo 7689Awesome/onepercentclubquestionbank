@@ -1,0 +1,24 @@
+{
+  "id": "gkseed287",
+  "kind": "standard",
+  "starter": {
+    "q": "Which canal, opened in 1869, cut the journey from Europe to Asia?",
+    "a": "The Suez Canal"
+  },
+  "topic": "Canals and waterways",
+  "bonuses": [
+    {
+      "q": "Which canal crosses an isthmus in Central America?",
+      "a": "The Panama Canal"
+    },
+    {
+      "q": "Which ancient Chinese canal is the longest in the world?",
+      "a": "The Grand Canal"
+    },
+    {
+      "q": "Which English city is often said to have more miles of canal than Venice?",
+      "a": "Birmingham"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.4011785+08:00"
+}

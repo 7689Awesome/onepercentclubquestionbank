@@ -1,0 +1,24 @@
+{
+  "id": "gkseed191",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to the decentralised digital ledger, shared across many computers, that records Bitcoin transactions?",
+    "a": "The blockchain"
+  },
+  "topic": "Cryptocurrency",
+  "bonuses": [
+    {
+      "q": "What is the pseudonym of the unknown creator of Bitcoin?",
+      "a": "Satoshi Nakamoto"
+    },
+    {
+      "q": "Which cryptocurrency platform, proposed by Vitalik Buterin, introduced smart contracts?",
+      "a": "Ethereum"
+    },
+    {
+      "q": "What three-letter abbreviation is used for unique digital tokens, such as artworks, that boomed in 2021?",
+      "a": "NFT (non-fungible token)"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.8769287+08:00"
+}

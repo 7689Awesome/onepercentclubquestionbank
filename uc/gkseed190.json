@@ -1,0 +1,24 @@
+{
+  "id": "gkseed190",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Liverpool band, whose members were John, Paul, George and Ringo, released the album Abbey Road in 1969?",
+    "a": "The Beatles"
+  },
+  "topic": "The Beatles",
+  "bonuses": [
+    {
+      "q": "Which Beatles album, released in 1967, has the full title of a fictional band's 'Lonely Hearts Club Band'?",
+      "a": "Sgt. Pepper's Lonely Hearts Club Band"
+    },
+    {
+      "q": "In which Liverpool club did the Beatles play nearly three hundred times in the early 1960s?",
+      "a": "The Cavern Club"
+    },
+    {
+      "q": "Who was the Beatles' manager until his death in 1967?",
+      "a": "Brian Epstein"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.859684+08:00"
+}

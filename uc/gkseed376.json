@@ -1,0 +1,24 @@
+{
+  "id": "gkseed376",
+  "kind": "standard",
+  "starter": {
+    "q": "Which two Spanish football clubs contest 'El Clásico'?",
+    "a": "Real Madrid and Barcelona"
+  },
+  "topic": "Rivalries",
+  "bonuses": [
+    {
+      "q": "Which two tech companies made the rival consoles PlayStation and Xbox?",
+      "a": "Sony and Microsoft"
+    },
+    {
+      "q": "Which two soft drinks companies fought the 'Cola Wars'?",
+      "a": "Coca-Cola and Pepsi"
+    },
+    {
+      "q": "Which two Philippine TV networks have a long rivalry, nicknamed 'Kapamilya' and 'Kapuso'?",
+      "a": "ABS-CBN and GMA"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.8343791+08:00"
+}
