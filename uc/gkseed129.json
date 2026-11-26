@@ -1,0 +1,24 @@
+{
+  "id": "gkseed129",
+  "kind": "standard",
+  "starter": {
+    "q": "Which fictional British spy, created by Ian Fleming, has the code number 007?",
+    "a": "James Bond"
+  },
+  "topic": "James Bond",
+  "bonuses": [
+    {
+      "q": "Which actor played Bond in Casino Royale and No Time to Die?",
+      "a": "Daniel Craig"
+    },
+    {
+      "q": "Which singer sang the theme for Skyfall?",
+      "a": "Adele"
+    },
+    {
+      "q": "What is the name of the gadget master in the Bond films?",
+      "a": "Q"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.899488+08:00"
+}

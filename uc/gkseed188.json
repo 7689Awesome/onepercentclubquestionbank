@@ -1,0 +1,24 @@
+{
+  "id": "gkseed188",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Italian composer wrote the operas La traviata, Rigoletto and Aida?",
+    "a": "Giuseppe Verdi"
+  },
+  "topic": "Opera",
+  "bonuses": [
+    {
+      "q": "Which Puccini opera, set in Paris, is about poor young artists and the seamstress Mimì?",
+      "a": "La bohème"
+    },
+    {
+      "q": "In which Mozart opera does the Queen of the Night sing a famously high aria?",
+      "a": "The Magic Flute"
+    },
+    {
+      "q": "Which four-opera cycle by Richard Wagner includes Die Walküre?",
+      "a": "The Ring of the Nibelung (Der Ring des Nibelungen)"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.8468873+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed106",
+  "kind": "standard",
+  "starter": {
+    "q": "Which American sprinter won the 100 metres at the 2024 Paris Olympics by five thousandths of a second?",
+    "a": "Noah Lyles"
+  },
+  "topic": "Athletics",
+  "bonuses": [
+    {
+      "q": "Which Jamaican holds the men's 100m world record of 9.58 seconds?",
+      "a": "Usain Bolt"
+    },
+    {
+      "q": "Which Swedish pole vaulter has repeatedly broken the world record?",
+      "a": "Armand Duplantis"
+    },
+    {
+      "q": "Which Kenyan was the first to run a marathon in under two hours, in an unofficial event?",
+      "a": "Eliud Kipchoge"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8492946+08:00"
+}

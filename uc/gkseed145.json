@@ -1,0 +1,24 @@
+{
+  "id": "gkseed145",
+  "kind": "standard",
+  "starter": {
+    "q": "Which yellow cartoon sponge lives in a pineapple under the sea?",
+    "a": "SpongeBob SquarePants"
+  },
+  "topic": "Cartoons",
+  "bonuses": [
+    {
+      "q": "Which cartoon features the Blue Heeler puppy Bluey and her sister Bingo?",
+      "a": "Bluey"
+    },
+    {
+      "q": "Which cartoon follows a boy called Finn and his dog Jake?",
+      "a": "Adventure Time"
+    },
+    {
+      "q": "Which cartoon follows Aang, the last airbender?",
+      "a": "Avatar: The Last Airbender"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.9330491+08:00"
+}

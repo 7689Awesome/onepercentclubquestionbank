@@ -1,0 +1,24 @@
+{
+  "id": "gkseed90",
+  "kind": "standard",
+  "starter": {
+    "q": "Which South Korean company, founded in 1938 as a trading business, now makes the Galaxy range of smartphones?",
+    "a": "Samsung"
+  },
+  "topic": "Asian tech giants",
+  "bonuses": [
+    {
+      "q": "Which Chinese company makes the TikTok app?",
+      "a": "ByteDance"
+    },
+    {
+      "q": "Which Japanese company makes the PlayStation?",
+      "a": "Sony"
+    },
+    {
+      "q": "Which Taiwanese company is the world's largest maker of computer chips?",
+      "a": "TSMC"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8153773+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed72",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Italian scientist is said to have dropped balls from the Leaning Tower of Pisa, and improved the telescope to observe Jupiter's moons?",
+    "a": "Galileo Galilei"
+  },
+  "topic": "Scientists and their discoveries",
+  "bonuses": [
+    {
+      "q": "Which scientist discovered penicillin in 1928?",
+      "a": "Alexander Fleming"
+    },
+    {
+      "q": "Which scientist is famous for the theory of relativity and E equals m c squared?",
+      "a": "Albert Einstein"
+    },
+    {
+      "q": "Which scientist, the first person to win Nobel Prizes in two sciences, discovered radium and polonium?",
+      "a": "Marie Curie"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7793802+08:00"
+}

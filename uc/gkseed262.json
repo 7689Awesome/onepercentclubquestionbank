@@ -1,0 +1,24 @@
+{
+  "id": "gkseed262",
+  "kind": "standard",
+  "starter": {
+    "q": "Which caterpillar eats through a lot of food before becoming a butterfly in Eric Carle's book?",
+    "a": "The Very Hungry Caterpillar"
+  },
+  "topic": "Children's books",
+  "bonuses": [
+    {
+      "q": "Which Dr. Seuss character hates Christmas?",
+      "a": "The Grinch"
+    },
+    {
+      "q": "Which author created Paddington Bear?",
+      "a": "Michael Bond"
+    },
+    {
+      "q": "Which author wrote and illustrated 'Where the Wild Things Are'?",
+      "a": "Maurice Sendak"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.9833415+08:00"
+}

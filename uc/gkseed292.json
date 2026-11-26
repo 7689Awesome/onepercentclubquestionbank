@@ -1,0 +1,24 @@
+{
+  "id": "gkseed292",
+  "kind": "standard",
+  "starter": {
+    "q": "Which strong-smelling fermented bean curd is a famous Taiwanese night-market snack?",
+    "a": "Stinky tofu"
+  },
+  "topic": "Taiwan",
+  "bonuses": [
+    {
+      "q": "Which drink with tapioca balls was invented in Taiwan in the 1980s?",
+      "a": "Bubble tea"
+    },
+    {
+      "q": "Which Taiwanese-born director made 'Crouching Tiger, Hidden Dragon' and 'Life of Pi'?",
+      "a": "Ang Lee"
+    },
+    {
+      "q": "Which lake is Taiwan's largest?",
+      "a": "Sun Moon Lake"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.4683453+08:00"
+}

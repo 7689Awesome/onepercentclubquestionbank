@@ -1,0 +1,24 @@
+{
+  "id": "gkseed272",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Paris prison was stormed on 14 July 1789?",
+    "a": "The Bastille"
+  },
+  "topic": "The French Revolution",
+  "bonuses": [
+    {
+      "q": "Which device became the symbol of the Reign of Terror?",
+      "a": "The guillotine"
+    },
+    {
+      "q": "Which revolutionary leader led the Committee of Public Safety during the Terror?",
+      "a": "Maximilien Robespierre"
+    },
+    {
+      "q": "What was the revolutionary motto of France?",
+      "a": "Liberté, égalité, fraternité"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.2020841+08:00"
+}

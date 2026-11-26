@@ -1,0 +1,24 @@
+{
+  "id": "gkseed258",
+  "kind": "standard",
+  "starter": {
+    "q": "Which comic-strip beagle belongs to Charlie Brown?",
+    "a": "Snoopy"
+  },
+  "topic": "Comics and cartoons",
+  "bonuses": [
+    {
+      "q": "Which lasagne-loving cat was created by Jim Davis?",
+      "a": "Garfield"
+    },
+    {
+      "q": "Which Belgian comic follows a young reporter and his dog Snowy?",
+      "a": "The Adventures of Tintin"
+    },
+    {
+      "q": "Which Japanese artist, called 'the god of manga', created Astro Boy?",
+      "a": "Osamu Tezuka"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.933521+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed73",
+  "kind": "standard",
+  "starter": {
+    "q": "Which streaming service, launched in 2019, is home to The Mandalorian and the Marvel series WandaVision?",
+    "a": "Disney+"
+  },
+  "topic": "Streaming services",
+  "bonuses": [
+    {
+      "q": "Which streaming service makes Stranger Things and Squid Game?",
+      "a": "Netflix"
+    },
+    {
+      "q": "Which company's streaming service makes The Boys and Fallout?",
+      "a": "Amazon (Prime Video)"
+    },
+    {
+      "q": "Which streaming service produced Ted Lasso and Severance?",
+      "a": "Apple TV+"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7806863+08:00"
+}

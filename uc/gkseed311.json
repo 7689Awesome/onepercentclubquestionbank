@@ -1,0 +1,24 @@
+{
+  "id": "gkseed311",
+  "kind": "standard",
+  "starter": {
+    "q": "What type of rock forms from cooled magma or lava?",
+    "a": "Igneous"
+  },
+  "topic": "Rocks",
+  "bonuses": [
+    {
+      "q": "What type of rock forms from layers of sediment, such as sandstone?",
+      "a": "Sedimentary"
+    },
+    {
+      "q": "What type of rock forms when existing rock is changed by heat and pressure, such as marble?",
+      "a": "Metamorphic"
+    },
+    {
+      "q": "Which black volcanic glass was used for sharp tools?",
+      "a": "Obsidian"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.7610417+08:00"
+}

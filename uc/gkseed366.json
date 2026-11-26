@@ -1,0 +1,24 @@
+{
+  "id": "gkseed366",
+  "kind": "standard",
+  "starter": {
+    "q": "Which theme park opened in California in 1955?",
+    "a": "Disneyland"
+  },
+  "topic": "Theme parks",
+  "bonuses": [
+    {
+      "q": "Which Japanese theme park in Osaka features Super Nintendo World?",
+      "a": "Universal Studios Japan"
+    },
+    {
+      "q": "Which Philippine theme park in Laguna has rides like the 'Space Shuttle'?",
+      "a": "Enchanted Kingdom"
+    },
+    {
+      "q": "Which Danish amusement park in Copenhagen is one of the oldest in the world?",
+      "a": "Tivoli Gardens"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.5926056+08:00"
+}

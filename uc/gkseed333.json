@@ -1,0 +1,24 @@
+{
+  "id": "gkseed333",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Indonesian fried rice dish is often topped with a fried egg?",
+    "a": "Nasi goreng"
+  },
+  "topic": "Southeast Asian food",
+  "bonuses": [
+    {
+      "q": "Which Malaysian flatbread is flipped and stretched and served with curry?",
+      "a": "Roti canai"
+    },
+    {
+      "q": "Which Thai green or red dish is cooked with coconut milk?",
+      "a": "Thai curry"
+    },
+    {
+      "q": "Which Singaporean dish is crab cooked in a sweet and spicy tomato-chilli sauce?",
+      "a": "Chilli crab"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.1483604+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed266",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Athenian statesman led the city in its golden age and gave a famous funeral oration early in the Peloponnesian War?",
+    "a": "Pericles"
+  },
+  "topic": "Ancient Greece",
+  "bonuses": [
+    {
+      "q": "Which Greek city-state was famous for its warrior culture and fought at Thermopylae?",
+      "a": "Sparta"
+    },
+    {
+      "q": "Which hill in Athens is crowned by the Parthenon?",
+      "a": "The Acropolis"
+    },
+    {
+      "q": "Which Greek historian is called 'the Father of History'?",
+      "a": "Herodotus"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.0595936+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed83",
+  "kind": "standard",
+  "starter": {
+    "q": "Which hormone, produced in the pancreas, controls the level of sugar in the blood?",
+    "a": "Insulin"
+  },
+  "topic": "Hormones",
+  "bonuses": [
+    {
+      "q": "Which hormone, released in moments of fear, is also called epinephrine?",
+      "a": "Adrenaline"
+    },
+    {
+      "q": "Which hormone, produced at night, helps control sleep?",
+      "a": "Melatonin"
+    },
+    {
+      "q": "Which hormone is known as the 'stress hormone'?",
+      "a": "Cortisol"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8013378+08:00"
+}

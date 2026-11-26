@@ -1,0 +1,24 @@
+{
+  "id": "gkseed381",
+  "kind": "standard",
+  "starter": {
+    "q": "How many deadly sins are there in Christian tradition?",
+    "a": "Seven"
+  },
+  "topic": "Seven of anything",
+  "bonuses": [
+    {
+      "q": "How many dwarfs live with Snow White?",
+      "a": "Seven"
+    },
+    {
+      "q": "How many hills was Rome built on?",
+      "a": "Seven"
+    },
+    {
+      "q": "How many wonders of the ancient world were there?",
+      "a": "Seven"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.9420777+08:00"
+}

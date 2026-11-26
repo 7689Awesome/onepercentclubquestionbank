@@ -1,0 +1,24 @@
+{
+  "id": "gkseed343",
+  "kind": "standard",
+  "starter": {
+    "q": "Which everyday word comes from the Earl who ate meat between bread so he could keep gambling?",
+    "a": "Sandwich"
+  },
+  "topic": "Word origins",
+  "bonuses": [
+    {
+      "q": "Which word for a violent tropical storm comes from the name of a Taíno storm god?",
+      "a": "Hurricane"
+    },
+    {
+      "q": "Which word for a sleeping bag-like hanging bed comes from the Taíno language?",
+      "a": "Hammock"
+    },
+    {
+      "q": "Which word for a ruler with absolute power comes from Russian 'Caesar'?",
+      "a": "Tsar"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.2764852+08:00"
+}

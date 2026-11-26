@@ -1,0 +1,24 @@
+{
+  "id": "gkseed218",
+  "kind": "standard",
+  "starter": {
+    "q": "What name is given to the smaller tremors that follow a large earthquake?",
+    "a": "Aftershocks"
+  },
+  "topic": "Natural disasters",
+  "bonuses": [
+    {
+      "q": "What name is given to a fast-moving current of hot gas and volcanic debris that races down a volcano's slopes?",
+      "a": "A pyroclastic flow"
+    },
+    {
+      "q": "In which year did the Indian Ocean tsunami strike on Boxing Day?",
+      "a": "2004"
+    },
+    {
+      "q": "Which country was struck by a major earthquake and tsunami in March 2011 that caused the Fukushima nuclear disaster?",
+      "a": "Japan"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.3338736+08:00"
+}

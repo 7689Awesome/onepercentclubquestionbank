@@ -1,0 +1,24 @@
+{
+  "id": "gkseed81",
+  "kind": "standard",
+  "starter": {
+    "q": "Which programming language, named after a British comedy group, is known for its simple syntax and use in data science?",
+    "a": "Python"
+  },
+  "topic": "Programming",
+  "bonuses": [
+    {
+      "q": "Which language is used with HTML and CSS to make web pages interactive?",
+      "a": "JavaScript"
+    },
+    {
+      "q": "Which Apple language, launched in 2014, is used to make iPhone apps?",
+      "a": "Swift"
+    },
+    {
+      "q": "What three-letter acronym describes the language used to query databases?",
+      "a": "SQL (Structured Query Language)"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7981296+08:00"
+}

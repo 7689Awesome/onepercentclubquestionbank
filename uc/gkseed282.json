@@ -1,0 +1,24 @@
+{
+  "id": "gkseed282",
+  "kind": "standard",
+  "starter": {
+    "q": "Which 1955–56 boycott in Alabama followed Rosa Parks's arrest?",
+    "a": "The Montgomery bus boycott"
+  },
+  "topic": "Protests and movements",
+  "bonuses": [
+    {
+      "q": "Which 1930 protest march by Gandhi was against the British tax on which substance?",
+      "a": "Salt"
+    },
+    {
+      "q": "Which 1989 protests in Beijing ended in a military crackdown?",
+      "a": "The Tiananmen Square protests"
+    },
+    {
+      "q": "Which 2019 Hong Kong protests began over a proposed law on what?",
+      "a": "Extradition"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.3224956+08:00"
+}

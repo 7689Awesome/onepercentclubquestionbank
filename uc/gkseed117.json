@@ -1,0 +1,24 @@
+{
+  "id": "gkseed117",
+  "kind": "standard",
+  "starter": {
+    "q": "Which country hosted the 2002 FIFA World Cup jointly with Japan, the first held in Asia?",
+    "a": "South Korea"
+  },
+  "topic": "Asian football",
+  "bonuses": [
+    {
+      "q": "Which South Korean forward captained Tottenham Hotspur?",
+      "a": "Son Heung-min"
+    },
+    {
+      "q": "Which country did Japan beat in a shock win at the 2022 World Cup group stage, along with Germany?",
+      "a": "Spain"
+    },
+    {
+      "q": "Which country won the 2023 AFC Asian Cup, held in early 2024?",
+      "a": "Qatar"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.874456+08:00"
+}

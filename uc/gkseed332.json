@@ -1,0 +1,24 @@
+{
+  "id": "gkseed332",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Cantonese meal of small dishes is eaten with tea?",
+    "a": "Dim sum"
+  },
+  "topic": "Chinese food",
+  "bonuses": [
+    {
+      "q": "Which Sichuan spice causes a tingling, numbing feeling?",
+      "a": "Sichuan pepper"
+    },
+    {
+      "q": "Which Chinese dish is pork with a sweet red glaze, often in buns?",
+      "a": "Char siu"
+    },
+    {
+      "q": "Which Chinese pastry eaten at the Mid-Autumn Festival is filled with lotus paste?",
+      "a": "Mooncake"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.1367502+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed289",
+  "kind": "standard",
+  "starter": {
+    "q": "Which microstate on the French Riviera is famous for its casino and Grand Prix?",
+    "a": "Monaco"
+  },
+  "topic": "Microstates",
+  "bonuses": [
+    {
+      "q": "Which microstate in the Pyrenees is a co-principality led by the French president and a Spanish bishop?",
+      "a": "Andorra"
+    },
+    {
+      "q": "Which landlocked microstate is surrounded by Italy and claims to be the oldest republic?",
+      "a": "San Marino"
+    },
+    {
+      "q": "Which microstate between Switzerland and Austria is a principality?",
+      "a": "Liechtenstein"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.4280695+08:00"
+}

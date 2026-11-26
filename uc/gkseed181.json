@@ -1,0 +1,24 @@
+{
+  "id": "gkseed181",
+  "kind": "standard",
+  "starter": {
+    "q": "Which building in Dubai, opened in 2010 at a height of 828 metres, is the tallest in the world?",
+    "a": "The Burj Khalifa"
+  },
+  "topic": "Skyscrapers",
+  "bonuses": [
+    {
+      "q": "Which Chicago building, completed in 1885, is often called the world's first skyscraper?",
+      "a": "The Home Insurance Building"
+    },
+    {
+      "q": "Which skyscraper replaced the Twin Towers as the tallest building in New York in 2014?",
+      "a": "One World Trade Center"
+    },
+    {
+      "q": "Which Taipei skyscraper, named for its number of floors, was the world's tallest from 2004 to 2010?",
+      "a": "Taipei 101"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.7660107+08:00"
+}

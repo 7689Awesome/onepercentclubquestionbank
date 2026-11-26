@@ -1,0 +1,24 @@
+{
+  "id": "gkseed400",
+  "kind": "standard",
+  "starter": {
+    "q": "Which sport involves sliding stones on ice towards a target called the house?",
+    "a": "Curling"
+  },
+  "topic": "Winter sports",
+  "bonuses": [
+    {
+      "q": "Which sport sees athletes slide head-first on a small sled?",
+      "a": "Skeleton"
+    },
+    {
+      "q": "Which Japanese figure skater won Olympic gold in 2014 and 2018?",
+      "a": "Yuzuru Hanyu"
+    },
+    {
+      "q": "Which country has won the most Winter Olympic medals?",
+      "a": "Norway"
+    }
+  ],
+  "updated": "2026-11-21T20:01:02.2839784+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed56",
+  "kind": "standard",
+  "starter": {
+    "q": "Which social media platform, launched in 2016 as Douyin in China, became famous worldwide for short videos and its For You Page?",
+    "a": "TikTok"
+  },
+  "topic": "Social media",
+  "bonuses": [
+    {
+      "q": "Which platform, founded in 2003, is designed for professional networking?",
+      "a": "LinkedIn"
+    },
+    {
+      "q": "Which image-sharing site, launched in 2010, lets users save ideas to 'boards'?",
+      "a": "Pinterest"
+    },
+    {
+      "q": "Which app, popular with gamers, organises chats into servers and channels?",
+      "a": "Discord"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.7452819+08:00"
+}

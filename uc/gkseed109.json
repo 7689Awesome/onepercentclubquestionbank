@@ -1,0 +1,24 @@
+{
+  "id": "gkseed109",
+  "kind": "standard",
+  "starter": {
+    "q": "Which country, the world's most populous since 2023, has its capital at New Delhi?",
+    "a": "India"
+  },
+  "topic": "India",
+  "bonuses": [
+    {
+      "q": "Which Indian city was formerly known as Bombay?",
+      "a": "Mumbai"
+    },
+    {
+      "q": "What is the name of India's film industry based in Mumbai?",
+      "a": "Bollywood"
+    },
+    {
+      "q": "Which river, sacred in Hinduism, flows through Varanasi?",
+      "a": "The Ganges"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.8585159+08:00"
+}

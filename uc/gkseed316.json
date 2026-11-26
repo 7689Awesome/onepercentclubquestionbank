@@ -1,0 +1,24 @@
+{
+  "id": "gkseed316",
+  "kind": "standard",
+  "starter": {
+    "q": "How many bones does an adult human have?",
+    "a": "206"
+  },
+  "topic": "The skeleton",
+  "bonuses": [
+    {
+      "q": "Roughly how many bones is a newborn baby born with, before some fuse together?",
+      "a": "About 300"
+    },
+    {
+      "q": "Which bones protect the lungs and heart?",
+      "a": "The ribs"
+    },
+    {
+      "q": "What is the common name for the patella?",
+      "a": "The kneecap"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.8267117+08:00"
+}

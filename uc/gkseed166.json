@@ -1,0 +1,24 @@
+{
+  "id": "gkseed166",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Welsh-born author created characters including the Big Friendly Giant, Matilda and Willy Wonka?",
+    "a": "Roald Dahl"
+  },
+  "topic": "Roald Dahl",
+  "bonuses": [
+    {
+      "q": "In Charlie and the Chocolate Factory, what does Charlie find in his bar of chocolate that wins him a visit to the factory?",
+      "a": "A Golden Ticket"
+    },
+    {
+      "q": "In Matilda, what is the name of the tyrannical headmistress who swings a pupil by her pigtails?",
+      "a": "Miss Trunchbull"
+    },
+    {
+      "q": "In James and the Giant Peach, James travels across the ocean inside a peach carried by which birds?",
+      "a": "Seagulls"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.6067593+08:00"
+}

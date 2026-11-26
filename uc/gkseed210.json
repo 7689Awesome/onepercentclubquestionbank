@@ -1,0 +1,24 @@
+{
+  "id": "gkseed210",
+  "kind": "standard",
+  "starter": {
+    "q": "Which reef system off Queensland is the largest structure built by living things and can be seen from space?",
+    "a": "The Great Barrier Reef"
+  },
+  "topic": "Coral reefs",
+  "bonuses": [
+    {
+      "q": "What name is given to the loss of colour in coral when stressed by warm water?",
+      "a": "Coral bleaching"
+    },
+    {
+      "q": "Which triangle-shaped area of the western Pacific, including the Philippines, has the greatest marine biodiversity?",
+      "a": "The Coral Triangle"
+    },
+    {
+      "q": "Which Philippine marine park in the Sulu Sea is a UNESCO World Heritage Site?",
+      "a": "Tubbataha Reefs Natural Park"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.2301558+08:00"
+}

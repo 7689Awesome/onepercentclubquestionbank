@@ -1,0 +1,24 @@
+{
+  "id": "gkseed368",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Netflix series from Spain follows 'the Professor' and his robbers?",
+    "a": "Money Heist (La Casa de Papel)"
+  },
+  "topic": "Netflix originals",
+  "bonuses": [
+    {
+      "q": "Which Netflix series is about a teenager who records tapes explaining why she died?",
+      "a": "13 Reasons Why"
+    },
+    {
+      "q": "Which Netflix series follows Geralt of Rivia?",
+      "a": "The Witcher"
+    },
+    {
+      "q": "Which Netflix series follows a drug kingpin, Pablo Escobar?",
+      "a": "Narcos"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.6146093+08:00"
+}

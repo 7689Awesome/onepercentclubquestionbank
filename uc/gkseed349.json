@@ -1,0 +1,24 @@
+{
+  "id": "gkseed349",
+  "kind": "standard",
+  "starter": {
+    "q": "In which country do Christmas songs and decorations start in September, the first of the 'ber' months?",
+    "a": "The Philippines"
+  },
+  "topic": "Christmas around the world",
+  "bonuses": [
+    {
+      "q": "In which country is eating KFC a popular Christmas tradition?",
+      "a": "Japan"
+    },
+    {
+      "q": "Which red-flowered plant from Mexico is a Christmas decoration?",
+      "a": "The poinsettia"
+    },
+    {
+      "q": "What is the Dutch name for Santa Claus, who arrives by boat in early December?",
+      "a": "Sinterklaas"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.3607327+08:00"
+}

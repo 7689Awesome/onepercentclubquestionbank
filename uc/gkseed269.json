@@ -1,0 +1,24 @@
+{
+  "id": "gkseed269",
+  "kind": "standard",
+  "starter": {
+    "q": "In which Italian city did the Renaissance begin, under the patronage of the Medici family?",
+    "a": "Florence"
+  },
+  "topic": "The Renaissance",
+  "bonuses": [
+    {
+      "q": "Which Florentine wrote 'The Prince', a guide to political power?",
+      "a": "Niccolò Machiavelli"
+    },
+    {
+      "q": "Which Renaissance painter's 'The Birth of Venus' hangs in the Uffizi?",
+      "a": "Sandro Botticelli"
+    },
+    {
+      "q": "Which painter's 'School of Athens' decorates the Vatican?",
+      "a": "Raphael"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.1503711+08:00"
+}

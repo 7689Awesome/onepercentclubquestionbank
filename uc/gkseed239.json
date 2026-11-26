@@ -1,0 +1,24 @@
+{
+  "id": "gkseed239",
+  "kind": "standard",
+  "starter": {
+    "q": "Which 1965 film musical follows the von Trapp family in Austria?",
+    "a": "The Sound of Music"
+  },
+  "topic": "Musicals on film",
+  "bonuses": [
+    {
+      "q": "Which 2017 musical film stars Hugh Jackman as P. T. Barnum?",
+      "a": "The Greatest Showman"
+    },
+    {
+      "q": "Which 1978 film musical stars John Travolta and Olivia Newton-John at Rydell High?",
+      "a": "Grease"
+    },
+    {
+      "q": "Which 2008 jukebox musical film uses ABBA songs on a Greek island?",
+      "a": "Mamma Mia!"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.6022606+08:00"
+}

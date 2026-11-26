@@ -1,0 +1,24 @@
+{
+  "id": "gkseed220",
+  "kind": "standard",
+  "starter": {
+    "q": "Which cave system in Kentucky, USA, is the longest known in the world, with over 680 kilometres mapped?",
+    "a": "Mammoth Cave"
+  },
+  "topic": "Caves",
+  "bonuses": [
+    {
+      "q": "Which Philippine underground river in Palawan was named one of the New 7 Wonders of Nature?",
+      "a": "Puerto Princesa Subterranean River"
+    },
+    {
+      "q": "What name is given to icicle-like formations hanging from a cave ceiling?",
+      "a": "Stalactites"
+    },
+    {
+      "q": "What name is given to formations rising from a cave floor?",
+      "a": "Stalagmites"
+    }
+  ],
+  "updated": "2026-11-21T20:00:59.3433206+08:00"
+}

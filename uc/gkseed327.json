@@ -1,0 +1,24 @@
+{
+  "id": "gkseed327",
+  "kind": "standard",
+  "starter": {
+    "q": "Which tabletop role-playing game, first published in 1974, uses a twenty-sided die?",
+    "a": "Dungeons \u0026 Dragons"
+  },
+  "topic": "Role-playing games",
+  "bonuses": [
+    {
+      "q": "Which Square Enix series features Cloud Strife and Sephiroth?",
+      "a": "Final Fantasy"
+    },
+    {
+      "q": "Which Bethesda series includes 'Skyrim'?",
+      "a": "The Elder Scrolls"
+    },
+    {
+      "q": "Which RPG series by Atlus follows students who become Phantom Thieves?",
+      "a": "Persona"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.0327987+08:00"
+}

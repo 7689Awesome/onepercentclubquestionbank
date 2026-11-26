@@ -1,0 +1,24 @@
+{
+  "id": "gkseed340",
+  "kind": "standard",
+  "starter": {
+    "q": "What does 'ATM' stand for?",
+    "a": "Automated teller machine"
+  },
+  "topic": "Shopping and money",
+  "bonuses": [
+    {
+      "q": "What name is given to the global standard for barcodes on products?",
+      "a": "UPC/EAN (barcode)"
+    },
+    {
+      "q": "Which shopping day falls the day after American Thanksgiving?",
+      "a": "Black Friday"
+    },
+    {
+      "q": "Which date, '11.11', is the world's biggest online shopping festival?",
+      "a": "Singles' Day"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.2461201+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed160",
+  "kind": "standard",
+  "starter": {
+    "q": "Which bone, running along the outer side of the lower leg beside the tibia, shares its name with a Latin word for a brooch or clasp?",
+    "a": "The fibula"
+  },
+  "topic": "Bones",
+  "bonuses": [
+    {
+      "q": "Which is the longest and strongest bone in the human body?",
+      "a": "The femur (thigh bone)"
+    },
+    {
+      "q": "Which three tiny bones of the middle ear are commonly called the hammer, anvil and stirrup?",
+      "a": "The malleus, incus and stapes (ossicles)"
+    },
+    {
+      "q": "Which bone, the only one in the neck not connected to another bone, supports the tongue?",
+      "a": "The hyoid"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.5342619+08:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gkseed275",
+  "kind": "standard",
+  "starter": {
+    "q": "In which year did Indonesia declare independence from the Netherlands?",
+    "a": "1945"
+  },
+  "topic": "Decolonisation in Asia",
+  "bonuses": [
+    {
+      "q": "In which year did the Philippines gain full independence from the United States?",
+      "a": "1946"
+    },
+    {
+      "q": "In which year did Malaya gain independence from Britain?",
+      "a": "1957"
+    },
+    {
+      "q": "From which country did Singapore separate in 1965 to become independent?",
+      "a": "Malaysia"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.2261649+08:00"
+}

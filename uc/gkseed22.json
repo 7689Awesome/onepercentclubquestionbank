@@ -1,0 +1,24 @@
+{
+  "id": "gkseed22",
+  "kind": "standard",
+  "starter": {
+    "q": "Which is the largest living species of bird, which also lays the largest eggs of any living bird?",
+    "a": "The ostrich"
+  },
+  "topic": "Flightless birds",
+  "bonuses": [
+    {
+      "q": "Which flightless bird is a national symbol of New Zealand, and gives New Zealanders a nickname?",
+      "a": "The kiwi"
+    },
+    {
+      "q": "Which flightless bird, found only on Mauritius, was extinct by the end of the seventeenth century?",
+      "a": "The dodo"
+    },
+    {
+      "q": "Which large flightless bird appears with a kangaroo on Australia's coat of arms?",
+      "a": "The emu"
+    }
+  ],
+  "updated": "2026-10-21T10:28:25.4300815+02:00"
+}

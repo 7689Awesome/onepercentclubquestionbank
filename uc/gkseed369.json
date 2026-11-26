@@ -1,0 +1,24 @@
+{
+  "id": "gkseed369",
+  "kind": "standard",
+  "starter": {
+    "q": "Which game show asks contestants to answer in the form of a question?",
+    "a": "Jeopardy!"
+  },
+  "topic": "Game shows",
+  "bonuses": [
+    {
+      "q": "Which game show's top prize was one million pounds, with lifelines like 'Phone a Friend'?",
+      "a": "Who Wants to Be a Millionaire?"
+    },
+    {
+      "q": "Which game show has contestants guessing the most popular survey answers?",
+      "a": "Family Feud"
+    },
+    {
+      "q": "Which game show asks contestants to spin a wheel and solve word puzzles?",
+      "a": "Wheel of Fortune"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.63474+08:00"
+}

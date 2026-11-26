@@ -1,0 +1,24 @@
+{
+  "id": "gkseed402",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Swiss chocolate brand's bar is triangular?",
+    "a": "Toblerone"
+  },
+  "topic": "Chocolate brands",
+  "bonuses": [
+    {
+      "q": "Which British chocolate company makes Dairy Milk?",
+      "a": "Cadbury"
+    },
+    {
+      "q": "Which Italian company makes Nutella and Ferrero Rocher?",
+      "a": "Ferrero"
+    },
+    {
+      "q": "Which chocolate bar's slogan says 'Have a break'?",
+      "a": "KitKat"
+    }
+  ],
+  "updated": "2026-11-21T20:01:02.3075442+08:00"
+}

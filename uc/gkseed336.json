@@ -1,0 +1,24 @@
+{
+  "id": "gkseed336",
+  "kind": "standard",
+  "starter": {
+    "q": "Which mother sauce of French cuisine is made from butter, flour and milk?",
+    "a": "Béchamel"
+  },
+  "topic": "Sauces and condiments",
+  "bonuses": [
+    {
+      "q": "Which sauce is made from egg yolks and butter and served with eggs Benedict?",
+      "a": "Hollandaise"
+    },
+    {
+      "q": "Which British sauce was created in a Midlands city and contains anchovies?",
+      "a": "Worcestershire sauce"
+    },
+    {
+      "q": "Which Filipino banana ketchup was invented as a substitute for tomato ketchup?",
+      "a": "Banana ketchup"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.1790615+08:00"
+}

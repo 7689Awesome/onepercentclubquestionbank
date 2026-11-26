@@ -1,0 +1,24 @@
+{
+  "id": "gkseed374",
+  "kind": "standard",
+  "starter": {
+    "q": "Which comedy duo were Stan and Ollie?",
+    "a": "Laurel and Hardy"
+  },
+  "topic": "Famous duos",
+  "bonuses": [
+    {
+      "q": "Which cartoon cat and mouse duo were created by Hanna and Barbera?",
+      "a": "Tom and Jerry"
+    },
+    {
+      "q": "Which Filipino comedian brothers co-host 'Eat Bulaga!' with Joey de Leon?",
+      "a": "Tito and Vic Sotto"
+    },
+    {
+      "q": "Which duo sang 'The Sound of Silence'?",
+      "a": "Simon \u0026 Garfunkel"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.7696462+08:00"
+}

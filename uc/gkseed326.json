@@ -1,0 +1,24 @@
+{
+  "id": "gkseed326",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Nintendo racing series features items like banana peels and blue shells?",
+    "a": "Mario Kart"
+  },
+  "topic": "Racing games and cars",
+  "bonuses": [
+    {
+      "q": "Which Sony racing series is subtitled 'The Real Driving Simulator'?",
+      "a": "Gran Turismo"
+    },
+    {
+      "q": "Which Microsoft racing series includes 'Horizon' open-world games?",
+      "a": "Forza"
+    },
+    {
+      "q": "Which game series, starting in 1994, involves escaping police in fast cars?",
+      "a": "Need for Speed"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.0232487+08:00"
+}

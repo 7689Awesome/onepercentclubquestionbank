@@ -1,0 +1,24 @@
+{
+  "id": "gkseed363",
+  "kind": "standard",
+  "starter": {
+    "q": "Which company's founders started it in a garage in Los Altos in 1976?",
+    "a": "Apple"
+  },
+  "topic": "Famous companies",
+  "bonuses": [
+    {
+      "q": "Which company, founded in 1886 in Atlanta, sells the world's most famous soft drink?",
+      "a": "Coca-Cola"
+    },
+    {
+      "q": "Which Swedish company, founded by Ingvar Kamprad in 1943, gives its furniture Scandinavian names?",
+      "a": "IKEA"
+    },
+    {
+      "q": "Which Korean company began in 1938 selling dried fish and noodles?",
+      "a": "Samsung"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.561752+08:00"
+}

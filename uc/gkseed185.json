@@ -1,0 +1,24 @@
+{
+  "id": "gkseed185",
+  "kind": "standard",
+  "starter": {
+    "q": "Which typeface, designed in 1957 in Switzerland, takes its name from the Latin word for that country?",
+    "a": "Helvetica"
+  },
+  "topic": "Typography",
+  "bonuses": [
+    {
+      "q": "What name is given to the small strokes at the ends of letters in fonts such as Times New Roman?",
+      "a": "Serifs"
+    },
+    {
+      "q": "Which much-mocked informal typeface, designed for Microsoft in 1994, was based on comic-book lettering?",
+      "a": "Comic Sans"
+    },
+    {
+      "q": "What is the name of the '\u0026' symbol, originally a joined form of the Latin 'et'?",
+      "a": "The ampersand"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.8152763+08:00"
+}

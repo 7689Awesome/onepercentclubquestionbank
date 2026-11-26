@@ -1,0 +1,24 @@
+{
+  "id": "gkseed378",
+  "kind": "standard",
+  "starter": {
+    "q": "Which singer has won the most Grammy Awards?",
+    "a": "Beyoncé"
+  },
+  "topic": "Records",
+  "bonuses": [
+    {
+      "q": "Which film was the first to earn over two billion dollars at the box office?",
+      "a": "Avatar"
+    },
+    {
+      "q": "Who is the most-followed person on Instagram?",
+      "a": "Cristiano Ronaldo"
+    },
+    {
+      "q": "Which runner holds the women's 100m world record, set in 1988?",
+      "a": "Florence Griffith-Joyner"
+    }
+  ],
+  "updated": "2026-11-21T20:01:01.8632673+08:00"
+}

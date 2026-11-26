@@ -1,0 +1,24 @@
+{
+  "id": "gkseed53",
+  "kind": "standard",
+  "starter": {
+    "q": "In the Harry Potter books, what is the name of the platform at King's Cross from which the Hogwarts Express departs?",
+    "a": "Platform Nine and Three-Quarters"
+  },
+  "topic": "Harry Potter",
+  "bonuses": [
+    {
+      "q": "What is the name of the three-headed dog guarding the Philosopher's Stone?",
+      "a": "Fluffy"
+    },
+    {
+      "q": "What is the name of the wizarding bank run by goblins?",
+      "a": "Gringotts"
+    },
+    {
+      "q": "Which spell, spoken as 'Expecto Patronum', conjures a guardian to drive away Dementors?",
+      "a": "The Patronus Charm"
+    }
+  ],
+  "updated": "2026-11-03T06:11:42.739158+08:00"
+}

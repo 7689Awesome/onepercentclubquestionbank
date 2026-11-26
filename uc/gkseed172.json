@@ -1,0 +1,24 @@
+{
+  "id": "gkseed172",
+  "kind": "standard",
+  "starter": {
+    "q": "Which Malaysian landmark, at 452 metres, was the tallest building in the world from 1998 until 2004?",
+    "a": "The Petronas Towers"
+  },
+  "topic": "Malaysia",
+  "bonuses": [
+    {
+      "q": "What is the capital of the Malaysian state of Sarawak on Borneo?",
+      "a": "Kuching"
+    },
+    {
+      "q": "Which administrative city, south of Kuala Lumpur, became Malaysia's federal government centre around 1999?",
+      "a": "Putrajaya"
+    },
+    {
+      "q": "Which Malaysian state, on the north-west coast, has George Town as its capital?",
+      "a": "Penang"
+    }
+  ],
+  "updated": "2026-11-21T20:00:58.6677509+08:00"
+}

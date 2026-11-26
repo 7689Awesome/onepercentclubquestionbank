@@ -1,0 +1,24 @@
+{
+  "id": "gkseed264",
+  "kind": "standard",
+  "starter": {
+    "q": "Which José Rizal novel is the sequel to 'Noli Me Tángere'?",
+    "a": "El Filibusterismo"
+  },
+  "topic": "Filipino literature",
+  "bonuses": [
+    {
+      "q": "Which Filipino poet wrote 'Florante at Laura'?",
+      "a": "Francisco Balagtas"
+    },
+    {
+      "q": "Which Filipino National Artist for Literature wrote 'Dekada '70'?",
+      "a": "Lualhati Bautista"
+    },
+    {
+      "q": "Which epic of the Ilocano people follows the hero Lam-ang?",
+      "a": "Biag ni Lam-ang"
+    }
+  ],
+  "updated": "2026-11-21T20:01:00.046842+08:00"
+}
