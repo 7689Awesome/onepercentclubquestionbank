@@ -1,0 +1,255 @@
+{
+  "id": "8fe17130d32e1d67",
+  "name": "UK S5E1",
+  "updated": "2026-10-14T01:56:37.5124609+08:00",
+  "questions": [
+    {
+      "level": 90,
+      "kind": "text",
+      "text": "What four-lettered word is shared by these two pictures?",
+      "image": "/media/onepct/032beba0d65107def59adc07.png",
+      "answer": 0,
+      "accept": [
+        "tear"
+      ],
+      "answerText": "tear",
+      "textHtml": "What four-lettered word is shared by these two pictures?",
+      "answerHtml": "tear",
+      "check": "auto"
+    },
+    {
+      "level": 80,
+      "kind": "text",
+      "text": "What sport is depicted here?",
+      "image": "/media/onepct/b371d4e779b0a605b312009d.png",
+      "answer": 0,
+      "accept": [
+        "rugby"
+      ],
+      "answerText": "rugby",
+      "why": "rug + bee = rugby",
+      "textHtml": "What sport is depicted here?",
+      "whyHtml": "rug + bee = rugby",
+      "answerHtml": "rugby",
+      "check": "auto"
+    },
+    {
+      "level": 70,
+      "kind": "text",
+      "text": "Which two of these animals join together to form a word which is not an animal? (Format: X and Y, any order)",
+      "image": "/media/onepct/445551be7c766ed2bc85f0f5.png",
+      "answer": 0,
+      "accept": [
+        "seal and ant",
+        "ant and seal"
+      ],
+      "answerText": "seal and ant",
+      "why": "Seal + ant = sealant",
+      "textHtml": "Which two of these animals join together to form a word which is not an animal? (Format: X and Y, any order)",
+      "whyHtml": "Seal + ant = sealant",
+      "answerHtml": "seal and ant",
+      "check": "auto"
+    },
+    {
+      "level": 60,
+      "kind": "text",
+      "text": "At the local supermarket, a meal deal consists of a drink, a sandwich, and a snack. Sam bought the items shown on the right for some friends. How many complete meal deals did Sam qualify for?",
+      "image": "/media/onepct/08e2a9fab75b1a23980b0860.png",
+      "answer": 0,
+      "accept": [
+        "4",
+        "four"
+      ],
+      "answerText": "4",
+      "answerImage": "/media/onepct/6d0fee36c3a98d09a51beb15.png",
+      "why": "The leftover items (two sandwiches and a drink) do not qualify for the meal deal.",
+      "textHtml": "At the local supermarket, a meal deal consists of a drink, a sandwich, and a snack. Sam bought the items shown on the right for some friends. How many complete meal deals did Sam qualify for?",
+      "whyHtml": "The leftover items (two sandwiches and a drink) do not qualify for the meal deal.",
+      "answerHtml": "4",
+      "check": "auto"
+    },
+    {
+      "level": 50,
+      "kind": "choice",
+      "text": "Gloria is playing a game where she tells you two truths and one lie about herself. Which of these statements is the lie?",
+      "options": [
+        "I was born when my parents' ages both contained the numbers 2 and 3",
+        "When I turned 18, my mother was 50 years old and my father was 41",
+        "My parents were both born on February 29, 11 years apart?"
+      ],
+      "answer": 2,
+      "why": "Two ways to deduce. 1) Assume A is true; that means 32 and 23, so from B, 32 + 18 = 50 and 23 + 18 = 41, so B is also correct; C is the lie. 2) C can never be true as Feb. 29 only happens every 4 years and 11 is not a multiple of 4.",
+      "textHtml": "Gloria is playing a game where she tells you two truths and one lie about herself. Which of these statements is the lie?",
+      "whyHtml": "Two ways to deduce. 1) Assume A is true; that means 32 and 23, so from B, 32 + 18 = 50 and 23 + 18 = 41, so B is also correct; C is the lie. 2) C can never be true as Feb. 29 only happens every 4 years and 11 is not a multiple of 4.",
+      "optionsHtml": [
+        "I was born when my parents\u0026#39; ages both contained the numbers 2 and 3",
+        "When I turned 18, my mother was 50 years old and my father was 41",
+        "My parents were both born on February 29, 11 years apart?"
+      ]
+    },
+    {
+      "level": 45,
+      "kind": "text",
+      "text": "What single letter replaces the question marks to create three words?",
+      "image": "/media/onepct/698b9cf9f91b1267d7f277e6.png",
+      "answer": 0,
+      "accept": [
+        "K"
+      ],
+      "answerText": "K",
+      "answerImage": "/media/onepct/4fb1309303973d1bdae4a7e5.png",
+      "textHtml": "What single letter replaces the question marks to create three words?",
+      "answerHtml": "K",
+      "check": "auto"
+    },
+    {
+      "level": 40,
+      "kind": "choice",
+      "text": "Which of these replaces the question mark to make the name of a country?",
+      "image": "/media/onepct/c77da8d03a2ab4abaa0271af.png",
+      "options": [
+        "Picture A",
+        "Picture B",
+        "Picture C"
+      ],
+      "answer": 2,
+      "why": "Co STAR ica = Costa Rica",
+      "textHtml": "Which of these replaces the question mark to make the name of a country?",
+      "whyHtml": "Co \u003cspan style=\"color: rgb(255, 93, 115)\"\u003e\u003cspan style=\"font-weight: bold\"\u003eSTAR\u003c/span\u003e \u003c/span\u003eica = Costa Rica",
+      "optionImages": [
+        "/media/onepct/10ff082e0c73745deafb2610.png",
+        "/media/onepct/c5ab9f38c75fc5fbb7fd0c47.png",
+        "/media/onepct/68d6e14afa4c7730567f94de.png"
+      ]
+    },
+    {
+      "level": 35,
+      "kind": "text",
+      "text": "If you put all five shapes into the grid without rotating them, what is the letter and number combination of the only square that won't be used? (Format example: Z8)",
+      "image": "/media/onepct/ebdbdfe87ce0b3e804c1bb3f.png",
+      "answer": 0,
+      "accept": [
+        "C2",
+        "C 2"
+      ],
+      "answerText": "C2",
+      "answerImage": "/media/onepct/a12535f251d6e355b5d958f0.png",
+      "textHtml": "If you put all five shapes into the grid without rotating them, what is the letter and number combination of the only square that won\u0026#39;t be used? (Format example: Z8)",
+      "answerHtml": "C2",
+      "check": "auto"
+    },
+    {
+      "level": 30,
+      "kind": "text",
+      "text": "Which of the names listed below when inserted somewhere into the word PARENT makes it into a new word with a new definition? (Type only the letter of your answer)",
+      "image": "/media/onepct/009179a54210366e92ee2fc0.png",
+      "answer": 0,
+      "accept": [
+        "C"
+      ],
+      "answerText": "C",
+      "why": "PARLIAMENT",
+      "textHtml": "Which of the names listed below when inserted somewhere into the word PARENT makes it into a new word with a new definition? (Type only the letter of your answer)",
+      "whyHtml": "PAR\u003cspan style=\"font-weight: bold; color: rgb(255, 93, 115)\"\u003eLIAM\u003c/span\u003eENT",
+      "answerHtml": "C",
+      "check": "auto"
+    },
+    {
+      "level": 25,
+      "kind": "text",
+      "text": "Which two digits do you need to swap to make the solution to this math problem correct? (Format example: X and Y, any order works)",
+      "image": "/media/onepct/b9c429d62fca882e735fbf49.png",
+      "answer": 0,
+      "accept": [
+        "2 and 9",
+        "9 and 2"
+      ],
+      "answerText": "2 and 9",
+      "answerImage": "/media/onepct/1d173ebb51a057c73bef02f6.png",
+      "textHtml": "Which two digits do you need to swap to make the solution to this math problem correct? (Format example: X and Y, any order works)",
+      "answerHtml": "2 and 9",
+      "check": "auto"
+    },
+    {
+      "level": 20,
+      "kind": "text",
+      "text": "In week 1, Harry is at number 1 in the charts and Justin is at number 10. If, each week, Harry moves down two places and Justin moves up two places, in which week will Justin overtake Harry? (Type only the number)",
+      "answer": 0,
+      "accept": [
+        "4",
+        "four"
+      ],
+      "answerText": "4",
+      "answerImage": "/media/onepct/08c87280eb24cdad305553cb.png",
+      "textHtml": "In week 1, Harry is at number 1 in the charts and Justin is at number 10. If, each week, Harry moves down two places and Justin moves up two places, in which week will Justin overtake Harry? (Type only the number)",
+      "answerHtml": "4",
+      "check": "auto"
+    },
+    {
+      "level": 15,
+      "kind": "text",
+      "text": "There is one single letter that you can use to replace a letter in each of the words below so the first one becomes a different food, the second one becomes a different body part, and the third one becomes a different animal. What is the letter?",
+      "image": "/media/onepct/8100bd772fcfe43432719b20.png",
+      "answer": 0,
+      "accept": [
+        "R"
+      ],
+      "answerText": "R",
+      "answerImage": "/media/onepct/a4d756378d0de5edf358adc4.png",
+      "textHtml": "There is one single letter that you can use to replace a letter in each of the words below so the first one becomes a different food, the second one becomes a different body part, and the third one becomes a different animal. What is the letter?",
+      "answerHtml": "R",
+      "check": "auto"
+    },
+    {
+      "level": 10,
+      "kind": "text",
+      "text": "Going from Image A to Image B, how many emojis have NOT been rotated 90 degrees clockwise?",
+      "image": "/media/onepct/d577b99e3311858de88e65cb.png",
+      "answer": 0,
+      "accept": [
+        "1",
+        "one"
+      ],
+      "answerText": "1",
+      "answerImage": "/media/onepct/f3c08690ed46bc11ab6cbed6.png",
+      "why": "The highlighted emoji has been rotated 180 degrees.",
+      "textHtml": "Going from Image A to Image B, how many emojis have NOT been rotated 90 degrees clockwise?",
+      "whyHtml": "The highlighted emoji has been rotated 180 degrees.",
+      "answerHtml": "1",
+      "check": "auto"
+    },
+    {
+      "level": 5,
+      "kind": "text",
+      "text": "There are two commonly used two-letter words that share the same letters. If you take the opposites of those two words, you should now have two three-letter words. What are those new words? (Format: X and Y, any order)",
+      "answer": 0,
+      "accept": [
+        "Yes and off",
+        "Off and yes"
+      ],
+      "answerText": "Yes and off",
+      "why": "The 2 two-letter words are NO and ON and their opposites are YES and OFF.",
+      "textHtml": "There are two commonly used two-letter words that share the same letters. If you take the opposites of those two words, you should now have two three-letter words. What are those new words? (Format: X and Y, any order)",
+      "whyHtml": "The 2 two-letter words are NO and ON and their opposites are YES and OFF.",
+      "answerHtml": "Yes and off",
+      "check": "auto"
+    },
+    {
+      "level": 1,
+      "kind": "text",
+      "text": "Look at the image below. Beginning at the START each time, LLL = A, and RRR = H. What word is represented by the following? LLR LLL LRR RRL RLL",
+      "image": "/media/onepct/ff9cd46f61e42b236b89f4bf.png",
+      "answer": 0,
+      "accept": [
+        "BADGE"
+      ],
+      "answerText": "BADGE",
+      "answerImage": "/media/onepct/acd3339f09001bc95365a2f2.png",
+      "why": "L and R represent Left and Right and dictate where you go at each junction.",
+      "textHtml": "Look at the image below. Beginning at the START each time, LLL = A, and RRR = H. What word is represented by the following? \u003cspan style=\"font-weight: bold; font-size: xx-large\"\u003eLLR LLL LRR RRL RLL\u003c/span\u003e",
+      "whyHtml": "L and R represent Left and Right and dictate where you go at each junction.",
+      "answerHtml": "BADGE",
+      "check": "auto"
+    }
+  ]
+}
